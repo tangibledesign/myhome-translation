@@ -1,0 +1,1758 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MyHome\n"
+"POT-Creation-Date: 2017-05-22 13:36+0200\n"
+"PO-Revision-Date: 2017-05-30 17:54+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19 includes/class-myhome-redux.php:1846
+#: includes/class-myhome-redux.php:1855
+msgid "404"
+msgstr "404 No existe el contenido que quieres ver"
+
+#: 404.php:20 includes/class-myhome-redux.php:1862
+msgid "Page not found"
+msgstr "Página no encontrada"
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Un comentario "
+msgstr[1] "%1$s comentario"
+
+#: includes/class-myhome-acf.php:38
+msgid "Page settings"
+msgstr "Opciones de página"
+
+#: includes/class-myhome-acf.php:53
+msgid "Menu"
+msgstr "Menú"
+
+#: includes/class-myhome-acf.php:58
+msgid "Default"
+msgstr "Predeterminado"
+
+#: includes/class-myhome-acf.php:59
+msgid "Transparent"
+msgstr "Transparente"
+
+#: includes/class-myhome-acf.php:61
+msgid "Transparent - dark gradient"
+msgstr "Transparente - gradiente oscuro"
+
+#: includes/class-myhome-comments.php:39
+msgid "Send comment"
+msgstr "Envía comentario"
+
+#: includes/class-myhome-comments.php:81
+msgid "Comment navigation"
+msgstr "Navegación de comentario "
+
+#: includes/class-myhome-comments.php:82
+msgid "&larr; Older Comments"
+msgstr "Comentarios pasados"
+
+#: includes/class-myhome-comments.php:83
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: includes/class-myhome-comments.php:114
+msgid "Name*"
+msgstr "Nombre*"
+
+#: includes/class-myhome-comments.php:118
+msgid "Email*"
+msgstr "Correo electrónico*"
+
+#: includes/class-myhome-comments.php:121
+msgid "Website"
+msgstr "Página web"
+
+#: includes/class-myhome-comments.php:126
+msgid "Comment"
+msgstr "Comentario"
+
+#: includes/class-myhome-comments.php:131
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Hay que estar<a href=\"%s\">registrado</a> para postar un comentario."
+
+#: includes/class-myhome-comments.php:137
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Registrado como<a href=\"%1$s\">%2$s</a>."
+
+#: includes/class-myhome-comments.php:141
+msgid "Log out of this account"
+msgstr "Cierre la sesión de esta cuenta"
+
+#: includes/class-myhome-comments.php:142
+msgid "Log out &raquo;"
+msgstr "Desloguearse &raquo;"
+
+#: includes/class-myhome-comments.php:144
+msgid "Send Comment"
+msgstr "Envía comentario"
+
+#: includes/class-myhome-comments.php:146
+msgid "Leave a reply"
+msgstr "Deja una respuesta"
+
+#: includes/class-myhome-comments.php:147
+#, php-format
+msgid "Comment to %s"
+msgstr "Comentario a %s"
+
+#: includes/class-myhome-comments.php:160
+msgid "Your comment is awaiting moderation"
+msgstr "Su comentario está pendiente de moderación"
+
+#: includes/class-myhome-comments.php:174
+msgid "edit comment"
+msgstr "editar comentario"
+
+#: includes/class-myhome-comments.php:185
+msgid "Reply"
+msgstr "Repetición"
+
+#: includes/class-myhome-comments.php:202
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 comentario"
+msgstr[1] "%1$s comentario"
+
+#: includes/class-myhome-comments.php:213
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: includes/class-myhome-init.php:64 includes/class-myhome-init.php:66
+msgid "Enter client name"
+msgstr "Introduzca el nombre del cliente"
+
+#: includes/class-myhome-init.php:86
+msgid ""
+"MyHome Theme - Google API Key is not set. Paste your Google Maps Api Key in "
+"your theme option to display map."
+msgstr ""
+"Tema de MyHome: la clave de API de Google no está establecida. Pegue su "
+"clave Api de Google Maps en su opción de tema para mostrar el mapa."
+
+#: includes/class-myhome-init.php:122
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+"Para ver esta entrada protegida, introduzca la contraseña a continuación:"
+
+#: includes/class-myhome-init.php:127
+msgid "Submit"
+msgstr "Presentar"
+
+#: includes/class-myhome-init.php:203 templates/searchform.php:2
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: includes/class-myhome-init.php:204
+msgid "Search ..."
+msgstr "Buscar..."
+
+#: includes/class-myhome-init.php:239
+msgid "MH Sidebar"
+msgstr "Barra lateral MH"
+
+#: includes/class-myhome-init.php:241 includes/class-myhome-init.php:251
+#: includes/class-myhome-init.php:261 includes/class-myhome-init.php:271
+msgid "Add widgets here."
+msgstr "Añadir widgets aquí."
+
+#: includes/class-myhome-init.php:249
+msgid "MH Sidebar Footer"
+msgstr "Barra lateral de pie de página MH"
+
+#: includes/class-myhome-init.php:259
+msgid "MH Listing"
+msgstr "Lista de MH"
+
+#: includes/class-myhome-init.php:269
+msgid "MH Property Page"
+msgstr "Página de propiedades de MH"
+
+#: includes/class-myhome-layout.php:914 includes/class-myhome-redux.php:859
+msgid "Read more"
+msgstr "Leer más"
+
+#: includes/class-myhome-plugins.php:56
+msgid "MyHome Core"
+msgstr "Centro de MyHome"
+
+#: includes/class-myhome-plugins.php:66
+msgid "Advanced Custom Fields PRO"
+msgstr "Campos avanzados personalizados PRO"
+
+#: includes/class-myhome-plugins.php:76
+msgid "WPBakery Visual Composer"
+msgstr "WPBakery Compositor visual"
+
+#: includes/class-myhome-plugins.php:86
+msgid "Contact Form 7"
+msgstr "Formulario de contacto 7"
+
+#: includes/class-myhome-plugins.php:95
+msgid "Redux Framework"
+msgstr "Sistema de Redux"
+
+#: includes/class-myhome-plugins.php:104
+msgid "Slider Revolution"
+msgstr "Deslizador Revolución"
+
+#: includes/class-myhome-plugins.php:114
+msgid "Mega Main Menu"
+msgstr "Mega Menú Principal"
+
+#: includes/class-myhome-plugins.php:124
+msgid "Ultimate Addons for Visual Composer"
+msgstr "Complementos máximos  para Compositor Visual"
+
+#: includes/class-myhome-plugins.php:134
+msgid "Easy Social Share Buttons"
+msgstr "Botones de fácil share en Redes Sociales"
+
+#: includes/class-myhome-plugins.php:144
+msgid "MyHome Demo Importer"
+msgstr "Importador MyHome Demo versión"
+
+#: includes/class-myhome-redux.php:101
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: includes/class-myhome-redux.php:102
+msgid "MyHome Options"
+msgstr "MyHome opciones"
+
+#: includes/class-myhome-redux.php:138 includes/class-myhome-redux.php:1014
+#: includes/class-myhome-redux.php:1224
+msgid "General"
+msgstr "General"
+
+#: includes/class-myhome-redux.php:146 includes/class-myhome-redux.php:321
+msgid "Primary color"
+msgstr "Color primario"
+
+#: includes/class-myhome-redux.php:147
+msgid "Set primary color for all elements"
+msgstr "Establecer el color primario de todos los elementos"
+
+#: includes/class-myhome-redux.php:318
+msgid "Active inputs style"
+msgstr "Estilo de las entradas activas"
+
+#: includes/class-myhome-redux.php:322 includes/class-myhome-redux.php:961
+msgid "Gray"
+msgstr "Gris"
+
+#: includes/class-myhome-redux.php:329
+msgid "Google API Key"
+msgstr "Clave de la API de Google"
+
+#: includes/class-myhome-redux.php:330
+msgid ""
+"Following instruction with images, can be found in your documentation:"
+"<br><br>\n"
+"                        1. Go https://developers.google.com/maps/"
+"documentation/javascript/ <br>\n"
+"                        2. Sign in with your Google Account <br>\n"
+"                        3. Click \"GET A KEY\" button <br>\n"
+"                        4. Enter new project name <br>\n"
+"                        5. Select Yes below \"I agree that my use of any "
+"services and related APIs is subject to my compliance with the applicable "
+"Terms of Service.\" <br>\n"
+"                        6. Click - \"CREATE AND ENABLE API\" button <br>\n"
+"                        7. Copy Your API Key into this field             \n"
+"                        "
+msgstr ""
+"Siguiendo instrucciones con imágenes, puede encontrarse en su documentación: "
+"<br> <br>\n"
+"                         1. Vaya a https://developers.google.com/maps/"
+"documentation/javascript/ <br>\n"
+"                         2. Inicie sesión con su cuenta de Google <br>\n"
+"                         3. Haga clic en el botón \"GET A KEY\"\n"
+"                         4. Introduzca un nuevo nombre de proyecto <br>\n"
+"                         5. Seleccione Sí a continuación \"Estoy de acuerdo "
+"en que mi uso de los servicios y API relacionados está sujeto a mi "
+"conformidad con los Términos de servicio aplicables\". <br>\n"
+"                         6. Haga clic en el botón \"CREATE AND ENABLE API\" "
+"<br>\n"
+"                         7. Copie su clave de API en este campo          "
+
+#: includes/class-myhome-redux.php:343
+msgid "Map style"
+msgstr "Estilo de mapa"
+
+#: includes/class-myhome-redux.php:346
+msgid "MyHome gray palette"
+msgstr "Paleta gris de MyHome"
+
+#: includes/class-myhome-redux.php:347
+msgid "Default by Google"
+msgstr "Predeterminado por Google"
+
+#: includes/class-myhome-redux.php:348
+msgid "Custom (Snazzy Maps)"
+msgstr "Personalizado (Mapas elegantes)"
+
+#: includes/class-myhome-redux.php:354
+msgid "Snazzy Maps"
+msgstr "Mapas elegantes"
+
+#: includes/class-myhome-redux.php:355
+msgid ""
+"Visit: https://snazzymaps.com/ - find your favorite map and copy "
+"\"JAVASCRIPT STYLE ARRAY\""
+msgstr ""
+"Visite: https://snazzymaps.com/ - find your favorite map and copy "
+"\"JAVASCRIPT STYLE ARRAY\""
+
+#: includes/class-myhome-redux.php:373
+msgid "Typography"
+msgstr "Tipografia"
+
+#: includes/class-myhome-redux.php:381
+msgid "Main font"
+msgstr "Fuente principal"
+
+#: includes/class-myhome-redux.php:419
+msgid "Main font - italic"
+msgstr "Fuente principal - italic"
+
+#: includes/class-myhome-redux.php:420
+msgid "Leave empty if \"Main Font\" has no separate italic version."
+msgstr ""
+"Dejar vacío si \"Fuente principal\" no tiene una versión itálica separada."
+
+#: includes/class-myhome-redux.php:441
+msgid "Main font - bold (700)"
+msgstr "Fuente principal - negrita (700)"
+
+#: includes/class-myhome-redux.php:467
+msgid "Heading font"
+msgstr "Título de la fuente"
+
+#: includes/class-myhome-redux.php:505
+msgid "Heading font - bold (700)"
+msgstr "Título de la fuente - negrita(700)"
+
+#: includes/class-myhome-redux.php:536
+msgid "RTL text direction"
+msgstr "RTL dirección del texto"
+
+#: includes/class-myhome-redux.php:537
+msgid "Right to left text direction"
+msgstr "Derecho a izquierda dirección del texto"
+
+#: includes/class-myhome-redux.php:551
+msgid "Header"
+msgstr "Cabecera"
+
+#: includes/class-myhome-redux.php:560
+msgid "Header general"
+msgstr "Cbecera General"
+
+#: includes/class-myhome-redux.php:568
+msgid "This is a default logo for desktop and mobile menu"
+msgstr "Este es un logotipo predeterminado para el escritorio y el menú móvil"
+
+#: includes/class-myhome-redux.php:570
+msgid "Logo Default"
+msgstr "Logotipo predeterminado"
+
+#: includes/class-myhome-redux.php:576
+msgid "This logo will be used on pages with transparent menu only"
+msgstr "Este logotipo se utilizará en páginas con menú transparente solamente"
+
+#: includes/class-myhome-redux.php:578
+msgid "Additional logo for the transparent menu"
+msgstr "Logotipo adicional para el menú transparente"
+
+#: includes/class-myhome-redux.php:584
+msgid "Full width menu and top bars container"
+msgstr "Contenedor de menú de anchura total y barras superiores"
+
+#: includes/class-myhome-redux.php:585
+msgid "By default max width is 1170px, but you can change it for fullwidth"
+msgstr ""
+"El ancho predeterminado máximo es 1170px, pero se puede cambiar para el "
+"ancho total"
+
+#: includes/class-myhome-redux.php:592
+msgid "Menu background \"primary color\""
+msgstr "Fondo del menú \"color primario\""
+
+#: includes/class-myhome-redux.php:593
+msgid ""
+"Change the menu background into primary color and first level items font "
+"color into white"
+msgstr ""
+"Cambiar el color del fondo del menú en colores primarios y de primer nivel "
+"en blanco"
+
+#: includes/class-myhome-redux.php:601
+msgid "Logo height (px)"
+msgstr "Altura del logotipo (px)"
+
+#: includes/class-myhome-redux.php:602
+msgid "Height of the default logo and logo for transparent menu."
+msgstr "Altura del logocpredetermindo y el logotipo de menú transparente."
+
+#: includes/class-myhome-redux.php:609
+msgid "Logo Margin Top (px)"
+msgstr "Logotipo Margin Top (px)"
+
+#: includes/class-myhome-redux.php:616
+msgid "Desktop Menu Height (px)"
+msgstr "Altura del menú de escritorio (px)"
+
+#: includes/class-myhome-redux.php:617 includes/class-myhome-redux.php:624
+#: includes/class-myhome-redux.php:638 includes/class-myhome-redux.php:646
+msgid "Mega Main Menu plugin must be active"
+msgstr "El complemento Mega Main Menu tiene que estar activo"
+
+#: includes/class-myhome-redux.php:623
+msgid "First level item align"
+msgstr "Elemento de primer nivel alineado"
+
+#: includes/class-myhome-redux.php:626
+msgid "left"
+msgstr "izquierda"
+
+#: includes/class-myhome-redux.php:627
+msgid "right"
+msgstr "derecha"
+
+#: includes/class-myhome-redux.php:628
+msgid "center"
+msgstr "centro"
+
+#: includes/class-myhome-redux.php:637
+msgid "Font size of first level item (px)"
+msgstr "Tamaño de fuente del objęto de primer nivel (px)"
+
+#: includes/class-myhome-redux.php:645
+msgid "Font size of the dropdown menu item (px)"
+msgstr "Tamaño de fuente del objeto de menú desplegable (px)"
+
+#: includes/class-myhome-redux.php:656 includes/class-myhome-redux.php:664
+msgid "Top bar"
+msgstr "Barra superior"
+
+#: includes/class-myhome-redux.php:665
+msgid "Additional bar with contact information at the top of the menu"
+msgstr ""
+"Barra adicional con información de contacto en la parte superior del menú"
+
+#: includes/class-myhome-redux.php:667
+msgid "none"
+msgstr "ninguno"
+
+#: includes/class-myhome-redux.php:668
+msgid "Small - white background"
+msgstr "Pequeño - fondo blanco"
+
+#: includes/class-myhome-redux.php:669
+msgid "Small - primary color background"
+msgstr "Pequeño - fondo de color primario"
+
+#: includes/class-myhome-redux.php:670
+msgid "Big - white background"
+msgstr "Grande - fondo blanco"
+
+#: includes/class-myhome-redux.php:678
+msgid "Hide top bar on mobile"
+msgstr "Ocultar barra superior en el móvil"
+
+#: includes/class-myhome-redux.php:688
+msgid ""
+"This logo will be displayed for screens larger than 1024px only. On mobile "
+"theme will still use \"Default Logo\""
+msgstr ""
+"Este logotipo se mostrará sólo para pantallas de más de 1024px. En tema "
+"móvil seguirá utilizando \"Logotipo predeterminado\""
+
+#: includes/class-myhome-redux.php:690
+msgid "Logo - Top Bar Big"
+msgstr "Logo - Top Bar Grande"
+
+#: includes/class-myhome-redux.php:700
+msgid "Logo - Top Bar Big height (px)"
+msgstr "Logo - Top Bar gran altura (px)"
+
+#: includes/class-myhome-redux.php:712
+msgid "Logo - Top Bar Big margin top (px)"
+msgstr "Logo - Top Bar grande margen top (px)"
+
+#: includes/class-myhome-redux.php:724 includes/class-myhome-redux.php:1809
+msgid "518-520 5th Ave, New York, USA"
+msgstr "518-520 5th Ave, New York, USA"
+
+#: includes/class-myhome-redux.php:726
+msgid "Address"
+msgstr "Dirección"
+
+#: includes/class-myhome-redux.php:736 includes/class-myhome-redux.php:1785
+msgid "(123) 345-6789"
+msgstr "(123) 345-6789"
+
+#: includes/class-myhome-redux.php:738 includes/class-myhome-redux.php:1297
+msgid "Phone"
+msgstr "Teléfono"
+
+#: includes/class-myhome-redux.php:748
+msgid "support@tangibledesign.net"
+msgstr "support@tangibledesign.net"
+
+#: includes/class-myhome-redux.php:750
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/class-myhome-redux.php:760 includes/class-myhome-redux.php:772
+#: includes/class-myhome-redux.php:784 includes/class-myhome-redux.php:796
+msgid "#"
+msgstr "#"
+
+#: includes/class-myhome-redux.php:762
+msgid "Facebook (URL)"
+msgstr "Facebook (URL)"
+
+#: includes/class-myhome-redux.php:774
+msgid "Linkedin (URL)"
+msgstr "Linkedin (URL)"
+
+#: includes/class-myhome-redux.php:786
+msgid "Twitter (URL)"
+msgstr "Twitter (URL)"
+
+#: includes/class-myhome-redux.php:798
+msgid "Instagram (URL)"
+msgstr "Instagram (URL)"
+
+#: includes/class-myhome-redux.php:818 templates/top-title.php:43
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/class-myhome-redux.php:828
+msgid "Blog general"
+msgstr "Blog general"
+
+#: includes/class-myhome-redux.php:836
+msgid "Sidebar position"
+msgstr "Sidebar posicion"
+
+#: includes/class-myhome-redux.php:838 includes/class-myhome-redux.php:1602
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/class-myhome-redux.php:839 includes/class-myhome-redux.php:1603
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/class-myhome-redux.php:847
+msgid "Post grid style"
+msgstr "Estilo de rejilla posterior"
+
+#: includes/class-myhome-redux.php:849 includes/class-myhome-redux.php:926
+msgid "1 column"
+msgstr "1 columna"
+
+#: includes/class-myhome-redux.php:850 includes/class-myhome-redux.php:927
+msgid "2 columns"
+msgstr "2 columnas"
+
+#: includes/class-myhome-redux.php:858
+msgid "Blog: \"Read More\" button text"
+msgstr "Blog: \"Leer más\" texto del botón"
+
+#: includes/class-myhome-redux.php:869
+msgid "Single post"
+msgstr "Unico post"
+
+#: includes/class-myhome-redux.php:877
+msgid "Display an author"
+msgstr "Mostrar un autor"
+
+#: includes/class-myhome-redux.php:884
+msgid "Display tags"
+msgstr "Etiquetas de visualización"
+
+#: includes/class-myhome-redux.php:891
+msgid "Display navigation"
+msgstr "Mostrar navegación"
+
+#: includes/class-myhome-redux.php:898
+msgid "Display comments"
+msgstr "Mostrar comentarios"
+
+#: includes/class-myhome-redux.php:905
+msgid "Display related posts"
+msgstr "Mostrar publicaciones relacionadas"
+
+#: includes/class-myhome-redux.php:912
+msgid "Total number of related posts to display"
+msgstr "Número total de publicaciones relacionadas para mostrar"
+
+#: includes/class-myhome-redux.php:924
+msgid "Related posts style"
+msgstr "Estilo de los artículos relacionados"
+
+#: includes/class-myhome-redux.php:944
+msgid "Blog top title"
+msgstr "Título superior del blog"
+
+#: includes/class-myhome-redux.php:952
+msgid "Display top title on blog"
+msgstr "Mostrar título superior en el blog"
+
+#: includes/class-myhome-redux.php:959
+msgid "Blog top title style"
+msgstr "Estilo del título del blog"
+
+#: includes/class-myhome-redux.php:962
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/class-myhome-redux.php:976
+msgid "Upload background image"
+msgstr "Subir imagen de fondo"
+
+#: includes/class-myhome-redux.php:1004
+msgid "Property options"
+msgstr "Opciones de propiedad"
+
+#: includes/class-myhome-redux.php:1023
+msgid "Single property style"
+msgstr "Estilo de propiedad individual"
+
+#: includes/class-myhome-redux.php:1025
+msgid "Gallery"
+msgstr "Galería"
+
+#: includes/class-myhome-redux.php:1026
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/class-myhome-redux.php:1033
+msgid "Display property video"
+msgstr "Mostrar un video de propiedad"
+
+#: includes/class-myhome-redux.php:1040
+msgid "Display property virtual tour"
+msgstr "Mostrar un camino virtual de la propiedad"
+
+#: includes/class-myhome-redux.php:1047
+msgid "Display property plans"
+msgstr "Mostrar planos de la propiedad"
+
+#: includes/class-myhome-redux.php:1054
+msgid "Display sidebar"
+msgstr "Mostrar barra lateral"
+
+#: includes/class-myhome-redux.php:1061
+msgid "Display sidebar - contact form"
+msgstr "Mostrar barra lateral - formulario de contacto"
+
+#: includes/class-myhome-redux.php:1071
+msgid "Display sidebar - user profile"
+msgstr "Barra lateral de visualización - Perfil de usuario"
+
+#: includes/class-myhome-redux.php:1081
+msgid "Slug"
+msgstr "URL Corto"
+
+#: includes/class-myhome-redux.php:1082
+msgid ""
+"Change slug from http://yourdomain/estate/estate-name to http://yourdomain/"
+"newslug/estate-name"
+msgstr ""
+"Cambie URL Corto de http://yourdomain/estate/estate-name to http://"
+"yourdomain/newslug/estate-name"
+
+#: includes/class-myhome-redux.php:1090 includes/class-myhome-redux.php:1098
+msgid "Offer type"
+msgstr "Tipo de oferta"
+
+#: includes/class-myhome-redux.php:1105
+msgid "Rent label"
+msgstr "Etiqueta de alquiler"
+
+#: includes/class-myhome-redux.php:1106
+msgid "/month"
+msgstr "/mes"
+
+#: includes/class-myhome-redux.php:1115
+msgid "Assign \"Rent label\" to appropriate option"
+msgstr "Asignar \"Etiqueta de alquiler\" a la opción apropiada"
+
+#: includes/class-myhome-redux.php:1116
+msgid "For Rent"
+msgstr "En renta"
+
+#: includes/class-myhome-redux.php:1127
+msgid "Currency"
+msgstr "Moneda"
+
+#: includes/class-myhome-redux.php:1135
+msgid "Currency sign"
+msgstr "Signo de moneda"
+
+#: includes/class-myhome-redux.php:1142
+msgid "Currency sign location"
+msgstr "Ubicación del signo de moneda"
+
+#: includes/class-myhome-redux.php:1144
+msgid "After price"
+msgstr "Precio posterior"
+
+#: includes/class-myhome-redux.php:1145
+msgid "Before price"
+msgstr "Precio anterior"
+
+#: includes/class-myhome-redux.php:1153
+msgid "Thousands separator"
+msgstr "Separador de miles"
+
+#: includes/class-myhome-redux.php:1160
+msgid "Decimal separator"
+msgstr "Separador de decimales"
+
+#: includes/class-myhome-redux.php:1167
+msgid "Decimal"
+msgstr "Decimal"
+
+#: includes/class-myhome-redux.php:1168
+msgid "Sets the number of decimal points."
+msgstr "Pon el número de decimales"
+
+#: includes/class-myhome-redux.php:1177
+msgid "Show near"
+msgstr "Mostrar cercano"
+
+#: includes/class-myhome-redux.php:1184
+msgid "Active at start"
+msgstr "Activo  en comenzar"
+
+#: includes/class-myhome-redux.php:1191
+msgid "Distance unit"
+msgstr "Unidad de distancia"
+
+#: includes/class-myhome-redux.php:1193
+msgid "km"
+msgstr "km"
+
+#: includes/class-myhome-redux.php:1194
+msgid "miles"
+msgstr "millas"
+
+#: includes/class-myhome-redux.php:1202
+msgid "\"show near\" radius (unit set above)"
+msgstr "\"Mostrar cerca\" del radio (unidad establecida arriba)"
+
+#: includes/class-myhome-redux.php:1203
+msgid ""
+"Properties around the selected pin with the set radius will be displayed "
+"after clicking \"Show near\" button."
+msgstr ""
+"Las propiedades alrededor del pin seleccionado con el radio establecido se "
+"mostrarán después de hacer clic en el botón \"Mostrar cerca\"."
+
+#: includes/class-myhome-redux.php:1217
+msgid "Agents and payment"
+msgstr "Agentes y pago"
+
+#: includes/class-myhome-redux.php:1232
+msgid "Disable backend for agent user"
+msgstr "Desactivar el backend para el usuario del agente"
+
+#: includes/class-myhome-redux.php:1239
+msgid "Agent frontend panel"
+msgstr "Panel frontal del agente"
+
+#: includes/class-myhome-redux.php:1246
+msgid "Show submit property button"
+msgstr "Botón de mostrar propiedad de envío"
+
+#: includes/class-myhome-redux.php:1256
+msgid "Panel page URL"
+msgstr "Panel de la pagina URL "
+
+#: includes/class-myhome-redux.php:1257
+msgid "Usually: http://yourdomain/panel/"
+msgstr "Normalmente: http://yourdomain/panel/"
+
+#: includes/class-myhome-redux.php:1267
+msgid "Frontend registration"
+msgstr "Registro de Frontend"
+
+#: includes/class-myhome-redux.php:1277
+msgid "Moderation"
+msgstr "Moderación"
+
+#: includes/class-myhome-redux.php:1278
+msgid "If it is on, property added by user must be accepted by admin to show"
+msgstr ""
+"Si está activado, la propiedad agregada por el usuario tiene que ser "
+"aceptada por admin para mostrar"
+
+#: includes/class-myhome-redux.php:1289
+msgid "Agents"
+msgstr "Agentes"
+
+#: includes/class-myhome-redux.php:1304
+msgid "Display email"
+msgstr "Mostrar correo electrónico"
+
+#: includes/class-myhome-redux.php:1311
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class-myhome-redux.php:1318
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-myhome-redux.php:1325
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/class-myhome-redux.php:1332
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/class-myhome-redux.php:1340
+msgid "Payments"
+msgstr "Pagos"
+
+#: includes/class-myhome-redux.php:1347
+msgid "Payment module"
+msgstr "Modulo de pagos"
+
+#: includes/class-myhome-redux.php:1357
+msgid "Message above payment methods"
+msgstr "Mensaje por encima de los métodos de pago"
+
+#: includes/class-myhome-redux.php:1368
+msgid "Stripe payment"
+msgstr "Pago con franjas"
+
+#: includes/class-myhome-redux.php:1379
+msgid "Stripe currency"
+msgstr "Franja de divisas"
+
+#: includes/class-myhome-redux.php:1391
+msgid "Stripe Cost"
+msgstr "Costo de la banda"
+
+#: includes/class-myhome-redux.php:1403
+msgid "Stripe Secret Key"
+msgstr "Clave secreta de la raya"
+
+#: includes/class-myhome-redux.php:1415
+msgid "Stripe Publishable Key"
+msgstr "Clave publicable raya"
+
+#: includes/class-myhome-redux.php:1427
+msgid "PayPal Payment"
+msgstr "El pago de PayPal"
+
+#: includes/class-myhome-redux.php:1438
+msgid "PayPal locale"
+msgstr "Local PayPal"
+
+#: includes/class-myhome-redux.php:1476
+msgid "PayPal Client ID"
+msgstr "ID de cliente de PayPal"
+
+#: includes/class-myhome-redux.php:1488
+msgid "PayPal Secret"
+msgstr "Secreto de PayPal"
+
+#: includes/class-myhome-redux.php:1500
+msgid "PayPal Sandbox Mode"
+msgstr "Modo de Sandbox de PayPal"
+
+#: includes/class-myhome-redux.php:1512
+msgid "PayPal Currency"
+msgstr "Moneda de PayPal"
+
+#: includes/class-myhome-redux.php:1524
+msgid "PayPal Cost"
+msgstr "Coste de PayPal"
+
+#: includes/class-myhome-redux.php:1546
+msgid "Default view"
+msgstr "Vista predeterminada"
+
+#: includes/class-myhome-redux.php:1549
+msgid "Two columns"
+msgstr "Dos columnas"
+
+#: includes/class-myhome-redux.php:1550
+msgid "Three columns"
+msgstr "Tres columnas"
+
+#: includes/class-myhome-redux.php:1551
+msgid "Row"
+msgstr "Fila"
+
+#: includes/class-myhome-redux.php:1558
+msgid "Properties limit"
+msgstr "Límite de propiedades"
+
+#: includes/class-myhome-redux.php:1565
+msgid "Lazy loading"
+msgstr "Carga lenta"
+
+#: includes/class-myhome-redux.php:1572
+msgid "Show load more button after N loads"
+msgstr "Mostrar el botón de carga más después de N cargas"
+
+#: includes/class-myhome-redux.php:1584
+msgid "Load more button label"
+msgstr "Cargar más etiqueta del botón"
+
+#: includes/class-myhome-redux.php:1585
+msgid "Load more"
+msgstr "Carga más"
+
+#: includes/class-myhome-redux.php:1591
+msgid "Load previous button label"
+msgstr "Cargar la etiqueta del botón anterior"
+
+#: includes/class-myhome-redux.php:1592
+msgid "Load previous"
+msgstr "Carga anterior"
+
+#: includes/class-myhome-redux.php:1598
+msgid "Search form position"
+msgstr "Posición del formulario de búsqueda"
+
+#: includes/class-myhome-redux.php:1599 includes/class-myhome-redux.php:1675
+msgid "Not applicable for Agents"
+msgstr "No aplicable a agentes"
+
+#: includes/class-myhome-redux.php:1604
+msgid "Top"
+msgstr "Parte superior"
+
+#: includes/class-myhome-redux.php:1611
+msgid "Label"
+msgstr "Etiqueta"
+
+#: includes/class-myhome-redux.php:1623
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr "Número de filtros que se mostrarán antes del botón Avanzado"
+
+#: includes/class-myhome-redux.php:1634
+msgid "Display \"advanced\" button"
+msgstr "Mostrar el botón avanzado"
+
+#: includes/class-myhome-redux.php:1645
+msgid "Display \"clear\" button"
+msgstr "Mostrar botón borrar"
+
+#: includes/class-myhome-redux.php:1656
+msgid "Display \"sort by\""
+msgstr "Mostrar \"ordenar por\""
+
+#: includes/class-myhome-redux.php:1663
+msgid "Display \"view types\""
+msgstr "Mostrar \"tipos de vista\""
+
+#: includes/class-myhome-redux.php:1674
+#, php-format
+msgid "Show %s filter"
+msgstr "Mostrar el filtro% s"
+
+#: includes/class-myhome-redux.php:1682
+msgid "Listings"
+msgstr "Listas"
+
+#: includes/class-myhome-redux.php:1685
+msgid ""
+"Below options will change Single Agent Page and Single Attribute Page (eg. "
+"property type, city).\n"
+"                 It will not influence on any Visual Composer Element eg. "
+"Homepages / Maps."
+msgstr ""
+"Las opciones que aparecen a continuación cambiarán la página de un solo "
+"agente y la página de un solo atributo (por ejemplo, tipo de propiedad, "
+"ciudad).\n"
+"                  No influirá en ningún elemento del compositor visual, por "
+"ejemplo. Inicio / Mapas."
+
+#: includes/class-myhome-redux.php:1697
+msgid "Footer"
+msgstr "Pie de página"
+
+#: includes/class-myhome-redux.php:1705
+msgid "Footer Style"
+msgstr "Estilo de pie de página"
+
+#: includes/class-myhome-redux.php:1707
+msgid "Light background"
+msgstr "Fondo claro"
+
+#: includes/class-myhome-redux.php:1708
+msgid "Dark background"
+msgstr "Fondo oscuro"
+
+#: includes/class-myhome-redux.php:1709
+msgid "Image background"
+msgstr "Imagen de fondo"
+
+#: includes/class-myhome-redux.php:1718
+msgid "Upload Background Image"
+msgstr "Subir imagen de fondo"
+
+#: includes/class-myhome-redux.php:1729
+msgid "Background Image Parallax"
+msgstr "Imagen de fondo Parallax"
+
+#: includes/class-myhome-redux.php:1741
+msgid "Display Widget Area"
+msgstr "Mostrar área del widget"
+
+#: includes/class-myhome-redux.php:1748
+msgid "Display Footer Widget"
+msgstr "Mostrar Widget de Pie de página"
+
+#: includes/class-myhome-redux.php:1761
+msgid "Upload Footer Widget logo"
+msgstr "Subir logo del widget de pie de página"
+
+#: includes/class-myhome-redux.php:1772
+msgid "Edit Footer Widget Text"
+msgstr "Editar texto del Widget del pie de página"
+
+#: includes/class-myhome-redux.php:1773
+msgid ""
+"After a time we drew near the road, and as we did so we heard the clatter of "
+"hoofs and saw through the tree stems three cavalry soldiers riding slowly "
+"towards Woking."
+msgstr ""
+"Después de un tiempo nos acercamos a la carretera y, al hacerlo, oímos el "
+"ruido de los cascos y vimos a través de los tallos de los árboles a tres "
+"soldados de caballería que iban lentamente hacia Woking."
+
+#: includes/class-myhome-redux.php:1784
+msgid "Edit Footer Widget phone"
+msgstr "Editar el Widget del teléfono en la pie de página"
+
+#: includes/class-myhome-redux.php:1796
+msgid "Edit Footer Widget email"
+msgstr "Editar el Widget del correo electrónico en la pie de página"
+
+#: includes/class-myhome-redux.php:1797
+msgid "support@tangibledesing.net"
+msgstr "support@tangibledesing.net"
+
+#: includes/class-myhome-redux.php:1808
+msgid "Edit Footer Widget address"
+msgstr "Editar dirección de Widget de pie de página"
+
+#: includes/class-myhome-redux.php:1820
+msgid "Display Copyright Information"
+msgstr "Mostrar información de copyright"
+
+#: includes/class-myhome-redux.php:1827
+msgid "Edit copyright text"
+msgstr "Editar texto de copyright"
+
+#: includes/class-myhome-redux.php:1828
+msgid "2017 MyHome by TangibleDesign. All rights reserved."
+msgstr "2017 MyHome de TangibleDesign. Todos los derechos reservados."
+
+#: includes/class-myhome-redux.php:1854
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-myhome-redux.php:1861
+msgid "Subtitle"
+msgstr "Sub-titulo"
+
+#: includes/class-myhome-redux.php:1882
+msgid "Header address"
+msgstr "Dirección de la cabecera"
+
+#: includes/class-myhome-redux.php:1886
+msgid "Header phone"
+msgstr "Teléfono de cabecera"
+
+#: includes/class-myhome-redux.php:1890
+msgid "Header email"
+msgstr "Correo electrónico de cabecera"
+
+#: includes/class-myhome-redux.php:1894
+msgid "Header Facebook"
+msgstr "Enlace de Facebook"
+
+#: includes/class-myhome-redux.php:1898
+msgid "Header Twitter"
+msgstr "Enlace de Twitter"
+
+#: includes/class-myhome-redux.php:1902
+msgid "Header Linkedin"
+msgstr "Enlace de Linkedin"
+
+#: includes/class-myhome-redux.php:1906
+msgid "Header Instagram"
+msgstr "Enlace de Instagram"
+
+#: includes/class-myhome-redux.php:1911
+msgid "Footer address"
+msgstr "Dirección de pie de página"
+
+#: includes/class-myhome-redux.php:1915
+msgid "Footer phone"
+msgstr "Teléfono de pie de página"
+
+#: includes/class-myhome-redux.php:1919
+msgid "Footer email"
+msgstr "Correo electrónico de pie de  página"
+
+#: includes/class-myhome-redux.php:1923
+msgid "Footer text"
+msgstr "Texto de pie de página"
+
+#: includes/class-myhome-redux.php:1927
+msgid "Footer copyright text"
+msgstr "Texto de Copyright de pie de página"
+
+#: includes/class-myhome-redux.php:1932
+msgid "Blog read more text"
+msgstr "Blog leer más de texto"
+
+#: includes/class-myhome-redux.php:1937
+msgid "Offer type - rent label (/month)"
+msgstr "Tipo de oferta - alquiler de etiqueta (/ mes)"
+
+#: includes/class-myhome-redux.php:1941
+#, fuzzy
+msgid "Load more (button label)"
+msgstr "Etiqueta del botón Cargar más"
+
+#: includes/class-myhome-redux.php:1945
+#, fuzzy
+msgid "Load previous (button label)"
+msgstr "Etiqueta del botón Cargar Anterior"
+
+#: includes/class-myhome-redux.php:1950
+msgid "Payments - message above payment methods"
+msgstr "Mensaje sobre los métodos de pago"
+
+#: includes/class-myhome-scripts.php:221
+msgid "1 property listing"
+msgstr "1 lista de propiedades"
+
+#. translators: If there are characters in your language that are not supported by this font, translate this to 'off'. Do not translate into your own language.
+#: includes/class-myhome-scripts.php:353
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "en"
+
+#. translators: If there are characters in your language that are not supported by this font, translate this to 'off'. Do not translate into your own language.
+#: includes/class-myhome-scripts.php:358
+msgctxt "Play font: on or off"
+msgid "on"
+msgstr "en"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instalar complementos necesarios"
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Instalar complementos"
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalar complementos:  %s"
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Actualización del complemento:% s"
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del complemento."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere los complementos siguientes: %1$s."
+msgstr[1] "Este tema requiere los complementos siguientes: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema requiere los complementos siguientes: %1$s."
+msgstr[1] "Este tema requiere los complementos siguientes: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Los complementos siguientes deberían ser actualizados a la versión última "
+"para garantizar la compatibilidad máxima con este tema: %1$s."
+msgstr[1] ""
+"Los complementos siguientes deberían ser actualizados a la versión última "
+"para garantizar la compatibilidad máxima con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Aquí  está disponible una actualización  para: %1$s."
+msgstr[1] "Aquí  está disponible una actualización  para: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Los complementos requisitos están actualmente inactivos: %1$s."
+msgstr[1] "Los complementos requisitos están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Los complementos siguientes recomendados están actualmente inactivos: %1$s."
+msgstr[1] ""
+"Los complementos siguientes recomendados están actualmente inactivos: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar complemento"
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezr a actualizar complemento"
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar complemento"
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de complementos requerido"
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:906
+#: includes/class-tgm-plugin-activation.php:2617
+#: includes/class-tgm-plugin-activation.php:3666
+msgid "Return to the Dashboard"
+msgstr "Regreso al panel de control"
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: includes/class-tgm-plugin-activation.php:395
+#: includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El complemento siguiente estaba activado correctamente."
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ninguna medidad adoptada. El complemento %1$s estaba ya activo."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"El complemento no está activado. Se necesita una versión superior de% s para "
+"este tema. Actualice el complemento."
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los complementos  instalados y activados correctamente. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más complementos necesarios o recomendados para instalar, "
+"actualizar o activar."
+
+#: includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Póngase en contacto con el administrador de este sitio para obtener ayuda."
+
+#: includes/class-tgm-plugin-activation.php:600
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Este complemento necesita ser actualizado para ser compatible con su tema."
+
+#: includes/class-tgm-plugin-activation.php:601
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+#: includes/class-tgm-plugin-activation.php:1014
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete de complemento remoto no contiene una carpeta con el slug deseado "
+"y el cambio de nombre no funcionó."
+
+#: includes/class-tgm-plugin-activation.php:1014
+#: includes/class-tgm-plugin-activation.php:1017
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Póngase en contacto con el proveedor de complementos y pídales que "
+"empaqueten su complemento de acuerdo con las directrices de WordPress."
+
+#: includes/class-tgm-plugin-activation.php:1017
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete de complemento remoto consta de más de un archivo, pero los "
+"archivos no están empaquetados en una carpeta."
+
+#: includes/class-tgm-plugin-activation.php:1202
+#: includes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "plugin A  y plugin B"
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:2063
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/class-tgm-plugin-activation.php:2354
+msgid "Required"
+msgstr "Requerido"
+
+#: includes/class-tgm-plugin-activation.php:2357
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/class-tgm-plugin-activation.php:2373
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: includes/class-tgm-plugin-activation.php:2376
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: includes/class-tgm-plugin-activation.php:2379
+msgid "Pre-Packaged"
+msgstr "Preenvasado"
+
+#: includes/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: includes/class-tgm-plugin-activation.php:2402
+msgid "Active"
+msgstr "Activo"
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "La actualización necesaria no está disponible"
+
+#: includes/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: includes/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr "Actualizacion recomendada"
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2423
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2469
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo<span class=\"count\">(%s)</span>"
+msgstr[1] "Todo<span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar<span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar<span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "La actualización disponible<span class=\"count\">(%s)</span>"
+msgstr[1] "La actualización disponible<span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar<span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar<span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: includes/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: includes/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: includes/class-tgm-plugin-activation.php:2593
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: includes/class-tgm-plugin-activation.php:2616
+msgid "No plugins to install, update or activate."
+msgstr "No hay complementos para instalar, actualizar o activar."
+
+#: includes/class-tgm-plugin-activation.php:2631
+msgid "Plugin"
+msgstr "Complemento"
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Source"
+msgstr "Fuente"
+
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/class-tgm-plugin-activation.php:2637
+msgid "Version"
+msgstr "Versión"
+
+#: includes/class-tgm-plugin-activation.php:2638
+msgid "Status"
+msgstr "Estado"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2687
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2692
+#, php-format
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2768
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del complemento:"
+
+#: includes/class-tgm-plugin-activation.php:2801
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/class-tgm-plugin-activation.php:2807
+msgid "Update"
+msgstr "Actualizar"
+
+#: includes/class-tgm-plugin-activation.php:2810
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"No se ha seleccionado ningún complemento para su instalación. Ninguna acción "
+"tomada."
+
+#: includes/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para actualizarse. Ninguna acción tomada."
+
+#: includes/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay complementos disponibles para ser instalados en este momento."
+
+#: includes/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay complementos disponibles para actualizarse en este momento."
+
+#: includes/class-tgm-plugin-activation.php:2992
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"No se seleccionaron complementos para activarlos. Ninguna acción tomada."
+
+#: includes/class-tgm-plugin-activation.php:3018
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activarse en este momento."
+
+#: includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Error de activación del complemento."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Complemento de actualización%1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Un error durante la instalación %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de%1$s fracasada."
+
+#: includes/class-tgm-plugin-activation.php:3593
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Se inicia el proceso de instalación e activación. Este proceso puede tomar "
+"un tiempo en algunos hosts, así que por favor tenga paciencia."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e activado correctamente."
+
+#: includes/class-tgm-plugin-activation.php:3595
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: includes/class-tgm-plugin-activation.php:3595
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: includes/class-tgm-plugin-activation.php:3596
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación e activación del complemento %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Se inicia el proceso de instalación. Este proceso puede tomar un tiempo en "
+"algunos hosts, así que por favor tenga paciencia."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: includes/class-tgm-plugin-activation.php:3604
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "La instalación del complemento%1$s (%2$d/%3$d)"
+
+#: includes/menu/class-myhome-menu.php:89
+msgid "MH Primary"
+msgstr "MH Prioritario"
+
+#: includes/menu/class-myhome-menu.php:208
+msgid "Submit property"
+msgstr "Enviar propiedad"
+
+#: search.php:40
+msgid "No results"
+msgstr "No hay resultados"
+
+#: templates/author.php:16
+msgid "Post author"
+msgstr "Autor del mensaje"
+
+#: templates/content-single-estate.php:128
+#: templates/content-single-estate.php:297
+msgid "See Map"
+msgstr "Ver mapa"
+
+#: templates/content-single-estate.php:202
+msgid "Details"
+msgstr "Detalles"
+
+#: templates/content-single-estate.php:208
+msgid "Video"
+msgstr "Vídeo"
+
+#: templates/content-single-estate.php:217
+msgid "Virtual tour"
+msgstr "Visita virtual"
+
+#: templates/content-single-estate.php:226
+msgid "Plans"
+msgstr "Planes"
+
+#: templates/content-single-estate.php:252
+msgid "ID:"
+msgstr "ID:"
+
+#: templates/content-single-estate.php:256
+msgid "Published:"
+msgstr "Publicado:"
+
+#: templates/content-single-estate.php:260
+msgid "Last Update:"
+msgstr "Última actualización:"
+
+#: templates/content-single-estate.php:264
+msgid "Views:"
+msgstr "Puntos de vista:"
+
+#: templates/content-single-estate.php:308
+msgid "Reply to the listing"
+msgstr "Volver a la lista:"
+
+#: templates/content-single-estate.php:403
+#, php-format
+msgid "All by %s"
+msgstr "Todo por% s"
+
+#: templates/content-single.php:22
+msgid "Category:"
+msgstr "Categoría:"
+
+#: templates/nav-single.php:10
+msgid "previous"
+msgstr "anterior"
+
+#: templates/nav-single.php:23
+msgid "next"
+msgstr "siguiente"
+
+#: templates/post-vertical.php:23 templates/related-posts.php:29
+msgid "..."
+msgstr "..."
+
+#: templates/related-posts.php:6
+msgid "Related posts"
+msgstr "Número total de publicaciones relacionadas para mostrar"
+
+#: templates/top-title.php:57
+msgid "Search result for "
+msgstr "Resultado de la búsqueda por "
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "MyHome"
+msgstr "MyHome"
+
+#. Theme URI of the plugin/theme
+msgid "http://myhome.tangibledesign.net/"
+msgstr "http://myhome.tangibledesign.net/"
+
+#. Author of the plugin/theme
+msgid "Tangible Design"
+msgstr "Tangible Design"
+
+#. Author URI of the plugin/theme
+msgid "http://tangibledesign.net/"
+msgstr "http://tangibledesign.net/"

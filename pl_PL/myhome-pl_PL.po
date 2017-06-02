@@ -1,0 +1,3401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyHome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-01 17:45+0200\n"
+"PO-Revision-Date: 2017-06-01 17:45+0200\n"
+"Last-Translator: admin <liszek1@gmail.com>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 &&(n"
+"%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19 includes/class-myhome-redux.php:1846
+#: includes/class-myhome-redux.php:1855
+msgid "404"
+msgstr "404"
+
+#: 404.php:20 includes/class-myhome-redux.php:1862
+msgid "Page not found"
+msgstr "Strona nie znaleziona"
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s Komentarz"
+msgstr[1] "%1$s Komentarze"
+msgstr[2] "%1$s Komentarze"
+
+#: includes/class-myhome-acf.php:38
+#, fuzzy
+#| msgid "Reset settings"
+msgid "Page settings"
+msgstr "Zresetuj ustawienia"
+
+#: includes/class-myhome-acf.php:53
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/class-myhome-acf.php:58
+msgid "Default"
+msgstr "Domyślny"
+
+#: includes/class-myhome-acf.php:59
+msgid "Transparent"
+msgstr "Przezroczysty"
+
+#: includes/class-myhome-acf.php:61
+msgid "Transparent - dark gradient"
+msgstr "Przezroczysty - ciemny"
+
+#: includes/class-myhome-comments.php:39
+msgid "Send comment"
+msgstr "Wyślij komentarz"
+
+#: includes/class-myhome-comments.php:81
+msgid "Comment navigation"
+msgstr "Nawigacja komentarzy"
+
+#: includes/class-myhome-comments.php:82
+msgid "&larr; Older Comments"
+msgstr "&larr; Starsze Komentarze"
+
+#: includes/class-myhome-comments.php:83
+msgid "Newer Comments &rarr;"
+msgstr "Nowsze Komentarze &rarr;"
+
+#: includes/class-myhome-comments.php:114
+#, fuzzy
+#| msgid "Name"
+msgid "Name*"
+msgstr "Nazwa"
+
+#: includes/class-myhome-comments.php:118
+msgid "Email*"
+msgstr "E-mail*"
+
+#: includes/class-myhome-comments.php:121
+msgid "Website"
+msgstr "Strona"
+
+#: includes/class-myhome-comments.php:126
+msgid "Comment"
+msgstr "Komentarze"
+
+#: includes/class-myhome-comments.php:131
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Musisz być <a href=\"%s\">zalogowany</a> by pisać komentarze."
+
+#: includes/class-myhome-comments.php:137
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Logowanie <a href=\"%1$s\">%2$s</a>."
+
+#: includes/class-myhome-comments.php:141
+msgid "Log out of this account"
+msgstr "Wyloguj się z konta"
+
+#: includes/class-myhome-comments.php:142
+#, fuzzy
+#| msgid "Log out"
+msgid "Log out &raquo;"
+msgstr "Wyloguj się"
+
+#: includes/class-myhome-comments.php:144
+msgid "Send Comment"
+msgstr "Wyślij komentarz"
+
+#: includes/class-myhome-comments.php:146
+msgid "Leave a reply"
+msgstr "Zostaw odpowiedź"
+
+#: includes/class-myhome-comments.php:147
+#, php-format
+msgid "Comment to %s"
+msgstr "Komentarz do %s"
+
+#: includes/class-myhome-comments.php:160
+msgid "Your comment is awaiting moderation"
+msgstr "Twój komentarz oczekuje na akceptacje moderatora"
+
+#: includes/class-myhome-comments.php:174
+#, fuzzy
+#| msgid "Send comment"
+msgid "edit comment"
+msgstr "Wyślij komentarz"
+
+#: includes/class-myhome-comments.php:185
+msgid "Reply"
+msgstr "Odpowiedź"
+
+#: includes/class-myhome-comments.php:202
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 komentarz"
+msgstr[1] "%1$s komentarze"
+msgstr[2] "%1$s comments"
+
+#: includes/class-myhome-comments.php:213
+msgid "Comments are closed."
+msgstr "Komentarze zostały zamknięte."
+
+#: includes/class-myhome-init.php:68 includes/class-myhome-init.php:70
+msgid "Enter client name"
+msgstr "Wprowadź imię klienta"
+
+#: includes/class-myhome-init.php:90
+#, fuzzy
+#| msgid "Paste your Google Maps Api Key in your theme option to display map."
+msgid ""
+"MyHome Theme - Google API Key is not set. Paste your Google Maps Api Key in "
+"your theme option to display map."
+msgstr "Wklej klucz Google Api Maps w opcjach motywu, aby wyświetlić mapę."
+
+#: includes/class-myhome-init.php:126
+msgid "To view this protected post, enter the password below:"
+msgstr "Aby wyświetlić ten post, wpisz hasło poniżej:"
+
+#: includes/class-myhome-init.php:131
+msgid "Submit"
+msgstr "Zatwierdź"
+
+#: includes/class-myhome-init.php:207 templates/searchform.php:2
+#, fuzzy
+#| msgid "Search form style"
+msgid "Search for:"
+msgstr "Styl wyszukiwania"
+
+#: includes/class-myhome-init.php:208
+#, fuzzy
+#| msgid "Search"
+msgid "Search ..."
+msgstr "Wyszukaj"
+
+#: includes/class-myhome-init.php:243
+msgid "MH Sidebar"
+msgstr "MH pasek boczny"
+
+#: includes/class-myhome-init.php:245 includes/class-myhome-init.php:255
+#: includes/class-myhome-init.php:265 includes/class-myhome-init.php:275
+msgid "Add widgets here."
+msgstr "Dodaj widgety tutaj."
+
+#: includes/class-myhome-init.php:253
+msgid "MH Sidebar Footer"
+msgstr "MH Stopka"
+
+#: includes/class-myhome-init.php:263
+msgid "MH Listing"
+msgstr "MH Lista nieruchomości"
+
+#: includes/class-myhome-init.php:273
+#, fuzzy
+#| msgid "Property type"
+msgid "MH Property Page"
+msgstr "Rodzaj nieruchomości"
+
+#: includes/class-myhome-layout.php:914 includes/class-myhome-redux.php:859
+msgid "Read more"
+msgstr "Czytaj więcej"
+
+#: includes/class-myhome-plugins.php:56
+msgid "MyHome Core"
+msgstr "MyHome Core"
+
+#: includes/class-myhome-plugins.php:66
+msgid "Advanced Custom Fields PRO"
+msgstr "Advanced Custom Fields PRO"
+
+#: includes/class-myhome-plugins.php:76
+msgid "WPBakery Visual Composer"
+msgstr "WPBakery Visual Composer"
+
+#: includes/class-myhome-plugins.php:86
+#, fuzzy
+#| msgid "Contact %s - %s"
+msgid "Contact Form 7"
+msgstr "Kontakt %s - %s"
+
+#: includes/class-myhome-plugins.php:95
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: includes/class-myhome-plugins.php:104
+#, fuzzy
+#| msgid "Sidebar position"
+msgid "Slider Revolution"
+msgstr "Pozycja menu bocznego"
+
+#: includes/class-myhome-plugins.php:114
+msgid "Mega Main Menu"
+msgstr "Mega Main Menu"
+
+#: includes/class-myhome-plugins.php:124
+msgid "Ultimate Addons for Visual Composer"
+msgstr "Ultimate Addons for Visual Composer"
+
+#: includes/class-myhome-plugins.php:134
+msgid "Easy Social Share Buttons"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:144
+msgid "MyHome Demo Importer"
+msgstr "MyHome Demo Importer"
+
+#: includes/class-myhome-redux.php:101
+msgid "Theme Options"
+msgstr "Opcje Skórki"
+
+#: includes/class-myhome-redux.php:102
+#, fuzzy
+#| msgid "Theme Options"
+msgid "MyHome Options"
+msgstr "Opcje Skórki"
+
+#: includes/class-myhome-redux.php:138 includes/class-myhome-redux.php:1014
+#: includes/class-myhome-redux.php:1224
+msgid "General"
+msgstr "Ogólne"
+
+#: includes/class-myhome-redux.php:146 includes/class-myhome-redux.php:321
+#, fuzzy
+#| msgid "Primary"
+msgid "Primary color"
+msgstr "Podstawowy"
+
+#: includes/class-myhome-redux.php:147
+#, fuzzy
+#| msgid "0 or empty = all elements"
+msgid "Set primary color for all elements"
+msgstr "0 lub pusty = wszystkie elementy"
+
+#: includes/class-myhome-redux.php:318
+msgid "Active inputs style"
+msgstr "Styl aktywnych pól formularza"
+
+#: includes/class-myhome-redux.php:322 includes/class-myhome-redux.php:961
+msgid "Gray"
+msgstr "Szary"
+
+#: includes/class-myhome-redux.php:329
+#, fuzzy
+#| msgid "Google API Key not set"
+msgid "Google API Key"
+msgstr "Klucz Google Api jest nie ustawiony"
+
+#: includes/class-myhome-redux.php:330
+msgid ""
+"Following instruction with images, can be found in your documentation:"
+"<br><br>\n"
+"                        1. Go https://developers.google.com/maps/"
+"documentation/javascript/ <br>\n"
+"                        2. Sign in with your Google Account <br>\n"
+"                        3. Click \"GET A KEY\" button <br>\n"
+"                        4. Enter new project name <br>\n"
+"                        5. Select Yes below \"I agree that my use of any "
+"services and related APIs is subject to my compliance with the applicable "
+"Terms of Service.\" <br>\n"
+"                        6. Click - \"CREATE AND ENABLE API\" button <br>\n"
+"                        7. Copy Your API Key into this field             \n"
+"                        "
+msgstr ""
+
+#: includes/class-myhome-redux.php:343
+msgid "Map style"
+msgstr "Styl  mapy"
+
+#: includes/class-myhome-redux.php:346
+msgid "MyHome gray palette"
+msgstr "Szary Paleta MyHome"
+
+#: includes/class-myhome-redux.php:347
+msgid "Default by Google"
+msgstr "Domyślnie przez Google"
+
+#: includes/class-myhome-redux.php:348
+msgid "Custom (Snazzy Maps)"
+msgstr "Niestandardowe (mapy Snazzy)"
+
+#: includes/class-myhome-redux.php:354
+msgid "Snazzy Maps"
+msgstr "Mapy Snazzy"
+
+#: includes/class-myhome-redux.php:355
+msgid ""
+"Visit: https://snazzymaps.com/ - find your favorite map and copy "
+"\"JAVASCRIPT STYLE ARRAY\""
+msgstr ""
+"Odwiedź: https://snazzymaps.com/ - znajdź swoją ulubioną mapę i skopiuj "
+"\"JAVASCRIPT STYLE ARRAY\""
+
+#: includes/class-myhome-redux.php:373
+msgid "Typography"
+msgstr "Typografia"
+
+#: includes/class-myhome-redux.php:381
+msgid "Main font"
+msgstr "Główna czcionka"
+
+#: includes/class-myhome-redux.php:419
+msgid "Main font - italic"
+msgstr "Główna czcionka - pochyła"
+
+#: includes/class-myhome-redux.php:420
+msgid "Leave empty if \"Main Font\" has no separate italic version."
+msgstr "Ustaw  puste jeżeli główna czcionka nie ma wersji pochyłej"
+
+#: includes/class-myhome-redux.php:441
+msgid "Main font - bold (700)"
+msgstr "Główna czcionka - pogrubiona (700)"
+
+#: includes/class-myhome-redux.php:467
+#, fuzzy
+#| msgid "Main font"
+msgid "Heading font"
+msgstr "Główna czcionka"
+
+#: includes/class-myhome-redux.php:505
+msgid "Heading font - bold (700)"
+msgstr "Czcionka nagłówków - pogrubiona (700)"
+
+#: includes/class-myhome-redux.php:536
+msgid "RTL text direction"
+msgstr "RTL - kierunek teksu"
+
+#: includes/class-myhome-redux.php:537
+msgid "Right to left text direction"
+msgstr "Kierunek tekstu od prawej do lewej"
+
+#: includes/class-myhome-redux.php:551
+msgid "Header"
+msgstr "Nagłówek"
+
+#: includes/class-myhome-redux.php:560
+msgid "Header general"
+msgstr "Nagłówek ogólne"
+
+#: includes/class-myhome-redux.php:568
+msgid "This is a default logo for desktop and mobile menu"
+msgstr "To jest domyślne logo dla komputerów i telefonów komórkowych"
+
+#: includes/class-myhome-redux.php:570
+msgid "Logo Default"
+msgstr "Logo domyślne"
+
+#: includes/class-myhome-redux.php:576
+msgid "This logo will be used on pages with transparent menu only"
+msgstr ""
+"To logo będzie używane tylko na stronach z włączonym menu przezroczystym"
+
+#: includes/class-myhome-redux.php:578
+msgid "Additional logo for the transparent menu"
+msgstr "Dodatkowe logo do menu przezroczystego"
+
+#: includes/class-myhome-redux.php:584
+msgid "Full width menu and top bars container"
+msgstr "Menu i top bar pełnej szerokości"
+
+#: includes/class-myhome-redux.php:585
+msgid "By default max width is 1170px, but you can change it for fullwidth"
+msgstr ""
+"Domyślna maksymalna szerokość to 1170px, ale możesz wyłączyć to ograniczenia "
+"i bedzie w pełnej szerokości."
+
+#: includes/class-myhome-redux.php:592
+#, fuzzy
+#| msgid "Background color"
+msgid "Menu background \"primary color\""
+msgstr "Kolor tła"
+
+#: includes/class-myhome-redux.php:593
+msgid ""
+"Change the menu background into primary color and first level items font "
+"color into white"
+msgstr ""
+"Zmienia kolor tła na podstawowy i kolor czcionek w pierwszym rzędzia na białe"
+
+#: includes/class-myhome-redux.php:601
+msgid "Logo height (px)"
+msgstr "Wysokość loga (w px)"
+
+#: includes/class-myhome-redux.php:602
+msgid "Height of the default logo and logo for transparent menu."
+msgstr "Wysokość domyślnego logo i logo dla przejrzystego menu."
+
+#: includes/class-myhome-redux.php:609
+msgid "Logo Margin Top (px)"
+msgstr "Górny Margines (px)"
+
+#: includes/class-myhome-redux.php:616
+msgid "Desktop Menu Height (px)"
+msgstr "Wysokość menu na komputerze (px)"
+
+#: includes/class-myhome-redux.php:617 includes/class-myhome-redux.php:624
+#: includes/class-myhome-redux.php:638 includes/class-myhome-redux.php:646
+msgid "Mega Main Menu plugin must be active"
+msgstr "Mega Main Menu plugin musi być aktywowany"
+
+#: includes/class-myhome-redux.php:623
+msgid "First level item align"
+msgstr "Wyrównanie elementów pierwszego poziomu w menu"
+
+#: includes/class-myhome-redux.php:626
+msgid "left"
+msgstr "lewo"
+
+#: includes/class-myhome-redux.php:627
+#, fuzzy
+#| msgid "Right"
+msgid "right"
+msgstr "Prawo"
+
+#: includes/class-myhome-redux.php:628
+#, fuzzy
+#| msgid "Center"
+msgid "center"
+msgstr "Do środka"
+
+#: includes/class-myhome-redux.php:637
+msgid "Font size of first level item (px)"
+msgstr "Rozmiar czcionki elementu pierwszego poziomu (px)"
+
+#: includes/class-myhome-redux.php:645
+msgid "Font size of the dropdown menu item (px)"
+msgstr "Rozmiar czcionki w submenu"
+
+#: includes/class-myhome-redux.php:656 includes/class-myhome-redux.php:664
+msgid "Top bar"
+msgstr "Górny separator"
+
+#: includes/class-myhome-redux.php:665
+msgid "Additional bar with contact information at the top of the menu"
+msgstr "Dodatkowy pasek z informacjami kontaktowymi nad menu"
+
+#: includes/class-myhome-redux.php:667
+msgid "none"
+msgstr "żaden"
+
+#: includes/class-myhome-redux.php:668
+msgid "Small - white background"
+msgstr "Mały - biały kolor tła"
+
+#: includes/class-myhome-redux.php:669
+msgid "Small - primary color background"
+msgstr "Mały - kolor podstawowy tła"
+
+#: includes/class-myhome-redux.php:670
+msgid "Big - white background"
+msgstr "Duże - białe tło"
+
+#: includes/class-myhome-redux.php:678
+msgid "Hide top bar on mobile"
+msgstr "Schowaj pasek górny na telefonie"
+
+#: includes/class-myhome-redux.php:688
+msgid ""
+"This logo will be displayed for screens larger than 1024px only. On mobile "
+"theme will still use \"Default Logo\""
+msgstr ""
+"To logo będzie wyświetlane na ekranach większych niż 1024px. Na telefonie, "
+"dalej będzie wyświetlać się \"logo domyślne\""
+
+#: includes/class-myhome-redux.php:690
+msgid "Logo - Top Bar Big"
+msgstr "Logo - pasek górny duży"
+
+#: includes/class-myhome-redux.php:700
+msgid "Logo - Top Bar Big height (px)"
+msgstr "Logo - Top Bar Duży - wysokość (px)"
+
+#: includes/class-myhome-redux.php:712
+msgid "Logo - Top Bar Big margin top (px)"
+msgstr "Logo - Top Bar Duży - margines górny (px)"
+
+#: includes/class-myhome-redux.php:724 includes/class-myhome-redux.php:1809
+msgid "518-520 5th Ave, New York, USA"
+msgstr "518-520 5th Ave, Nowy Jork, USA"
+
+#: includes/class-myhome-redux.php:726
+msgid "Address"
+msgstr "Adres"
+
+#: includes/class-myhome-redux.php:736 includes/class-myhome-redux.php:1785
+msgid "(123) 345-6789"
+msgstr "(123) 345-6789"
+
+#: includes/class-myhome-redux.php:738 includes/class-myhome-redux.php:1297
+msgid "Phone"
+msgstr "Numer telefonu"
+
+#: includes/class-myhome-redux.php:748
+msgid "support@tangibledesign.net"
+msgstr "Support@tangibledesign.net"
+
+#: includes/class-myhome-redux.php:750
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-myhome-redux.php:760 includes/class-myhome-redux.php:772
+#: includes/class-myhome-redux.php:784 includes/class-myhome-redux.php:796
+msgid "#"
+msgstr "#"
+
+#: includes/class-myhome-redux.php:762
+msgid "Facebook (URL)"
+msgstr "Facebook (URL)"
+
+#: includes/class-myhome-redux.php:774
+msgid "Linkedin (URL)"
+msgstr "Linkedin (URL)"
+
+#: includes/class-myhome-redux.php:786
+msgid "Twitter (URL)"
+msgstr "Twitter (URL)"
+
+#: includes/class-myhome-redux.php:798
+msgid "Instagram (URL)"
+msgstr "Instagram (URL)"
+
+#: includes/class-myhome-redux.php:818 templates/top-title.php:43
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/class-myhome-redux.php:828
+msgid "Blog general"
+msgstr "Blog ogólne"
+
+#: includes/class-myhome-redux.php:836
+msgid "Sidebar position"
+msgstr "Pozycja menu bocznego"
+
+#: includes/class-myhome-redux.php:838 includes/class-myhome-redux.php:1602
+msgid "Left"
+msgstr "Lewo"
+
+#: includes/class-myhome-redux.php:839 includes/class-myhome-redux.php:1603
+msgid "Right"
+msgstr "Prawo"
+
+#: includes/class-myhome-redux.php:847
+msgid "Post grid style"
+msgstr "Styl wyświetlania postów"
+
+#: includes/class-myhome-redux.php:849 includes/class-myhome-redux.php:926
+msgid "1 column"
+msgstr "1 kolumna"
+
+#: includes/class-myhome-redux.php:850 includes/class-myhome-redux.php:927
+msgid "2 columns"
+msgstr "2 kolumna"
+
+#: includes/class-myhome-redux.php:858
+msgid "Blog: \"Read More\" button text"
+msgstr "Blog: \"Czytaj dalej\" wciśnij"
+
+#: includes/class-myhome-redux.php:869
+msgid "Single post"
+msgstr "Wpis"
+
+#: includes/class-myhome-redux.php:877
+msgid "Display an author"
+msgstr "Wyświetl autora"
+
+#: includes/class-myhome-redux.php:884
+#, fuzzy
+#| msgid "Display button"
+msgid "Display tags"
+msgstr "Pokaż przycisk"
+
+#: includes/class-myhome-redux.php:891
+#, fuzzy
+#| msgid "Display navigation dots"
+msgid "Display navigation"
+msgstr "Wyświetl kropki nawigacji"
+
+#: includes/class-myhome-redux.php:898
+#, fuzzy
+#| msgid "Display timeline"
+msgid "Display comments"
+msgstr "Wyświetlanie osi czasu"
+
+#: includes/class-myhome-redux.php:905
+#, fuzzy
+#| msgid "Display latest tweets"
+msgid "Display related posts"
+msgstr "Wyświetlaj ostatnie tweety"
+
+#: includes/class-myhome-redux.php:912
+#, fuzzy
+#| msgid "Total number of clients to display"
+msgid "Total number of related posts to display"
+msgstr "Całkowita liczba klientów do wyświetlenia"
+
+#: includes/class-myhome-redux.php:924
+msgid "Related posts style"
+msgstr "Styl wyświetlania postów"
+
+#: includes/class-myhome-redux.php:944
+msgid "Blog top title"
+msgstr "Blog Tytuł Górny"
+
+#: includes/class-myhome-redux.php:952
+msgid "Display top title on blog"
+msgstr "Wyświetlaj tytuł górny na blogu"
+
+#: includes/class-myhome-redux.php:959
+msgid "Blog top title style"
+msgstr "Styl tytułu górnego"
+
+#: includes/class-myhome-redux.php:962
+msgid "Image"
+msgstr "Zdjęcie"
+
+#: includes/class-myhome-redux.php:976
+msgid "Upload background image"
+msgstr "Wgraj obrazek tła "
+
+#: includes/class-myhome-redux.php:1004
+#, fuzzy
+#| msgid "Property Listings"
+msgid "Property options"
+msgstr "Nieruchomości"
+
+#: includes/class-myhome-redux.php:1023
+#, fuzzy
+#| msgid "Single post"
+msgid "Single property style"
+msgstr "Wpis"
+
+#: includes/class-myhome-redux.php:1025
+msgid "Gallery"
+msgstr "Galeria"
+
+#: includes/class-myhome-redux.php:1026
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/class-myhome-redux.php:1033
+#, fuzzy
+#| msgid "Display property virtual tour"
+msgid "Display property video"
+msgstr "Wyświetl wirtualną wycieczkę wirtualną"
+
+#: includes/class-myhome-redux.php:1040
+msgid "Display property virtual tour"
+msgstr "Wyświetl wirtualną wycieczkę wirtualną"
+
+#: includes/class-myhome-redux.php:1047
+#, fuzzy
+#| msgid "Display on property card"
+msgid "Display property plans"
+msgstr "Wyświetl na karcie nieruchomości"
+
+#: includes/class-myhome-redux.php:1054
+msgid "Display sidebar"
+msgstr "Wyświetl menu boczne"
+
+#: includes/class-myhome-redux.php:1061
+msgid "Display sidebar - contact form"
+msgstr "Wyświetl menu  boczne - formularz kontaktowy"
+
+#: includes/class-myhome-redux.php:1071
+msgid "Display sidebar - user profile"
+msgstr "Wyświetl pasek boczny - profil użytkownika"
+
+#: includes/class-myhome-redux.php:1081
+msgid "Slug"
+msgstr "Ścieżka"
+
+#: includes/class-myhome-redux.php:1082
+msgid ""
+"Change slug from http://yourdomain/estate/estate-name to http://yourdomain/"
+"newslug/estate-name"
+msgstr ""
+"Zmień ścieżkę z domyslnej http://twojadomena/nieruchomosci/nazwa-"
+"nieruchomosci na http://twojadomena/nowasciezka/nazwa-nieruchomosci/"
+
+#: includes/class-myhome-redux.php:1090 includes/class-myhome-redux.php:1098
+msgid "Offer type"
+msgstr "Rodzaj oferty"
+
+#: includes/class-myhome-redux.php:1105
+msgid "Rent label"
+msgstr "Na wynajem etykieta"
+
+#: includes/class-myhome-redux.php:1106
+msgid "/month"
+msgstr "/miesiąc"
+
+#: includes/class-myhome-redux.php:1115
+msgid "Assign \"Rent label\" to appropriate option"
+msgstr "Przypisz etykię \"Na wynajem\" do odpowiedniej opcji"
+
+#: includes/class-myhome-redux.php:1116
+#, fuzzy
+#| msgid "Rent"
+msgid "For Rent"
+msgstr "Do wynajęcia"
+
+#: includes/class-myhome-redux.php:1127
+msgid "Currency"
+msgstr "Waluta"
+
+#: includes/class-myhome-redux.php:1135
+msgid "Currency sign"
+msgstr "Znak waluty"
+
+#: includes/class-myhome-redux.php:1142
+#, fuzzy
+#| msgid "Currency sign"
+msgid "Currency sign location"
+msgstr "Znak waluty"
+
+#: includes/class-myhome-redux.php:1144
+msgid "After price"
+msgstr "po cenie"
+
+#: includes/class-myhome-redux.php:1145
+msgid "Before price"
+msgstr "przed ceną"
+
+#: includes/class-myhome-redux.php:1153
+#, fuzzy
+#| msgid "No separator"
+msgid "Thousands separator"
+msgstr "Brak separatorów"
+
+#: includes/class-myhome-redux.php:1160
+#, fuzzy
+#| msgid "No separator"
+msgid "Decimal separator"
+msgstr "Brak separatorów"
+
+#: includes/class-myhome-redux.php:1167
+msgid "Decimal"
+msgstr "Dziesiętne"
+
+#: includes/class-myhome-redux.php:1168
+msgid "Sets the number of decimal points."
+msgstr "Ilość miejsc po przecinku"
+
+#: includes/class-myhome-redux.php:1177
+msgid "Show near"
+msgstr "Pokaż w pobliżu"
+
+#: includes/class-myhome-redux.php:1184
+msgid "Active at start"
+msgstr "Aktywne od początku"
+
+#: includes/class-myhome-redux.php:1191
+msgid "Distance unit"
+msgstr "Jednostka odległości"
+
+#: includes/class-myhome-redux.php:1193
+msgid "km"
+msgstr "km"
+
+#: includes/class-myhome-redux.php:1194
+msgid "miles"
+msgstr "mile"
+
+#: includes/class-myhome-redux.php:1202
+msgid "\"show near\" radius (unit set above)"
+msgstr "\"Pokaż w pobliżu\" zasięg promienia"
+
+#: includes/class-myhome-redux.php:1203
+msgid ""
+"Properties around the selected pin with the set radius will be displayed "
+"after clicking \"Show near\" button."
+msgstr ""
+"Nieruchomości do okoła zaznaczonej pineski w tym promieniu pokażą się po "
+"wciśnięciu \"Pokaż w pobliżu\""
+
+#: includes/class-myhome-redux.php:1217
+#, fuzzy
+#| msgid "Make a payment"
+msgid "Agents and payment"
+msgstr "Dokonaj płatności"
+
+#: includes/class-myhome-redux.php:1232
+msgid "Disable backend for agent user"
+msgstr "Wyłącz dostęp do backendu dla agentów"
+
+#: includes/class-myhome-redux.php:1239
+msgid "Agent frontend panel"
+msgstr "Panel Agenta Frontend"
+
+#: includes/class-myhome-redux.php:1246
+msgid "Show submit property button"
+msgstr "Pokaż dodane nieruchomości"
+
+#: includes/class-myhome-redux.php:1256
+msgid "Panel page URL"
+msgstr "Link do strony panelu"
+
+#: includes/class-myhome-redux.php:1257
+msgid "Usually: http://yourdomain/panel/"
+msgstr "Zazwyczaj http://twojadomena/panel/"
+
+#: includes/class-myhome-redux.php:1267
+msgid "Frontend registration"
+msgstr "Restracja na frontend"
+
+#: includes/class-myhome-redux.php:1277
+#, fuzzy
+#| msgid "Location"
+msgid "Moderation"
+msgstr "Lokalizacja"
+
+#: includes/class-myhome-redux.php:1278
+msgid "If it is on, property added by user must be accepted by admin to show"
+msgstr "Włącz aby wymagać akceptracji przez administratora"
+
+#: includes/class-myhome-redux.php:1289
+#, fuzzy
+#| msgid "Agent"
+msgid "Agents"
+msgstr "Agent"
+
+#: includes/class-myhome-redux.php:1304
+#, fuzzy
+#| msgid "Display sidebar"
+msgid "Display email"
+msgstr "Wyświetl menu boczne"
+
+#: includes/class-myhome-redux.php:1311
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class-myhome-redux.php:1318
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-myhome-redux.php:1325
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/class-myhome-redux.php:1332
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/class-myhome-redux.php:1340
+#, fuzzy
+#| msgid "Payment"
+msgid "Payments"
+msgstr "Zapłać"
+
+#: includes/class-myhome-redux.php:1347
+msgid "Payment module"
+msgstr "Moduł płatności"
+
+#: includes/class-myhome-redux.php:1357
+msgid "Message above payment methods"
+msgstr "Wiadomość powyżej metod płatności"
+
+#: includes/class-myhome-redux.php:1368
+#, fuzzy
+#| msgid "Awaiting payment"
+msgid "Stripe payment"
+msgstr "Oczekiwanie na płatność"
+
+#: includes/class-myhome-redux.php:1379
+msgid "Stripe currency"
+msgstr "Stripe waluta"
+
+#: includes/class-myhome-redux.php:1391
+msgid "Stripe Cost"
+msgstr "Stripe koszt"
+
+#: includes/class-myhome-redux.php:1403
+msgid "Stripe Secret Key"
+msgstr "Stripe Secret Key"
+
+#: includes/class-myhome-redux.php:1415
+msgid "Stripe Publishable Key"
+msgstr "Stripe Publishable Key"
+
+#: includes/class-myhome-redux.php:1427
+msgid "PayPal Payment"
+msgstr "Płatność PayPal"
+
+#: includes/class-myhome-redux.php:1438
+msgid "PayPal locale"
+msgstr "Stripe Publishable Key"
+
+#: includes/class-myhome-redux.php:1476
+msgid "PayPal Client ID"
+msgstr "PayPal Client ID"
+
+#: includes/class-myhome-redux.php:1488
+msgid "PayPal Secret"
+msgstr "PayPal Secret"
+
+#: includes/class-myhome-redux.php:1500
+msgid "PayPal Sandbox Mode"
+msgstr "PayPal Sandbox Mode"
+
+#: includes/class-myhome-redux.php:1512
+msgid "PayPal Currency"
+msgstr "Waluta PayPal"
+
+#: includes/class-myhome-redux.php:1524
+msgid "PayPal Cost"
+msgstr "PayPal cena"
+
+#: includes/class-myhome-redux.php:1546
+msgid "Default view"
+msgstr "Widok domyślny"
+
+#: includes/class-myhome-redux.php:1549
+msgid "Two columns"
+msgstr "Dwie kolumny"
+
+#: includes/class-myhome-redux.php:1550
+msgid "Three columns"
+msgstr "Trzy kolumny"
+
+#: includes/class-myhome-redux.php:1551
+msgid "Row"
+msgstr "Wiersz"
+
+#: includes/class-myhome-redux.php:1558
+msgid "Properties limit"
+msgstr "Limit nieruchomości"
+
+#: includes/class-myhome-redux.php:1565
+msgid "Lazy loading"
+msgstr "Lazy loading"
+
+#: includes/class-myhome-redux.php:1572
+msgid "Show load more button after N loads"
+msgstr "Pokaż przycisk \"wczytaj więcej\" po danej ilości załadowań"
+
+#: includes/class-myhome-redux.php:1584
+#, fuzzy
+#| msgid "Load more (button label)"
+msgid "Load more button label"
+msgstr "\"Wczytaj Wiecej\" nazwa przycisku"
+
+#: includes/class-myhome-redux.php:1585
+msgid "Load more"
+msgstr "Wczytaj więcej"
+
+#: includes/class-myhome-redux.php:1591
+#, fuzzy
+#| msgid "Load previous (button label)"
+msgid "Load previous button label"
+msgstr "\"Wczytaj Poprzednie\" nazwa przycisku"
+
+#: includes/class-myhome-redux.php:1592
+msgid "Load previous"
+msgstr "Wczytaj poprzednie"
+
+#: includes/class-myhome-redux.php:1598
+msgid "Search form position"
+msgstr "Pozycja wyszukiwarki"
+
+#: includes/class-myhome-redux.php:1599 includes/class-myhome-redux.php:1675
+msgid "Not applicable for Agents"
+msgstr "Nie stosuje się w odniesieniu do strony agenta."
+
+#: includes/class-myhome-redux.php:1604
+msgid "Top"
+msgstr "Góra"
+
+#: includes/class-myhome-redux.php:1611
+msgid "Label"
+msgstr "Etykieta"
+
+#: includes/class-myhome-redux.php:1623
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr "Liczba filtrów wyświetlanych przed przyciskiem \"Zaawansowane\""
+
+#: includes/class-myhome-redux.php:1634
+msgid "Display \"advanced\" button"
+msgstr "Wyświetl przycisk \"zaawansowane\""
+
+#: includes/class-myhome-redux.php:1645
+msgid "Display \"clear\" button"
+msgstr "Wyświetl przycisk \"wyczyść\""
+
+#: includes/class-myhome-redux.php:1656
+msgid "Display \"sort by\""
+msgstr "Wyświetl \"sort by\""
+
+#: includes/class-myhome-redux.php:1663
+msgid "Display \"view types\""
+msgstr "Wyświetl \"typy widoków\""
+
+#: includes/class-myhome-redux.php:1674
+#, fuzzy, php-format
+#| msgid "Show filters"
+msgid "Show %s filter"
+msgstr "Pokaż filtry"
+
+#: includes/class-myhome-redux.php:1682
+msgid "Listings"
+msgstr "Listy nieruchomości"
+
+#: includes/class-myhome-redux.php:1685
+msgid ""
+"Below options will change Single Agent Page and Single Attribute Page (eg. "
+"property type, city).\n"
+"                 It will not influence on any Visual Composer Element eg. "
+"Homepages / Maps."
+msgstr ""
+"Poniżesz ustawienia będą miały wpływ na stronę pojedynczego angenta i strony "
+"pół tekstowych (np. pojedycznego miasta, typu nieruchomości)\n"
+"Ustawienia nie wpłyną na żadne element Visual Composera np. Strony Główne / "
+"Mapy."
+
+#: includes/class-myhome-redux.php:1697
+msgid "Footer"
+msgstr "Stopka"
+
+#: includes/class-myhome-redux.php:1705
+#, fuzzy
+#| msgid "Footer text"
+msgid "Footer Style"
+msgstr "Stopka tekst"
+
+#: includes/class-myhome-redux.php:1707
+#, fuzzy
+#| msgid "Big - white background"
+msgid "Light background"
+msgstr "Duże - białe tło"
+
+#: includes/class-myhome-redux.php:1708
+#, fuzzy
+#| msgid "Dark Background"
+msgid "Dark background"
+msgstr "Czarne tło"
+
+#: includes/class-myhome-redux.php:1709
+msgid "Image background"
+msgstr "Zdjęcie tła"
+
+#: includes/class-myhome-redux.php:1718
+msgid "Upload Background Image"
+msgstr "Pobierz zdjęcie tła"
+
+#: includes/class-myhome-redux.php:1729
+msgid "Background Image Parallax"
+msgstr "Tło obrazka jako parallax"
+
+#: includes/class-myhome-redux.php:1741
+msgid "Display Widget Area"
+msgstr "Wyświetl obszar widgetów"
+
+#: includes/class-myhome-redux.php:1748
+#, fuzzy
+#| msgid "Upload Footer Widget logo"
+msgid "Display Footer Widget"
+msgstr "Wgraj logo do widgetu stopki"
+
+#: includes/class-myhome-redux.php:1761
+msgid "Upload Footer Widget logo"
+msgstr "Wgraj logo do widgetu stopki"
+
+#: includes/class-myhome-redux.php:1772
+msgid "Edit Footer Widget Text"
+msgstr "Edytuj tekst w widgecie stopki"
+
+#: includes/class-myhome-redux.php:1773
+msgid ""
+"After a time we drew near the road, and as we did so we heard the clatter of "
+"hoofs and saw through the tree stems three cavalry soldiers riding slowly "
+"towards Woking."
+msgstr ""
+"Po pewnym czasie zbliżaliśmy się do drogi, a kiedy to usłyszeliśmy, "
+"usłyszeliśmy trzask i zobaczyliśmy przez drzewo trzody żołnierzy kawalerii, "
+"które powoli w kierunku Wokinga."
+
+#: includes/class-myhome-redux.php:1784
+msgid "Edit Footer Widget phone"
+msgstr "Edytuj numer telefonu"
+
+#: includes/class-myhome-redux.php:1796
+msgid "Edit Footer Widget email"
+msgstr "Edytuj Email"
+
+#: includes/class-myhome-redux.php:1797
+msgid "support@tangibledesing.net"
+msgstr "support@tangibledesing.net"
+
+#: includes/class-myhome-redux.php:1808
+msgid "Edit Footer Widget address"
+msgstr "Edytuj adres w Widgecie stopki"
+
+#: includes/class-myhome-redux.php:1820
+msgid "Display Copyright Information"
+msgstr "Pokaż informacje o prawach autorskich"
+
+#: includes/class-myhome-redux.php:1827
+msgid "Edit copyright text"
+msgstr "Edytuj informacje o prawach autorskich"
+
+#: includes/class-myhome-redux.php:1828
+msgid "2017 MyHome by TangibleDesign. All rights reserved."
+msgstr "2017 MyHome by TangibleDesign. All rights reserved."
+
+#: includes/class-myhome-redux.php:1854
+msgid "Title"
+msgstr "Tytuł"
+
+#: includes/class-myhome-redux.php:1861
+msgid "Subtitle"
+msgstr "Napisy"
+
+#: includes/class-myhome-redux.php:1882
+#, fuzzy
+#| msgid "email address"
+msgid "Header address"
+msgstr "adres email"
+
+#: includes/class-myhome-redux.php:1886
+msgid "Header phone"
+msgstr "Telefon w nagłówku"
+
+#: includes/class-myhome-redux.php:1890
+msgid "Header email"
+msgstr "E-mail w nagłówku"
+
+#: includes/class-myhome-redux.php:1894
+msgid "Header Facebook"
+msgstr "Nagłówek Facebook"
+
+#: includes/class-myhome-redux.php:1898
+msgid "Header Twitter"
+msgstr "Nagłówek Twitter"
+
+#: includes/class-myhome-redux.php:1902
+msgid "Header Linkedin"
+msgstr "Nagłówek Linkedin"
+
+#: includes/class-myhome-redux.php:1906
+msgid "Header Instagram"
+msgstr "Nagłówek Instagram"
+
+#: includes/class-myhome-redux.php:1911
+msgid "Footer address"
+msgstr "Stopka adress"
+
+#: includes/class-myhome-redux.php:1915
+msgid "Footer phone"
+msgstr "Stopka telefon"
+
+#: includes/class-myhome-redux.php:1919
+msgid "Footer email"
+msgstr "Stopka email"
+
+#: includes/class-myhome-redux.php:1923
+msgid "Footer text"
+msgstr "Stopka tekst"
+
+#: includes/class-myhome-redux.php:1927
+msgid "Footer copyright text"
+msgstr "Stopka tekst prawa autorskie"
+
+#: includes/class-myhome-redux.php:1932
+#, fuzzy
+#| msgid "Read more text"
+msgid "Blog read more text"
+msgstr "Czytaj więcej teskt"
+
+#: includes/class-myhome-redux.php:1937
+msgid "Offer type - rent label (/month)"
+msgstr "Typ oferty - etykieta wynajem (/miesiac)"
+
+#: includes/class-myhome-redux.php:1941
+msgid "Load more (button label)"
+msgstr "\"Wczytaj Wiecej\" nazwa przycisku"
+
+#: includes/class-myhome-redux.php:1945
+msgid "Load previous (button label)"
+msgstr "\"Wczytaj Poprzednie\" nazwa przycisku"
+
+#: includes/class-myhome-redux.php:1950
+msgid "Payments - message above payment methods"
+msgstr "Płatności - wiadomość powyżej metod płatności"
+
+#: includes/class-myhome-scripts.php:221
+#, fuzzy
+#| msgid "Property Listings"
+msgid "1 property listing"
+msgstr "Nieruchomości"
+
+#. translators: If there are characters in your language that are not supported by this font, translate this to 'off'. Do not translate into your own language.
+#: includes/class-myhome-scripts.php:353
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "Włączone"
+
+#. translators: If there are characters in your language that are not supported by this font, translate this to 'off'. Do not translate into your own language.
+#: includes/class-myhome-scripts.php:358
+msgctxt "Play font: on or off"
+msgid "on"
+msgstr "Włączone"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Instalacja wymaganych wtyczek"
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Instaluj wtyczkę"
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie pluginu %s"
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aktualizacja pluginu %s"
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ten motyw wymaga zainstalowania wtyczki: %1$s."
+msgstr[1] "Ten motyw wymaga zainstalowania wtyczki: %1$s."
+msgstr[2] "Ten motyw wymaga zainstalowania wtyczki: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Zalecamy. Ten motyw wymaga zainstalowania wtyczki: %1$s."
+msgstr[1] "Zalecamy. Ten motyw wymaga zainstalowania wtyczki: %1$s."
+msgstr[2] "Zalecamy. Ten motyw wymaga zainstalowania wtyczki: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Następujące wtyczki muszą być zaktualizowane do najnowszej wersji aby "
+"zapewnić maksymalną kompatybilność z motywem: %1$s."
+msgstr[1] ""
+"Następujące wtyczki muszą być zaktualizowane do najnowszej wersji aby "
+"zapewnić maksymalną kompatybilność z motywem: %1$s."
+msgstr[2] ""
+"Następujące wtyczki muszą być zaktualizowane do najnowszej wersji aby "
+"zapewnić maksymalną kompatybilność z motywem: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Jest dostępna aktualizacja: %1$s."
+msgstr[1] "Jest dostępna aktualizacja: %1$s."
+msgstr[2] "Jest dostępna aktualizacja: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Wymagana wtyczka jest aktualnie nieaktywna: %1$s."
+msgstr[1] "Wymagana wtyczka jest aktualnie nieaktywna: %1$s."
+msgstr[2] "Wymagana wtyczka jest aktualnie nieaktywna: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Zalecana wtyczka jest aktualnie nieaktywna: %1$s."
+msgstr[1] "Zalecana wtyczka jest aktualnie nieaktywna: %1$s."
+msgstr[2] "Zalecana wtyczka jest aktualnie nieaktywna: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Aktywowano instalację wtyczek"
+msgstr[2] "aktywowano instalacje wtyczek"
+
+#: includes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpoczynij aktualizowanie wtyczki"
+msgstr[1] "Rozpoczęto aktualizację wtyczek"
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpoczynij aktywację wtyczki"
+msgstr[1] "Rozpoczęto aktywację wtyczek"
+msgstr[2] ""
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Wróć do instalatora wymaganych wtyczek"
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:906
+#: includes/class-tgm-plugin-activation.php:2617
+#: includes/class-tgm-plugin-activation.php:3666
+msgid "Return to the Dashboard"
+msgstr "Powrót to panelu sterowania"
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Wtyczka zaktywowana."
+
+#: includes/class-tgm-plugin-activation.php:395
+#: includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Następujące wtyczki zostały aktywowane pomyślnie:"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Żadne działanie nie jest potrzebne. Wtyczka %1$s jest już aktywna."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Wtyczka nie została aktywowana. Motyw wymaga nowszej wersji wtyczki %s. "
+"Uaktualnij wtyczkę."
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i aktywowane poprawnie. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr "Ukryj wiadomość"
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Jest jedna lub więcej wtyczek, które są zalecane, lub wymagane do "
+"instalacji, aktualizacji lub aktywacji."
+
+#: includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Skontaktuj się z administratorem tej strony."
+
+#: includes/class-tgm-plugin-activation.php:600
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ta wtyczka musi zostać zaktualizowana, by była kompatybilna z Twoim motywem."
+
+#: includes/class-tgm-plugin-activation.php:601
+msgid "Update Required"
+msgstr "Zalecana aktualizacja"
+
+#: includes/class-tgm-plugin-activation.php:1014
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Paczka wtyczki nie zawiera folderu z wymaganym 'plikiem' i zmiana nazwy nie "
+"działa."
+
+#: includes/class-tgm-plugin-activation.php:1014
+#: includes/class-tgm-plugin-activation.php:1017
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Skontaktuj się z dostawcą wtyczki i poproś aby przygotował paczkę z wtyczką "
+"zgodnie z wytycznymi WordPress'a."
+
+#: includes/class-tgm-plugin-activation.php:1017
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Paczka wtyczki zawiera więcej niż jeden plik, ale pliki nie są spakowane do "
+"folderu."
+
+#: includes/class-tgm-plugin-activation.php:1202
+#: includes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "oraz"
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:2063
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/class-tgm-plugin-activation.php:2354
+#, fuzzy
+#| msgid "required"
+msgid "Required"
+msgstr "wymagane"
+
+#: includes/class-tgm-plugin-activation.php:2357
+msgid "Recommended"
+msgstr "Polecane"
+
+#: includes/class-tgm-plugin-activation.php:2373
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPress'a"
+
+#: includes/class-tgm-plugin-activation.php:2376
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: includes/class-tgm-plugin-activation.php:2379
+msgid "Pre-Packaged"
+msgstr "Przepakowane"
+
+#: includes/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano, ale nie aktywowano"
+
+#: includes/class-tgm-plugin-activation.php:2402
+msgid "Active"
+msgstr "Aktywuj"
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja niedostępna"
+
+#: includes/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "Zalecana aktualizacja"
+
+#: includes/class-tgm-plugin-activation.php:2414
+#, fuzzy
+#| msgid "Recommended"
+msgid "Update recommended"
+msgstr "Polecane"
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2423
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s = status instalacji, %2$s = status aktualizacji %1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2469
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Do zainstalowania <span class=\"count\">(%s)</span>"
+msgstr[1] "Do zainstalowania <span class=\"count\">(%s)</span>"
+msgstr[2] "Do zainstalowania <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Do aktywacji <span class=\"count\">(%s)</span>"
+msgstr[1] "Do aktywacji <span class=\"count\">(%s)</span>"
+msgstr[2] "Do aktywacji <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznana"
+
+#: includes/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr "Instaluj wersję:"
+
+#: includes/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr "Minimalne wymagania:"
+
+#: includes/class-tgm-plugin-activation.php:2593
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: includes/class-tgm-plugin-activation.php:2616
+msgid "No plugins to install, update or activate."
+msgstr "Brak wtyczek do zainstalowania, zaktualizuj lub aktywuj."
+
+#: includes/class-tgm-plugin-activation.php:2631
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Source"
+msgstr "Źródło"
+
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Type"
+msgstr "Typ"
+
+#: includes/class-tgm-plugin-activation.php:2637
+msgid "Version"
+msgstr "Wersja"
+
+#: includes/class-tgm-plugin-activation.php:2638
+msgid "Status"
+msgstr "Stan"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2687
+#, php-format
+msgid "Install %2$s"
+msgstr "Instaluj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2692
+#, fuzzy, php-format
+#| msgid "Update %s"
+msgid "Update %2$s"
+msgstr "Aktualizuj %s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktywacja %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2768
+msgid "Upgrade message from the plugin author:"
+msgstr "Wyślij wiadomość do autora wtyczki:"
+
+#: includes/class-tgm-plugin-activation.php:2801
+msgid "Install"
+msgstr "Instaluj"
+
+#: includes/class-tgm-plugin-activation.php:2807
+#, fuzzy
+#| msgid "Update %s"
+msgid "Update"
+msgstr "Aktualizuj %s"
+
+#: includes/class-tgm-plugin-activation.php:2810
+#, fuzzy
+#| msgid "Active"
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: includes/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nie zaznaczono żadnej wtyczki do instalacji. Żadna akcja nie została "
+"wykonana."
+
+#: includes/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nie zaznaczono żadnej wtyczki do aktualizacji. Żadna akcja nie została "
+"wykonana."
+
+#: includes/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be installed at this time."
+msgstr "Na razie brak wtyczek dostępnych do instalacji."
+
+#: includes/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be updated at this time."
+msgstr "Na razie brak wtyczek dostępnych do aktualizacji."
+
+#: includes/class-tgm-plugin-activation.php:2992
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nie wybrano wtyczek do aktywacji. Nie podjęto żadnych działań."
+
+#: includes/class-tgm-plugin-activation.php:3018
+msgid "No plugins are available to be activated at this time."
+msgstr "Aktualnie nie ma dostępnych wtyczek do aktywacji."
+
+#: includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodła się."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizowanie wtyczki %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalowania %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+#: includes/class-tgm-plugin-activation.php:3593
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Rozpoczęto proces instalacji i aktywacji. Aktywacja może trochę potrwać, "
+"proszę o cierpliwość..."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowano oraz aktywowano pomyślnie."
+
+#: includes/class-tgm-plugin-activation.php:3595
+#: includes/class-tgm-plugin-activation.php:3603
+#, fuzzy
+#| msgid "Details"
+msgid "Show Details"
+msgstr "Szczegóły"
+
+#: includes/class-tgm-plugin-activation.php:3595
+#: includes/class-tgm-plugin-activation.php:3603
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: includes/class-tgm-plugin-activation.php:3596
+msgid "All installations and activations have been completed."
+msgstr "Instalacja i aktywacja zakończona."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja i aktywacja wtyczki %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. Może to zająć chwilę proszę o "
+"cierpliwość ..."
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalacja zakończona."
+
+#: includes/class-tgm-plugin-activation.php:3604
+msgid "All installations have been completed."
+msgstr "Instalacja została zakończona."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instaluję wtyczkę %1$s (%2$d/%3$d)"
+
+#: includes/menu/class-myhome-menu.php:89
+#, fuzzy
+#| msgid "Primary"
+msgid "MH Primary"
+msgstr "Podstawowy"
+
+#: includes/menu/class-myhome-menu.php:208
+msgid "Submit property"
+msgstr "Dodaj nieruchomość"
+
+#: search.php:40
+#, fuzzy
+#| msgid "results"
+msgid "No results"
+msgstr "wyniki"
+
+#: templates/author.php:16
+#, fuzzy
+#| msgid "Testimonial author"
+msgid "Post author"
+msgstr "Autor rekomendacji"
+
+#: templates/content-single-estate.php:128
+#: templates/content-single-estate.php:297
+msgid "See Map"
+msgstr "Sprawdź na mapie"
+
+#: templates/content-single-estate.php:202
+msgid "Details"
+msgstr "Szczegóły"
+
+#: templates/content-single-estate.php:208
+msgid "Video"
+msgstr "Video"
+
+#: templates/content-single-estate.php:217
+msgid "Virtual tour"
+msgstr "Wirtualny spacer"
+
+#: templates/content-single-estate.php:226
+msgid "Plans"
+msgstr "Plany"
+
+#: templates/content-single-estate.php:252
+msgid "ID:"
+msgstr "ID:"
+
+#: templates/content-single-estate.php:256
+#, fuzzy
+#| msgid "Publish"
+msgid "Published:"
+msgstr "Opublikowano"
+
+#: templates/content-single-estate.php:260
+msgid "Last Update:"
+msgstr "Aktualizowano:"
+
+#: templates/content-single-estate.php:264
+msgid "Views:"
+msgstr "Wyświetlenia:"
+
+#: templates/content-single-estate.php:308
+msgid "Reply to the listing"
+msgstr "czekamy na twoje pytanie"
+
+#: templates/content-single-estate.php:403
+#, fuzzy, php-format
+#| msgid "All %s"
+msgid "All by %s"
+msgstr "Wszysko %s"
+
+#: templates/content-single.php:22
+#, fuzzy
+#| msgid "Categories"
+msgid "Category:"
+msgstr "Kategorie"
+
+#: templates/nav-single.php:10
+msgid "previous"
+msgstr "poprzedni"
+
+#: templates/nav-single.php:23
+msgid "next"
+msgstr "następny"
+
+#: templates/post-vertical.php:23 templates/related-posts.php:29
+msgid "..."
+msgstr "..."
+
+#: templates/related-posts.php:6
+msgid "Related posts"
+msgstr "Polecany wpis"
+
+#: templates/top-title.php:57
+msgid "Search result for "
+msgstr "wyszukane wyniki"
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "MyHome"
+msgstr "MyHome"
+
+#. Theme URI of the plugin/theme
+msgid "http://myhome.tangibledesign.net/"
+msgstr "http://myhome.tangibledesign.net/"
+
+#. Author of the plugin/theme
+msgid "Tangible Design"
+msgstr "Tangible Design"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+#| msgid "http://tangibledesign.net"
+msgid "http://tangibledesign.net/"
+msgstr "http://tangibledesign.net"
+
+#~ msgid "Check your email"
+#~ msgstr "Sprawdź swój email"
+
+#~ msgid "Unknown error, try again."
+#~ msgstr "Nienany błąd, spróbuj ponownie."
+
+#~ msgid "<strong>ERROR</strong>: Enter a username or email address."
+#~ msgstr ""
+#~ "<strong>ERROR</strong>: Wprowadź nazwę użytkownika lub adres e-mail."
+
+#~ msgid ""
+#~ "<strong>ERROR</strong>: There is no user registered with that email "
+#~ "address."
+#~ msgstr ""
+#~ "<strong>ERROR</strong>: Użytkownik o podanym adresie e-mail nie istnieje."
+
+#~ msgid "<strong>ERROR</strong>: Invalid username or email."
+#~ msgstr "<strong>ERROR</strong>: Nieprawidłowa nazwa użytkownika lub e-mail."
+
+#~ msgid "Someone has requested a password reset for the following account:"
+#~ msgstr "Ktoś zażądał zresetowania hasła dostępu do poniższego konta:"
+
+#~ msgid "Username: %s"
+#~ msgstr "Użytkownik: %s"
+
+#~ msgid ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr "Jeśli jest to pomyłka zignoruj tę wiadomość, nic się nie stanie."
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "Aby zresetować hasło dostępu, kliknij link poniżej:"
+
+#~ msgid "[%s] Password Reset"
+#~ msgstr "[%s] Zresetuj hasło"
+
+#~ msgid "The email could not be sent."
+#~ msgstr "Wysłanie e-maila zakończyło się niepowodzeniem."
+
+#~ msgid "Empty field"
+#~ msgstr "Puste pole"
+
+#~ msgid "Check errors"
+#~ msgstr "Sprawdź błędy"
+
+#~ msgid "Wrong password"
+#~ msgstr "Nieprawidłowe hasło"
+
+#~ msgid "Invalid username"
+#~ msgstr "Nieprawidłowa nazwa użytkownika"
+
+#~ msgid "Unknown error, try again"
+#~ msgstr "Nieznany błąd, spróbuj ponownie"
+
+#~ msgid "Email is not valid"
+#~ msgstr "E-mail jest nieważny"
+
+#~ msgid "This email is already exists."
+#~ msgstr "Podany e-mail już istnieje."
+
+#~ msgid "This username already exists."
+#~ msgstr "Podana nazwa użytkownika już istnieje."
+
+#~ msgid "Successful registration! You can login now."
+#~ msgstr "Konto zostało aktywowane, możesz się teraz zalogować."
+
+#~ msgid "Unknown error, please try again."
+#~ msgstr "Nieznany błąd, proszę spróbować ponownie."
+
+#~ msgid "From: %s<br>Phone: %s<br>Message: %s<br>Estate: %s"
+#~ msgstr "Z: %s<br>Telefon: %s<br>Wiadomość: %s<br>Nieruchomość: %s"
+
+#~ msgid "Property Attributes"
+#~ msgstr "Opcje nieruchomości"
+
+#~ msgid "Number field"
+#~ msgstr "Pole numeryczne"
+
+#~ msgid "Text field"
+#~ msgstr "Pole tekstowe"
+
+#~ msgid "Keyword"
+#~ msgstr "Słowo kluczowe"
+
+#~ msgid ""
+#~ "%1$s - view on the search form<div class=\"acf-settings-wrap__subtitle\">"
+#~ "%2$s</div>"
+#~ msgstr ""
+#~ "%1$s - view on the search form<div class=\"acf-settings-wrap__subtitle\">"
+#~ "%2$s</div>"
+
+#~ msgid "Basic"
+#~ msgstr "Podstawowy"
+
+#~ msgid "Search form - display as:"
+#~ msgstr "Formularz wyszukiwania - wyświetlaj jako:"
+
+#~ msgid "Input field"
+#~ msgstr "Pole tekstowe"
+
+#~ msgid "Input field based on a range ( from - to )"
+#~ msgstr "Pole tekstowe w oparciu o zakres (od - do)"
+
+#~ msgid "Drop-down list "
+#~ msgstr "Lista rozwijalna "
+
+#~ msgid "Drop-down list based on a range ( from - to )"
+#~ msgstr "Lista rozwijana w oparciu o zakres (od - do)"
+
+#~ msgid "Dropdown list"
+#~ msgstr "Lista rozwijana"
+
+#~ msgid "Input Text"
+#~ msgstr "Pole tekstowe"
+
+#~ msgid "Checkbox"
+#~ msgstr "Pole do zaznaczenia"
+
+#~ msgid ""
+#~ "Mixed - Radio / Select ( search form position left/right - radio button | "
+#~ "search form position top/bottom: select)"
+#~ msgstr ""
+#~ "Mix - Radio / Select (w przypadku opcji z sidebarem) - select w przypadku "
+#~ "opcji (top / bottom)"
+
+#~ msgid "Default values"
+#~ msgstr "Wartości domyślne"
+
+#~ msgid "All existing values"
+#~ msgstr "Wszystkie wartości"
+
+#~ msgid "Most popular"
+#~ msgstr "Najpopularniejsze"
+
+#~ msgid "Static values"
+#~ msgstr "Wartości statyczne"
+
+#~ msgid "Most popular values limit (number)"
+#~ msgstr "Limit najpopularniejszych wartości (ilość)"
+
+#~ msgid "Add"
+#~ msgstr "Dodaj"
+
+#~ msgid "Name (visible)"
+#~ msgstr "Nazwa (widoczna)"
+
+#~ msgid "Value"
+#~ msgstr "Wartość"
+
+#~ msgid "Display on single property page"
+#~ msgstr "Wyświetl na stronie pojedynczej nieruchomości"
+
+#~ msgid "Advanced"
+#~ msgstr "Zaawansowane"
+
+#~ msgid "Use as tags"
+#~ msgstr "Użyj jak tagów"
+
+#~ msgid "Single property page: display in a separate section"
+#~ msgstr "Strona pojedynczej nieruchomości: wyświetl w osobnej sekcji"
+
+#~ msgid "Single property page: show as link"
+#~ msgstr "Strona pojedynczej nieruchomości: pokaż jako link"
+
+#~ msgid "Search Form - display full width"
+#~ msgstr "Formularz wyszukiwania - wyświetl w pełnej szerokości"
+
+#~ msgid "Unit of measure"
+#~ msgstr "Jednostka miary"
+
+#~ msgid ""
+#~ "It will be displayed after name eg. you can use that to add (sq feet) "
+#~ "next to lot size, but it will be not used in link so it is much more "
+#~ "useful."
+#~ msgstr ""
+#~ "Zostanie wyświetlone po nazwie pola np. możesz użyć tego do dodania (sq "
+#~ "feet) obok powierzchni."
+
+#~ msgid "Placeholder"
+#~ msgstr "Placeholder"
+
+#~ msgid "Placeholder (default: from)"
+#~ msgstr "Placeholder (domyślnie: od)"
+
+#~ msgid "Placeholder (default: to)"
+#~ msgstr "Placeholder (domyślnie: do)"
+
+#~ msgid "%s Settings"
+#~ msgstr "%s Ustawienia"
+
+#~ msgid "Settings"
+#~ msgstr "Ustawienia"
+
+#~ msgid "Image wide"
+#~ msgstr "Obraz szeroki"
+
+#~ msgid "Recommended size 1920x500 px"
+#~ msgstr "Zalecany rozmiar 1920x500px"
+
+#~ msgid "Keyword Settings"
+#~ msgstr "Słowa kluczowe"
+
+#~ msgid ""
+#~ "Default placeholder is always a name of a field, but you can change it "
+#~ "below"
+#~ msgstr "Domyślnym placeholderem jest nazwa pola, ale możesz go zmienić"
+
+#~ msgid "Search %s"
+#~ msgstr "Wyszukaj %s"
+
+#~ msgid "Parent %s"
+#~ msgstr "Nadrzędny %s"
+
+#~ msgid "Parent %s:"
+#~ msgstr "Nadrzędny %s:"
+
+#~ msgid "Edit %s"
+#~ msgstr "Edytuj %s"
+
+#~ msgid "Add New %s"
+#~ msgstr "Dodaj nowy %s"
+
+#~ msgid "New %s Name"
+#~ msgstr "Nowa nazwa %s"
+
+#~ msgid "Property fields"
+#~ msgstr "Pola nieruchomości"
+
+#~ msgid "Use \"Up\" and \"Down\" arrows to change order of the options"
+#~ msgstr "Użyj strzałek \"W górę\" i \"W dół\", aby zmienić kolejność opcji"
+
+#~ msgid "Add new field"
+#~ msgstr "Dodaj nowe pole"
+
+#~ msgid "Field type"
+#~ msgstr "Rodzaj pola"
+
+#~ msgid "Create"
+#~ msgstr "Utwórz"
+
+#~ msgid "City"
+#~ msgstr "Miasto"
+
+#~ msgid "Price"
+#~ msgstr "Cena"
+
+#~ msgid "Bedrooms"
+#~ msgstr "Sypialnie"
+
+#~ msgid "Bathrooms"
+#~ msgstr "Łazienki"
+
+#~ msgid "Property Size"
+#~ msgstr "Powierzchnia"
+
+#~ msgid "Lot Size"
+#~ msgstr "Powierzchnia z działką"
+
+#~ msgid "Year"
+#~ msgstr "Rok"
+
+#~ msgid "Features"
+#~ msgstr "Właściwości"
+
+#~ msgid "Clear cache"
+#~ msgstr "Wyczyść cache"
+
+#~ msgid "Properties"
+#~ msgstr "Nieruchomości"
+
+#~ msgid "Property"
+#~ msgstr "Nieruchomość"
+
+#~ msgid "Add New Property"
+#~ msgstr "Dodaj nową nieruchomość"
+
+#~ msgid "New Property"
+#~ msgstr "Nowa nieruchomość"
+
+#~ msgid "Edit Property"
+#~ msgstr "Edytuj nieruchomość"
+
+#~ msgid "View Property"
+#~ msgstr "Zobacz Nieruchomość"
+
+#~ msgid "Search property"
+#~ msgstr "Szukaj"
+
+#~ msgid "No Property Found found."
+#~ msgstr "Nie znaleziono nieruchomości."
+
+#~ msgid "No Property found in Trash."
+#~ msgstr "Nie znaleziono nieruchomości."
+
+#~ msgid "Featured"
+#~ msgstr "Polecane"
+
+#~ msgid "Add plan"
+#~ msgstr "Dodaj plan"
+
+#~ msgid ""
+#~ "Video link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to ."
+#~ "mp4)"
+#~ msgstr ""
+#~ "Wideo (Youtube / Vimeo / Facebook / Twitter / Instagram / link do .mp4)"
+
+#~ msgid "Add embed code"
+#~ msgstr "Dodaj kod embed"
+
+#~ msgid "Property details"
+#~ msgstr "Szczegóły nieruchomości"
+
+#~ msgid "Hidden"
+#~ msgstr "Ukryte"
+
+#~ msgid "Estates limit (Number)"
+#~ msgstr "Limit nieruchomości (liczba)"
+
+#~ msgid "Number of times estates will be loaded after clicking “Load More”"
+#~ msgstr "Liczba załadowań po kliknięciu przycisku \"Załaduj więcej\""
+
+#~ msgid "\"Load More\" button label"
+#~ msgstr "\"Wczytaj wiecej\" tekst przycisku"
+
+#~ msgid "\"Load Previous\" button label"
+#~ msgstr "\"Wczytaj poprzednie\" tekst przycisku"
+
+#~ msgid "%s from"
+#~ msgstr "%s z"
+
+#~ msgid "%s to"
+#~ msgstr "%s do"
+
+#~ msgid "Show %s"
+#~ msgstr "Pokaż %s"
+
+#~ msgid "Bottom"
+#~ msgstr "Poniżej"
+
+#~ msgid "Wide search form"
+#~ msgstr "Szeroki formularz"
+
+#~ msgid "Map height"
+#~ msgstr "Wysokość mapy"
+
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "Tall"
+#~ msgstr "Wysoki"
+
+#~ msgid "Author occupation"
+#~ msgstr "Zawód autora"
+
+#~ msgid "Client"
+#~ msgstr "Klient"
+
+#~ msgid "Client link"
+#~ msgstr "Link klienta"
+
+#~ msgid "Clients"
+#~ msgstr "Klienci"
+
+#~ msgid "Add new Client"
+#~ msgstr "Dodaj nowego klienta"
+
+#~ msgid "Add New Client"
+#~ msgstr "Dodaj nowego klienta"
+
+#~ msgid "New Client"
+#~ msgstr "Nowy klient"
+
+#~ msgid "Edit Client"
+#~ msgstr "Edytuj klienta"
+
+#~ msgid "View Client"
+#~ msgstr "Wyświetl klienta"
+
+#~ msgid "Search Clients"
+#~ msgstr "Wyszukaj klienta"
+
+#~ msgid "No Clients found."
+#~ msgstr "Nie znaleziono klienta."
+
+#~ msgid "No Clients found in Trash."
+#~ msgstr "Nie znaleziono klienta."
+
+#~ msgid "Testimonials"
+#~ msgstr "Rekomendacje"
+
+#~ msgid "Testimonial"
+#~ msgstr "Rekomendacja"
+
+#~ msgid "Add new Testimonial"
+#~ msgstr "Dodaj nową rekomendacje"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Dodaj nową rekomendację"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Nowa rekomendacja"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Edytuj rekomendację"
+
+#~ msgid "View Testimonial"
+#~ msgstr "Wyświetl rekomendację"
+
+#~ msgid "Search Testimonials"
+#~ msgstr "Wyszukaj rekomendacje"
+
+#~ msgid "No Testimonials found."
+#~ msgstr "Nie znaleziono rekomendacji."
+
+#~ msgid "No Testimonials found in Trash."
+#~ msgstr "Nie znaleziono rekomendacji."
+
+#~ msgid "Filters"
+#~ msgstr "Filtry"
+
+#~ msgid "Price from"
+#~ msgstr "Cena od"
+
+#~ msgid "Price to"
+#~ msgstr "Cena do"
+
+#~ msgid "Bathrooms from"
+#~ msgstr "Łazienki od"
+
+#~ msgid "Bathrooms to"
+#~ msgstr "Łazienki do"
+
+#~ msgid "Bedrooms from"
+#~ msgstr "Sypialnie od"
+
+#~ msgid "Bedrooms to"
+#~ msgstr "Sypialnie do"
+
+#~ msgid "All areas"
+#~ msgstr "Dowolna lokalizacja"
+
+#~ msgid "Year built"
+#~ msgstr "Rok wybudowania"
+
+#~ msgid "Property size from"
+#~ msgstr "Powierzchnia od"
+
+#~ msgid "Property size to"
+#~ msgstr "Powierzchnia do"
+
+#~ msgid "Lot size from"
+#~ msgstr "Wielkość działki od"
+
+#~ msgid "Lot size to"
+#~ msgstr "Wielkość działki do"
+
+#~ msgid "Sell"
+#~ msgstr "Na sprzedaż"
+
+#~ msgid "Areas"
+#~ msgstr "Okolica"
+
+#~ msgid "Built year from"
+#~ msgstr "Data budowy od"
+
+#~ msgid "Built year to"
+#~ msgstr "Data budowy do"
+
+#~ msgid "Any"
+#~ msgstr "Wszystkie"
+
+#~ msgid "From"
+#~ msgstr "Od"
+
+#~ msgid "To"
+#~ msgstr "Do"
+
+#~ msgid "Lot size"
+#~ msgstr "Powierzchnia działki"
+
+#~ msgid "Build Year"
+#~ msgstr "Rok budowy"
+
+#~ msgid "Keywords"
+#~ msgstr "Słowa kluczowe"
+
+#~ msgid "Parameters"
+#~ msgstr "Parametry"
+
+#~ msgid "Clear selections"
+#~ msgstr "Wyczyść  zaznaczone"
+
+#~ msgid "Clear search"
+#~ msgstr "Wyczyść wyszukiwanie"
+
+#~ msgid "Hide"
+#~ msgstr "Ukryj"
+
+#~ msgid "Show Location"
+#~ msgstr "Pokaż lokalizacje"
+
+#~ msgid "Show Places"
+#~ msgstr "Pokaż miejsca"
+
+#~ msgid "Show Near"
+#~ msgstr "Pokaż w okolicy"
+
+#~ msgid "clear"
+#~ msgstr "wyczyść"
+
+#~ msgid "Compare"
+#~ msgstr "Porównaj"
+
+#~ msgid "Added"
+#~ msgstr "Dodano"
+
+#~ msgid "More"
+#~ msgstr "Wiecej"
+
+#~ msgid "Newest"
+#~ msgstr "Najnowszy"
+
+#~ msgid "Sort by:"
+#~ msgstr "Sortuj po:"
+
+#~ msgid "Popular"
+#~ msgstr "Popularne"
+
+#~ msgid "reset"
+#~ msgstr "reset"
+
+#~ msgid "Full Screen"
+#~ msgstr "Pełny ekran"
+
+#~ msgid "Price (high to low)"
+#~ msgstr "Cena (od największej)"
+
+#~ msgid "Price (low to high)"
+#~ msgstr "Cena (od najmniejszej)"
+
+#~ msgid "Found"
+#~ msgstr "Znaleziono"
+
+#~ msgid "Street View"
+#~ msgstr "Widok ulicy"
+
+#~ msgid "Previous"
+#~ msgstr "Poprzedni"
+
+#~ msgid "Next"
+#~ msgstr "Następny"
+
+#~ msgid "Full screen"
+#~ msgstr "Pełny ekran"
+
+#~ msgid "Close full screen"
+#~ msgstr "Zamknij pełny ekran"
+
+#~ msgid "Reset"
+#~ msgstr "Zresetuj"
+
+#~ msgid "No results found"
+#~ msgstr "Brak wyników"
+
+#~ msgid "Show location"
+#~ msgstr "Pokaż lokalizację"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Pełny ekran"
+
+#~ msgid "Are you sure you want to delete this field?"
+#~ msgstr "Czy na pewno chcesz usunąć?"
+
+#~ msgid "Up"
+#~ msgstr "Do góry"
+
+#~ msgid "Down"
+#~ msgstr "Na dół"
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#~ msgid "Delete"
+#~ msgstr "Usuń"
+
+#~ msgid "- separate with commas"
+#~ msgstr "- oddziel przecinkami"
+
+#~ msgid "Yes"
+#~ msgstr "Tak"
+
+#~ msgid "No"
+#~ msgstr "Nie"
+
+#~ msgid "Show"
+#~ msgstr "Pokaż"
+
+#~ msgid "Clear"
+#~ msgstr "Wyczyść"
+
+#~ msgid "Attributes"
+#~ msgstr "Atrybuty"
+
+#~ msgid "Your message"
+#~ msgstr "Twoja wiadomość"
+
+#~ msgid "Send"
+#~ msgstr "Wyślij"
+
+#~ msgid "Message is to short (min 5 characters) "
+#~ msgstr "Wiadomość jest zbyt krótka (min 5 znaków) "
+
+#~ msgid "Email address is invalid"
+#~ msgstr "Adres e-mail jest nieprawidłowy"
+
+#~ msgid "Error..."
+#~ msgstr "Błąd..."
+
+#~ msgid "Your message was sent successfully. Thanks."
+#~ msgstr "Twoja wiadomość została wysłana. Dziękujemy."
+
+#~ msgid "Sending..."
+#~ msgstr "Wysyłanie..."
+
+#~ msgid "Remove file"
+#~ msgstr "Usuń plik"
+
+#~ msgid "Upload profile picture"
+#~ msgstr "Prześlij zdjęcie profilowe"
+
+#~ msgid "Drop plan image here or click to upload"
+#~ msgstr "Przerzuć zdjęcie planu tutaj lub kliknij aby wgrać"
+
+#~ msgid "Drop featured image here or click to upload"
+#~ msgstr "Przerzuć zdjęcie główne tutaj lub kliknij aby wgrać"
+
+#~ msgid "Drop all images here or click to upload"
+#~ msgstr "Przerzuć wszystkie zdjęcia tutaj lub kliknij aby wgrać"
+
+#~ msgid "Cancel upload"
+#~ msgstr "Anuluj przesyłanie"
+
+#~ msgid "Are you sure you want to cancel this upload?"
+#~ msgstr "Czy na pewno anulować przesyłanie?"
+
+#~ msgid "Image upload failed"
+#~ msgstr "Wczytywanie obrazu nie powiodło się"
+
+#~ msgid "You can't upload files of this type."
+#~ msgstr "Nie można przesyłać plików tego typu."
+
+#~ msgid "Pay with credit card"
+#~ msgstr "Zapłać kartą kredytową"
+
+#~ msgid "Pay with PayPal"
+#~ msgstr "Zapłać z Paypall"
+
+#~ msgid "Thank you for registering. You can log in now."
+#~ msgstr "Dziękujemy za rejestrację. Teraz możesz się zalogować."
+
+#~ msgid "Log in"
+#~ msgstr "Log in"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "password"
+#~ msgstr "hasło"
+
+#~ msgid "user name"
+#~ msgstr "nazwa użytkownika"
+
+#~ msgid "email"
+#~ msgstr "email"
+
+#~ msgid "Public name"
+#~ msgstr "Nazwa publiczna"
+
+#~ msgid "Welcome"
+#~ msgstr "Witaj"
+
+#~ msgid "My properties"
+#~ msgstr "Moje nieruchomości"
+
+#~ msgid "Edit profile"
+#~ msgstr "Edytuj profil"
+
+#~ msgid "View my profile"
+#~ msgstr "Wyświetl mój profil"
+
+#~ msgid "Phone number"
+#~ msgstr "Numer telefonu"
+
+#~ msgid "Profile picture"
+#~ msgstr "Zdjęcie profilowe"
+
+#~ msgid "Add image"
+#~ msgstr "Dodaj obrazek"
+
+#~ msgid "Set image"
+#~ msgstr "Ustaw obrazek/zdjęcie"
+
+#~ msgid "Facebook profile link"
+#~ msgstr "Link do profilu Facebook"
+
+#~ msgid "Twitter profile link"
+#~ msgstr "Link do profilu na Twitterze"
+
+#~ msgid "Instagram profile link"
+#~ msgstr "Link profil Instagram"
+
+#~ msgid "Linkedin profile link"
+#~ msgstr "Link do profilu na LinkedIn"
+
+#~ msgid "Update profile"
+#~ msgstr "Aktualizuj profil"
+
+#~ msgid "Register"
+#~ msgstr "Rejestracja"
+
+#~ msgid "Edit property"
+#~ msgstr "Edytuj nieruchomość"
+
+#~ msgid "Update property"
+#~ msgstr "Aktualizuj nieruchomość"
+
+#~ msgid "Description"
+#~ msgstr "Opis"
+
+#~ msgid "Featured image"
+#~ msgstr "Wyróżnione zdjęcie"
+
+#~ msgid "All images"
+#~ msgstr "Wszystkie zdjęcia"
+
+#~ msgid "reset password"
+#~ msgstr "zresetuj hasło"
+
+#~ msgid "Reset password"
+#~ msgstr "Zresetuj hasło"
+
+#~ msgid "Back to login form"
+#~ msgstr "Powrót do logowania"
+
+#~ msgid "remember me"
+#~ msgstr "pamiętaj mnie"
+
+#~ msgid "You haven’t added any property yet"
+#~ msgstr "Nie dodałeś jeszcze żadnej nieruchomości"
+
+#~ msgid ""
+#~ "Video Link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to ."
+#~ "mp4)"
+#~ msgstr ""
+#~ "Wideo (Youtube / Vimeo / Facebook / Twitter / Instagram / link do .mp4)"
+
+#~ msgid "Are you sure you want to delete"
+#~ msgstr "Czy na pewno chcesz usunąć?"
+
+#~ msgid "Username ( cannot be changed )"
+#~ msgstr "Nazwa użytkownika (nie może być zmieniona)"
+
+#~ msgid "Profile updated"
+#~ msgstr "Zaktualizowano profil"
+
+#~ msgid "Unknown error"
+#~ msgstr "Nieznany błąd"
+
+#~ msgid "You are logged in"
+#~ msgstr "Jesteś zalogowany/a"
+
+#~ msgid "You are logged out"
+#~ msgstr "Zostałeś wylogowany/a"
+
+#~ msgid "Select or upload"
+#~ msgstr "Wybierz lub prześlij"
+
+#~ msgid "Use this media"
+#~ msgstr "Użyj tych mediów"
+
+#~ msgid "Use commas to separate"
+#~ msgstr "Użuj przecinka (,) do oddzielenia"
+
+#~ msgid "This property is waiting for approval."
+#~ msgstr "Ta nieruchomość czeka na zatwierdzenie."
+
+#~ msgid "payed"
+#~ msgstr "zapłacono"
+
+#~ msgid "pay"
+#~ msgstr "zapłać"
+
+#~ msgid "Thank you for submitting your property information."
+#~ msgstr "Dziękujemy za przesłanie informacji o nieruchomości."
+
+#~ msgid ""
+#~ "Thank you for submitting your property information. Your property is "
+#~ "waiting for approval."
+#~ msgstr ""
+#~ "Dziękujemy za przesłanie informacji o nieruchomości. Twoja nieruchomość "
+#~ "czeka na zatwierdzenie."
+
+#~ msgid ""
+#~ "If you edit your property, it won't be visible to the public until it is "
+#~ "approved again."
+#~ msgstr ""
+#~ "Jeśli edytujesz nieruchomość, nie będzie ona widoczna publicznie, dopóki "
+#~ "nie zostanie ponownie zatwierdzona."
+
+#~ msgid "Pending"
+#~ msgstr "Oczekujący"
+
+#~ msgid "Draft"
+#~ msgstr "Szkic"
+
+#~ msgid "Private"
+#~ msgstr "Prywatny"
+
+#~ msgid "Trash"
+#~ msgstr "W koszu"
+
+#~ msgid "Set map marker without changing address field"
+#~ msgstr "Ustaw znacznik mapy bez zmiany pola adresu"
+
+#~ msgid "MyHome - Search form fields"
+#~ msgstr "MyHome - pola wyszukwiania"
+
+#~ msgid "Field name - %s"
+#~ msgstr "Nazwa pola - %s"
+
+#~ msgid " %s (display after)"
+#~ msgstr " %s (wyświetlanie po)"
+
+#~ msgid " %s (placeholder from)"
+#~ msgstr " %s (placeholder od)"
+
+#~ msgid " %s (placeholder to)"
+#~ msgstr " %s (placeholder do)"
+
+#~ msgid " %s (placeholder)"
+#~ msgstr " %s (placeholder)"
+
+#~ msgid "%s ago"
+#~ msgstr "%s temu"
+
+#~ msgid "%s listing, Estate ID: %d"
+#~ msgstr "%s nieruchomość,  ID: %d"
+
+#~ msgid "Button"
+#~ msgstr "Przycisk"
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Read More"
+#~ msgstr "Czytaj więcej"
+
+#~ msgid "Style"
+#~ msgstr "Styl"
+
+#~ msgid "Primary ghost"
+#~ msgstr "Podstawowy ramka"
+
+#~ msgid "White"
+#~ msgstr "Biały"
+
+#~ msgid "Dark"
+#~ msgstr "Czarny"
+
+#~ msgid "Size"
+#~ msgstr "Rozmiar"
+
+#~ msgid "Big"
+#~ msgstr "Duży"
+
+#~ msgid "Align"
+#~ msgstr "Wyrównanie"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "eg. http://xxxxxxx.xxx"
+#~ msgstr "np. http://xxxxxxx.xxx"
+
+#~ msgid "Css"
+#~ msgstr "Css"
+
+#~ msgid "Design options"
+#~ msgstr "Opcje stylów"
+
+#~ msgid "Agent Carousel"
+#~ msgstr "Karuzela agentów"
+
+#~ msgid "Visible"
+#~ msgstr "Widoczny"
+
+#~ msgid "Default - 3"
+#~ msgstr "Domyślny - 3"
+
+#~ msgid "1 "
+#~ msgstr "1 "
+
+#~ msgid "2 "
+#~ msgstr "2 "
+
+#~ msgid "3 "
+#~ msgstr "3 "
+
+#~ msgid "4 "
+#~ msgstr "4 "
+
+#~ msgid "Agents limit"
+#~ msgstr "Limit agentów"
+
+#~ msgid "Exclude admins"
+#~ msgstr "Wyklucz adminów"
+
+#~ msgid "White Background"
+#~ msgstr "Białe tło"
+
+#~ msgid "Show description"
+#~ msgstr "Pokaż opis"
+
+#~ msgid "Show social icons"
+#~ msgstr "Pokaż ikony portali społecznościowych"
+
+#~ msgid "Show Email"
+#~ msgstr "Pokaż E-mail"
+
+#~ msgid "Show phone"
+#~ msgstr "Pokaż telefon"
+
+#~ msgid "Show button"
+#~ msgstr "Pokaż przycisk"
+
+#~ msgid "Dots"
+#~ msgstr "Kropki"
+
+#~ msgid "Full Profile"
+#~ msgstr "Pełny profil"
+
+#~ msgid "Attribute Carousel"
+#~ msgstr "Karuzela Atrybutów"
+
+#~ msgid "Attribute"
+#~ msgstr "Atrybuty"
+
+#~ msgid ""
+#~ "It shows options with at least one property assigned e.g. it will not "
+#~ "show Washington if it has not at least one property assigned"
+#~ msgstr "Pokazuje opcje z przynajmniej jedną nieruchomością przypisaną"
+
+#~ msgid "Visible number"
+#~ msgstr "Ilośc widocznych"
+
+#~ msgid "5 "
+#~ msgstr "5 "
+
+#~ msgid "Total elements number"
+#~ msgstr "Liczba wszystkich elementów"
+
+#~ msgid "Client Carousel"
+#~ msgstr "Karuzela Klientów"
+
+#~ msgid "Number of visible clients"
+#~ msgstr "Liczba widocznych klientów"
+
+#~ msgid "Image Hover Effect - Grayscale"
+#~ msgstr "Efekt skali szarości po najechaniu"
+
+#~ msgid "Auto play"
+#~ msgstr "Autoodtwarzanie"
+
+#~ msgid "Properties IDs"
+#~ msgstr "ID nieruchomości"
+
+#~ msgid "Sort by"
+#~ msgstr "Sortuj po"
+
+#~ msgid "Property Carousel"
+#~ msgstr "Karuzela nieruchomości"
+
+#~ msgid "Post Carousel"
+#~ msgstr "Karuzela Postów"
+
+#~ msgid "Max Visible"
+#~ msgstr "Maksymalna liczba widocznych"
+
+#~ msgid "Posts limit"
+#~ msgstr "Limit postów"
+
+#~ msgid "Testimonial Carousel"
+#~ msgstr "Karuzela opini"
+
+#~ msgid "Limit"
+#~ msgstr "Limit"
+
+#~ msgid "Cloud text"
+#~ msgstr "Chmura"
+
+#~ msgid "Boxed"
+#~ msgstr "Pudełkowy"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Kolory"
+
+#~ msgid "Light"
+#~ msgstr "Jasny"
+
+#~ msgid "One Property Map"
+#~ msgstr "Mapa pojedynczej nieruchomości"
+
+#~ msgid "Estates"
+#~ msgstr "Nieruchomości"
+
+#~ msgid "Heading"
+#~ msgstr "Nagłówek"
+
+#~ msgid "Heading text"
+#~ msgstr "Tekst nagłówka"
+
+#~ msgid "Subheading text"
+#~ msgstr "Tekst podnagłowka"
+
+#~ msgid "Heading style"
+#~ msgstr "Styl nagłowka"
+
+#~ msgid "Bottom Separator"
+#~ msgstr "Separator"
+
+#~ msgid "Top Separator"
+#~ msgstr "Gorny separator"
+
+#~ msgid "Font Weight"
+#~ msgstr "Grubość czcionki"
+
+#~ msgid "Bold"
+#~ msgstr "Pogrubienie"
+
+#~ msgid "Thin"
+#~ msgstr "Cienka"
+
+#~ msgid "XXXL"
+#~ msgstr "XXXL"
+
+#~ msgid "XXL"
+#~ msgstr "XXL"
+
+#~ msgid "XL"
+#~ msgstr "XL"
+
+#~ msgid "L"
+#~ msgstr "L"
+
+#~ msgid "M"
+#~ msgstr "M"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "XS"
+#~ msgstr "XS"
+
+#~ msgid "XXS"
+#~ msgstr "XXS"
+
+#~ msgid "Tag"
+#~ msgstr "Tag"
+
+#~ msgid "H2"
+#~ msgstr "H2"
+
+#~ msgid "H1"
+#~ msgstr "H1"
+
+#~ msgid "H3"
+#~ msgstr "H3"
+
+#~ msgid "H4"
+#~ msgstr "H4"
+
+#~ msgid "H5"
+#~ msgstr "H5"
+
+#~ msgid "Heading color"
+#~ msgstr "Kolor nagłówka"
+
+#~ msgid "Other"
+#~ msgstr "Inny"
+
+#~ msgid "Font family"
+#~ msgstr "Rodzina czcionek"
+
+#~ msgid "Font body"
+#~ msgstr "Czcionka tekstu"
+
+#~ msgid "Heading color other"
+#~ msgstr "Kolor nagłówka inny"
+
+#~ msgid "Subheading color"
+#~ msgstr "Kolor tekstu pod nagłówkiem"
+
+#~ msgid "Subheading color other"
+#~ msgstr "Kolor tekstu pod nagłówkiem - inny"
+
+#~ msgid "Heading Background"
+#~ msgstr "Tło nagłówka"
+
+#~ msgid "Icon"
+#~ msgstr "Ikona"
+
+#~ msgid "home"
+#~ msgstr "dom"
+
+#~ msgid "air conditioner"
+#~ msgstr "klimatyzacja"
+
+#~ msgid "apartment"
+#~ msgstr "apartament"
+
+#~ msgid "area"
+#~ msgstr "obszar"
+
+#~ msgid "bath"
+#~ msgstr "łazienka"
+
+#~ msgid "bath 2"
+#~ msgstr "łazienka 2"
+
+#~ msgid "bathtub"
+#~ msgstr "wanna"
+
+#~ msgid "bed"
+#~ msgstr "łóżko"
+
+#~ msgid "bulb"
+#~ msgstr "żarówka"
+
+#~ msgid "city"
+#~ msgstr "miasto"
+
+#~ msgid "city 2"
+#~ msgstr "miasto 2"
+
+#~ msgid "computer"
+#~ msgstr "komputer"
+
+#~ msgid "construction"
+#~ msgstr "budowa"
+
+#~ msgid "construction 2"
+#~ msgstr "budowa 2"
+
+#~ msgid "date"
+#~ msgstr "data"
+
+#~ msgid "dishwasher"
+#~ msgstr "zmywarka"
+
+#~ msgid "door"
+#~ msgstr "drzwi"
+
+#~ msgid "fence"
+#~ msgstr "płot"
+
+#~ msgid "fireplace"
+#~ msgstr "kominek"
+
+#~ msgid "full size"
+#~ msgstr "pełny rozmiar"
+
+#~ msgid "furniture"
+#~ msgstr "meble"
+
+#~ msgid "garage"
+#~ msgstr "garaż"
+
+#~ msgid "home 2"
+#~ msgstr "dom 2"
+
+#~ msgid "home 3"
+#~ msgstr "dom 3"
+
+#~ msgid "home 4"
+#~ msgstr "dom 4"
+
+#~ msgid "home 5"
+#~ msgstr "dom 5"
+
+#~ msgid "home 6"
+#~ msgstr "dom 6"
+
+#~ msgid "plan"
+#~ msgstr "plan"
+
+#~ msgid "plan 2"
+#~ msgstr "plan 2"
+
+#~ msgid "interface"
+#~ msgstr "interfejs"
+
+#~ msgid "layers"
+#~ msgstr "warstwy"
+
+#~ msgid "lift"
+#~ msgstr "winda"
+
+#~ msgid "location"
+#~ msgstr "lokalizacja"
+
+#~ msgid "location 2"
+#~ msgstr "lokalizacja 2"
+
+#~ msgid "mail"
+#~ msgstr "mail"
+
+#~ msgid "mail 2"
+#~ msgstr "mail 2"
+
+#~ msgid "map"
+#~ msgstr "mapa"
+
+#~ msgid "medical"
+#~ msgstr "szpital"
+
+#~ msgid "microwave"
+#~ msgstr "mikrofalówka"
+
+#~ msgid "multimedia"
+#~ msgstr "multimedia"
+
+#~ msgid "office"
+#~ msgstr "biuro"
+
+#~ msgid "office 2"
+#~ msgstr "biuro 2"
+
+#~ msgid "owen"
+#~ msgstr "piekarnik"
+
+#~ msgid "parquet"
+#~ msgstr "parkiet"
+
+#~ msgid "phone"
+#~ msgstr "telefon"
+
+#~ msgid "pin"
+#~ msgstr "pineska"
+
+#~ msgid "prize"
+#~ msgstr "nagroda"
+
+#~ msgid "rent"
+#~ msgstr "wynajem"
+
+#~ msgid "roof"
+#~ msgstr "dach"
+
+#~ msgid "school"
+#~ msgstr "szkoła"
+
+#~ msgid "school 2"
+#~ msgstr "szkoła 2"
+
+#~ msgid "shower"
+#~ msgstr "prysznic"
+
+#~ msgid "sofa"
+#~ msgstr "sofa"
+
+#~ msgid "sofa 2"
+#~ msgstr "sofa 2"
+
+#~ msgid "sold"
+#~ msgstr "sprzedano"
+
+#~ msgid "stairs"
+#~ msgstr "schody"
+
+#~ msgid "swimming pool"
+#~ msgstr "basen"
+
+#~ msgid "technology"
+#~ msgstr "technologia"
+
+#~ msgid "transport"
+#~ msgstr "transport"
+
+#~ msgid "wall"
+#~ msgstr "mur"
+
+#~ msgid "wardrobe"
+#~ msgstr "szafa"
+
+#~ msgid "wifi"
+#~ msgstr "wifi"
+
+#~ msgid "window"
+#~ msgstr "okno"
+
+#~ msgid "Icon size (font size)"
+#~ msgstr "Rozmiar ikonki (px)"
+
+#~ msgid "Color"
+#~ msgstr "Kolor"
+
+#~ msgid "Color Other"
+#~ msgstr "Inny kolor"
+
+#~ msgid "Shape"
+#~ msgstr "Kształt"
+
+#~ msgid "None"
+#~ msgstr "Brak"
+
+#~ msgid "Shape round"
+#~ msgstr "Kształt: okrągły"
+
+#~ msgid "Shape rounded rectangle"
+#~ msgstr "Kształ zaokrąglonego prostokąta"
+
+#~ msgid "Shape square"
+#~ msgstr "Kształt kwadratu"
+
+#~ msgid "Padding"
+#~ msgstr "Padding"
+
+#~ msgid "Border Width"
+#~ msgstr "Szerokość ramki"
+
+#~ msgid "Border Style"
+#~ msgstr "Styl obramowania"
+
+#~ msgid "Solid"
+#~ msgstr "Linia ciągła"
+
+#~ msgid "Dotted"
+#~ msgstr "Linia kropkowana"
+
+#~ msgid "Dashed"
+#~ msgstr "Linia kreskowana"
+
+#~ msgid "Double"
+#~ msgstr "Podwójne"
+
+#~ msgid "Border Color"
+#~ msgstr "Kolor ramki"
+
+#~ msgid "Border Color Other"
+#~ msgstr "Kolor ramki - inny"
+
+#~ msgid "Background Color"
+#~ msgstr "Kolor tła"
+
+#~ msgid "Background Color Other"
+#~ msgstr "Kolor tła - inny"
+
+#~ msgid "Property Listings Map"
+#~ msgstr "Nieruchomości z mapą"
+
+#~ msgid "Service Box"
+#~ msgstr "Box usługi"
+
+#~ msgid "Content"
+#~ msgstr "Treść"
+
+#~ msgid "Button style"
+#~ msgstr "Styl przycisku"
+
+#~ msgid "Button text"
+#~ msgstr "Tekst przycisku"
+
+#~ msgid "Simple Box"
+#~ msgstr "Prosty box"
+
+#~ msgid "Icon Left"
+#~ msgstr "Ikonka po lewej"
+
+#~ msgid "Icon Center"
+#~ msgstr "Ikonka wyśrodkowana"
+
+#~ msgid "Icon Right"
+#~ msgstr "Ikonka po prawej"
+
+#~ msgid "Big Icon Left"
+#~ msgstr "Duża ikonka do lewej"
+
+#~ msgid "Big Icon Center"
+#~ msgstr "Duża ikonka wyśrodkowana"
+
+#~ msgid "Big Icon Right"
+#~ msgstr "Duża ikonka do prawej"
+
+#~ msgid "Icon Color"
+#~ msgstr "Kolor ikonki"
+
+#~ msgid "Icon Color Other"
+#~ msgstr "Kolo ikonki - inny"
+
+#~ msgid "Title Color"
+#~ msgstr "Kolor tytułu"
+
+#~ msgid "Title Color Other"
+#~ msgstr "Inny kolor tytułu"
+
+#~ msgid "Text Color"
+#~ msgstr "Kolor tekstu"
+
+#~ msgid "Text Color Other"
+#~ msgstr "Inny kolor tekstu"
+
+#~ msgid "Button link"
+#~ msgstr "Link przycisku"
+
+#~ msgid "Slider Style"
+#~ msgstr "Styl Slidera"
+
+#~ msgid "Card"
+#~ msgstr "Karta"
+
+#~ msgid "Card short"
+#~ msgstr "Mała karta"
+
+#~ msgid "Estates limit"
+#~ msgstr "Limit nieruchomości"
+
+#~ msgid "Narrow estates to single agent"
+#~ msgstr "Zawęż do nieruchomości pojedynczego agenta"
+
+#~ msgid "Narrow estates to featured only"
+#~ msgstr "Zawęź do nieruchomości wyróżnionych"
+
+#~ msgid "Narrow estates to IDs:"
+#~ msgstr "Zawęź do nieruchomości o określonych ID:"
+
+#~ msgid "Properties Slider"
+#~ msgstr "Slajder nieruchomości"
+
+#~ msgid "Select slider"
+#~ msgstr "Wybierz slider"
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "Display facebook page"
+#~ msgstr "Wyświetl stronę facebook"
+
+#~ msgid "MH Facebook"
+#~ msgstr "MH Facebook"
+
+#~ msgid "MyHome - Widgets"
+#~ msgstr "MyHome - widgety"
+
+#~ msgid "Facebook widget"
+#~ msgstr "Widget Facebooka"
+
+#~ msgid "Title:"
+#~ msgstr "Tytuł:"
+
+#~ msgid "Page (url):"
+#~ msgstr "URL strony:"
+
+#~ msgid "Page height:"
+#~ msgstr "Szerokość strony:"
+
+#~ msgid "Use small header"
+#~ msgstr "Użyj małego nagłówka"
+
+#~ msgid "Hide cover photo"
+#~ msgstr "Ukryj zdjęcie profilowe"
+
+#~ msgid "Display faces of friend"
+#~ msgstr "Wyświetl znajomych"
+
+#~ msgid "Display image and text"
+#~ msgstr "Wyświetl obrazy i tekst"
+
+#~ msgid "MH Infobox"
+#~ msgstr "MH Infobox"
+
+#~ msgid "Image url ( jpg / png / gif ):"
+#~ msgstr "Obrazek url (jpg/png/gif):"
+
+#~ msgid "Link ( url: ):"
+#~ msgstr "Link ( url: ):"
+
+#~ msgid "Text:"
+#~ msgstr "Tekst:"
+
+#~ msgid "Button text:"
+#~ msgstr "Tekst przycisku:"
+
+#~ msgid "Display social icons"
+#~ msgstr "Wyświetlanie ikon mediów społecznościowych"
+
+#~ msgid "MH Social Icons"
+#~ msgstr "MH Social Icons"
+
+#~ msgid "Icons widget"
+#~ msgstr "Ikony widżetu"
+
+#~ msgid "MH Twitter"
+#~ msgstr "MH Twitter"
+
+#~ msgid "Twitter widget"
+#~ msgstr "Widget Twitter"
+
+#~ msgid "Twitter Handle:"
+#~ msgstr "Twitter Handle:"
+
+#~ msgid "Consumer Key (API Key):"
+#~ msgstr "Consumer Key (API Key):"
+
+#~ msgid "\tConsumer Secret (API Secret):"
+#~ msgstr " Consumer Secret (API Secret):"
+
+#~ msgid "Access Token:"
+#~ msgstr "Access Token:"
+
+#~ msgid "Access Token Secret:"
+#~ msgstr "Access Token Secret:"
+
+#~ msgid "Cache duration (minutes):"
+#~ msgstr "Czas trwania cache w minutach:"
+
+#~ msgid "Number of displayed tweets"
+#~ msgstr "Liczba Tweetów"
+
+#~ msgid "Show retweets"
+#~ msgstr "Pokaż retweety"
+
+#~ msgid "Page Header"
+#~ msgstr "Nagłówek strony"

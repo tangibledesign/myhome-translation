@@ -1,0 +1,2866 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MyHome Core\n"
+"POT-Creation-Date: 2017-05-25 15:07+0200\n"
+"PO-Revision-Date: 2017-06-02 12:26+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: myhome-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-myhome-agents.php:140
+msgid "Check your email"
+msgstr "Überprüfen Sie Ihre E-Mail"
+
+#: includes/class-myhome-agents.php:146
+msgid "Unknown error, try again."
+msgstr "Unbekannter Fehler, "
+
+#: includes/class-myhome-agents.php:159
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "<strong>FEHLER</strong>: E-Mail-Adresse oder Benutzername eingeben."
+
+#: includes/class-myhome-agents.php:163
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "Es ist kein Nutzer mit dieser E-Mail registriert."
+
+#: includes/class-myhome-agents.php:184
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr "Fakscher Nutzername oder Falschen Passwort"
+
+#: includes/class-myhome-agents.php:197
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+"Jemand hat das Zurücksetzen des Kennworts für folgendes Konto angefordert:"
+
+#: includes/class-myhome-agents.php:199
+#, php-format
+msgid "Username: %s"
+msgstr "Benutzername: %s"
+
+#: includes/class-myhome-agents.php:200
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Falls Sie diese E-Mail irrtümlich erhalten haben, ignorieren Sie diese bitte "
+"und nichts weiteres wird passieren. "
+
+#: includes/class-myhome-agents.php:201
+msgid "To reset your password, visit the following address:"
+msgstr ""
+"Wenn Sie Ihr Passwort zurücksetzen möchten. Klicken Sie auf den "
+"nachfolgenden Link:"
+
+#. translators: Password reset email subject. 1: Site name
+#: includes/class-myhome-agents.php:215
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Passwort zurücksetzen"
+
+#: includes/class-myhome-agents.php:243
+msgid "The email could not be sent."
+msgstr "Die E-Mail konnte nicht verschickt werden."
+
+#: includes/class-myhome-agents.php:581 includes/class-myhome-agents.php:586
+#: includes/class-myhome-agents.php:645 includes/class-myhome-agents.php:650
+#: includes/class-myhome-agents.php:655
+#: includes/class-myhome-translations.php:265
+msgid "Empty field"
+msgstr "Leeres Feld"
+
+#: includes/class-myhome-agents.php:591 includes/class-myhome-agents.php:602
+#: includes/class-myhome-agents.php:661 includes/class-myhome-agents.php:670
+#: includes/class-myhome-agents.php:681
+msgid "Check errors"
+msgstr "Überprüfen Sie die Fehler"
+
+#: includes/class-myhome-agents.php:609
+msgid "Wrong password"
+msgstr "Falsches Passwort"
+
+#: includes/class-myhome-agents.php:615
+msgid "Invalid username"
+msgstr "Ungültiger Benutzername"
+
+#: includes/class-myhome-agents.php:622
+msgid "Unknown error, try again"
+msgstr "Unbekannter Fehler, versuchen Sie es noch einmal"
+
+#: includes/class-myhome-agents.php:668
+msgid "Email is not valid"
+msgstr "Email ist ungültig"
+
+#: includes/class-myhome-agents.php:688
+msgid "This email is already exists."
+msgstr "Diese E-Mail-Adresse existiert bereits"
+
+#: includes/class-myhome-agents.php:694
+msgid "This username already exists."
+msgstr "Dieser Benutzername existiert bereits."
+
+#: includes/class-myhome-agents.php:705
+msgid "Successful registration! You can login now."
+msgstr "Erfolgreicher Registrierung! Sie können sich jetzt anmelden."
+
+#: includes/class-myhome-agents.php:708
+msgid "Unknown error, please try again."
+msgstr "Unbekannter Fehler, versuchen Sie es bitte erneut."
+
+#: includes/class-myhome-agents.php:835 includes/class-myhome-agents.php:921
+#: includes/class-myhome-estates.php:66
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:80
+msgid "Agent"
+msgstr "Makler"
+
+#: includes/class-myhome-agents.php:942
+#: includes/class-myhome-attributes.php:632
+#: includes/class-myhome-estates.php:63 includes/class-myhome-estates.php:328
+#: includes/class-myhome-translations.php:222
+#: includes/shortcodes/class-myhome-service-shortcode.php:42
+msgid "Image"
+msgstr "Bild"
+
+#: includes/class-myhome-agents.php:949
+#: includes/class-myhome-translations.php:190
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/class-myhome-agents.php:956
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:232
+msgid "Facebook"
+msgstr "facebook"
+
+#: includes/class-myhome-agents.php:963
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:240
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-myhome-agents.php:970
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:248
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/class-myhome-agents.php:977
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:256
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/class-myhome-api.php:148
+#, php-format
+msgid "Contact %s - %s"
+msgstr "Kontakt %s - %s"
+
+#: includes/class-myhome-api.php:152
+#, php-format
+msgid "From: %s<br>Phone: %s<br>Message: %s<br>Estate: %s"
+msgstr "Von: %s<br>Telefon: %s<br>Meldung: %s<br>Immobilien: %s"
+
+#: includes/class-myhome-attributes.php:125
+msgid "Property Attributes"
+msgstr "Eigenschaftsattribute"
+
+#: includes/class-myhome-attributes.php:218
+#: includes/class-myhome-attributes.php:782
+msgid "Number field"
+msgstr "Feldnummer"
+
+#: includes/class-myhome-attributes.php:220
+#: includes/class-myhome-attributes.php:783
+msgid "Text field"
+msgstr "Textbox"
+
+#: includes/class-myhome-attributes.php:223
+#: includes/class-myhome-attributes.php:860
+#: includes/class-myhome-translations.php:24
+msgid "Keyword"
+msgstr "Suchbegriff"
+
+#: includes/class-myhome-attributes.php:231
+#, php-format
+msgid ""
+"%1$s - view on the search form<div class=\"acf-settings-wrap__subtitle\">"
+"%2$s</div>"
+msgstr ""
+"%1$s - Ansicht auf die Suchmaske<div class=\"acf-settings-wrap__subtitle\">"
+"%2$s</div>"
+
+#: includes/class-myhome-attributes.php:246
+msgid "Basic"
+msgstr "Grundlegend"
+
+#: includes/class-myhome-attributes.php:257
+#: includes/class-myhome-attributes.php:286
+msgid "Search form - display as:"
+msgstr "Suchmaske - anzeigen als:"
+
+#: includes/class-myhome-attributes.php:261
+msgid "Input field"
+msgstr "Eingabefeld"
+
+#: includes/class-myhome-attributes.php:262
+msgid "Input field based on a range ( from - to )"
+msgstr "Eingabefeld, basierend auf einem Bereich (von - bis)"
+
+#: includes/class-myhome-attributes.php:263
+msgid "Drop-down list "
+msgstr "Drop-Down-Liste"
+
+#: includes/class-myhome-attributes.php:264
+msgid "Drop-down list based on a range ( from - to )"
+msgstr "Auswahlliste basierend auf einem Wertebereich ( von - bis )"
+
+#: includes/class-myhome-attributes.php:272
+msgid "Dropdown list"
+msgstr "Dropdown Liste"
+
+#: includes/class-myhome-attributes.php:273
+msgid "Input Text"
+msgstr "Texteingabe"
+
+#: includes/class-myhome-attributes.php:274
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: includes/class-myhome-attributes.php:275
+msgid ""
+"Mixed - Radio / Select ( search form position left/right - radio button | "
+"search form position top/bottom: select)"
+msgstr ""
+"Gemischt - Radio / auswählen (Suchmaske positionieren Sie links/rechts - "
+"Optionsfeld | Suchformular position oben/unten: Wählen Sie)"
+
+#: includes/class-myhome-attributes.php:299
+#: includes/class-myhome-listing.php:337 includes/class-myhome-listing.php:347
+#: includes/class-myhome-listing.php:358 includes/class-myhome-listing.php:485
+#: includes/class-myhome-listing.php:495 includes/class-myhome-listing.php:507
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:120
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:130
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:142
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:100
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:110
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:122
+msgid "Default values"
+msgstr "Standardwerte"
+
+#: includes/class-myhome-attributes.php:303
+msgid "All existing values"
+msgstr "Alle vorhandenen Werte"
+
+#: includes/class-myhome-attributes.php:304
+msgid "Most popular"
+msgstr "Am beliebtesten"
+
+#: includes/class-myhome-attributes.php:305
+#: includes/class-myhome-attributes.php:341
+#: includes/class-myhome-attributes.php:386
+msgid "Static values"
+msgstr "Statische Werte"
+
+#: includes/class-myhome-attributes.php:325
+msgid "Most popular values limit (number)"
+msgstr "Die beliebtesten Grenzwerte (Anzahl)"
+
+#: includes/class-myhome-attributes.php:344
+#: includes/class-myhome-attributes.php:389
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: includes/class-myhome-attributes.php:349
+#: includes/class-myhome-attributes.php:394
+msgid "Name (visible)"
+msgstr "Name (sichtbar)"
+
+#: includes/class-myhome-attributes.php:356
+#: includes/class-myhome-attributes.php:401
+msgid "Value"
+msgstr "Wert"
+
+#: includes/class-myhome-attributes.php:430
+msgid "Display on property card"
+msgstr "Auf Immobilienkarte anzeigen"
+
+#: includes/class-myhome-attributes.php:437
+msgid "Display on single property page"
+msgstr "Auf einzelner Immobilienseite anzeigen"
+
+#: includes/class-myhome-attributes.php:449
+#: includes/class-myhome-translations.php:61
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: includes/class-myhome-attributes.php:460
+msgid "Use as tags"
+msgstr "Benutze als Tags"
+
+#: includes/class-myhome-attributes.php:467
+msgid "Single property page: display in a separate section"
+msgstr "Einzelne Eigenschaftenseite: in einem separaten Abschnitt anzeigen"
+
+#: includes/class-myhome-attributes.php:485
+msgid "Single property page: show as link"
+msgstr "Einzelne Eigenschaftenseite: als Link anzeigen"
+
+#: includes/class-myhome-attributes.php:493
+msgid "Search Form - display full width"
+msgstr "Suche Formular - vollen Breite anzeigen"
+
+#: includes/class-myhome-attributes.php:512
+msgid "Unit of measure"
+msgstr "Maßeinheit"
+
+#: includes/class-myhome-attributes.php:514
+msgid ""
+"It will be displayed after name eg. you can use that to add (sq feet) next "
+"to lot size, but it will be not used in link so it is much more useful."
+msgstr ""
+"Es wird z.B. nach Namen angezeigt. können Sie neben Lot-Größe (qm) "
+"hinzufügen, aber es wird nicht verwendet werden in Verbindung so ist es viel "
+"sinnvoller."
+
+#: includes/class-myhome-attributes.php:525
+#: includes/class-myhome-attributes.php:664
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+#: includes/class-myhome-attributes.php:547
+msgid "Placeholder (default: from)"
+msgstr "Platzhalter (Standardwert: von)"
+
+#: includes/class-myhome-attributes.php:573
+msgid "Placeholder (default: to)"
+msgstr "Platzhalter (Standard: bis)"
+
+#: includes/class-myhome-attributes.php:600
+#, php-format
+msgid "%s Settings"
+msgstr "%s Einstellungen"
+
+#: includes/class-myhome-attributes.php:627
+msgid "Settings"
+msgstr "Seiteneinstellungen"
+
+#: includes/class-myhome-attributes.php:638
+msgid "Image wide"
+msgstr "Bildbreite"
+
+#: includes/class-myhome-attributes.php:639
+msgid "Recommended size 1920x500 px"
+msgstr "Empfohlene Größe 1920 x 500 px"
+
+#: includes/class-myhome-attributes.php:650
+msgid "Keyword Settings"
+msgstr "Schlüßelwörter-Einstellungen"
+
+#: includes/class-myhome-attributes.php:668
+msgid ""
+"Default placeholder is always a name of a field, but you can change it below"
+msgstr ""
+"Standardplatzhalter ist immer ein Name eines Feldes, aber Sie können ihn "
+"unten ändern"
+
+#: includes/class-myhome-attributes.php:690
+#, php-format
+msgid "Search %s"
+msgstr "Suche %s"
+
+#: includes/class-myhome-attributes.php:691
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: includes/class-myhome-attributes.php:692
+#, php-format
+msgid "Parent %s"
+msgstr "Übergeordnete %s"
+
+#: includes/class-myhome-attributes.php:693
+#, php-format
+msgid "Parent %s:"
+msgstr "Übergeordnete %s:"
+
+#: includes/class-myhome-attributes.php:694
+#, php-format
+msgid "Edit %s"
+msgstr "Bearbeite %s"
+
+#: includes/class-myhome-attributes.php:695
+#, php-format
+msgid "Update %s"
+msgstr "Aktualisiere %s"
+
+#: includes/class-myhome-attributes.php:696
+#, php-format
+msgid "Add New %s"
+msgstr "Neue %s hinzufügen"
+
+#: includes/class-myhome-attributes.php:697
+#, php-format
+msgid "New %s Name"
+msgstr "Neuer %s Name"
+
+#: includes/class-myhome-attributes.php:730
+#: includes/class-myhome-attributes.php:731
+#: includes/class-myhome-attributes.php:748
+msgid "Property fields"
+msgstr "Immobilien Felder"
+
+#: includes/class-myhome-attributes.php:750
+msgid "Use \"Up\" and \"Down\" arrows to change order of the options"
+msgstr ""
+"Benutzen Sie die \"Up\" u. \"Down\" Pfeiltasten, um die Anordnung der "
+"Optionen zu ändern"
+
+#: includes/class-myhome-attributes.php:765
+msgid "Add new field"
+msgstr "Neues Feld hinzufügen"
+
+#: includes/class-myhome-attributes.php:771
+#: includes/class-myhome-estates.php:321
+#: includes/class-myhome-translations.php:142
+#: includes/class-myhome-translations.php:233
+msgid "Name"
+msgstr "Name"
+
+#: includes/class-myhome-attributes.php:778
+msgid "Field type"
+msgstr "Feldtyp"
+
+#: includes/class-myhome-attributes.php:788
+msgid "Create"
+msgstr "Erstellen"
+
+#: includes/class-myhome-attributes.php:832
+#: includes/class-myhome-translations.php:25
+msgid "Property type"
+msgstr "Objekttyp"
+
+#: includes/class-myhome-attributes.php:839
+#: includes/class-myhome-translations.php:32
+msgid "Offer type"
+msgstr "Angebotstyp"
+
+#: includes/class-myhome-attributes.php:846
+msgid "City"
+msgstr "Ort"
+
+#: includes/class-myhome-attributes.php:853
+#: includes/class-myhome-estates.php:67
+#: includes/class-myhome-translations.php:55
+#: includes/class-myhome-translations.php:86
+msgid "Price"
+msgstr "Preis"
+
+#: includes/class-myhome-attributes.php:867
+#: includes/class-myhome-translations.php:51
+msgid "Bedrooms"
+msgstr "Zimmer"
+
+#: includes/class-myhome-attributes.php:874
+#: includes/class-myhome-translations.php:50
+msgid "Bathrooms"
+msgstr "Bäder"
+
+#: includes/class-myhome-attributes.php:881
+#: includes/class-myhome-translations.php:53
+msgid "Property Size"
+msgstr "Fläche"
+
+#: includes/class-myhome-attributes.php:888
+msgid "Lot Size"
+msgstr "Grundstücksgröße"
+
+#: includes/class-myhome-attributes.php:895
+msgid "Year"
+msgstr "Jahr"
+
+#: includes/class-myhome-attributes.php:902
+#: includes/class-myhome-translations.php:49
+msgid "Features"
+msgstr "Besondere Eigenschaften"
+
+#: includes/class-myhome-cache.php:40
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: includes/class-myhome-core.php:41
+msgid "MyHome Core"
+msgstr "MyHome Core"
+
+#: includes/class-myhome-estates.php:110 includes/class-myhome-estates.php:112
+#: includes/class-myhome-estates.php:119
+msgid "Properties"
+msgstr "Objekte"
+
+#: includes/class-myhome-estates.php:111
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:58
+msgid "Property"
+msgstr "Eigentümer"
+
+#: includes/class-myhome-estates.php:113 includes/class-myhome-estates.php:114
+#: includes/class-myhome-estates.php:115
+msgid "Add New Property"
+msgstr "Neue Anzeige"
+
+#: includes/class-myhome-estates.php:116
+msgid "New Property"
+msgstr "Neue Immobilie"
+
+#: includes/class-myhome-estates.php:117
+msgid "Edit Property"
+msgstr "Objekt bearbeiten"
+
+#: includes/class-myhome-estates.php:118
+msgid "View Property"
+msgstr "Immobilie anzeigen"
+
+#: includes/class-myhome-estates.php:120
+msgid "Search property"
+msgstr "Suche Immobilie"
+
+#: includes/class-myhome-estates.php:121
+msgid "No Property Found found."
+msgstr "Keine Immobilie wurde gefunden."
+
+#: includes/class-myhome-estates.php:122
+msgid "No Property found in Trash."
+msgstr "Keine Immobilie wurde gefunden in Mülleimer."
+
+#: includes/class-myhome-estates.php:217 includes/class-myhome-listing.php:191
+#: includes/class-myhome-listing.php:199 includes/class-myhome-listing.php:212
+#: includes/class-myhome-listing.php:229 includes/class-myhome-listing.php:238
+#: includes/class-myhome-listing.php:248 includes/class-myhome-listing.php:257
+#: includes/class-myhome-listing.php:266 includes/class-myhome-listing.php:275
+#: includes/class-myhome-listing.php:285 includes/class-myhome-listing.php:299
+#: includes/class-myhome-listing.php:314 includes/class-myhome-listing.php:323
+#: includes/class-myhome-listing.php:397 includes/class-myhome-listing.php:406
+#: includes/class-myhome-listing.php:418 includes/class-myhome-listing.php:434
+#: includes/class-myhome-listing.php:452 includes/class-myhome-listing.php:462
+#: includes/class-myhome-listing.php:472
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:93
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:97
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:112
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:121
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:25
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:37
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:46
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:55
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:64
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:78
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:87
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:101
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:37
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:52
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:60
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:68
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:80
+#: includes/shortcodes/class-myhome-icon-shortcode.php:30
+#: includes/shortcodes/class-myhome-icon-shortcode.php:102
+#: includes/shortcodes/class-myhome-icon-shortcode.php:110
+#: includes/shortcodes/class-myhome-icon-shortcode.php:122
+#: includes/shortcodes/class-myhome-icon-shortcode.php:134
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:29
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:42
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:56
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:65
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:74
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:83
+#: includes/shortcodes/class-myhome-slider-shortcode.php:43
+msgid "General"
+msgstr "Allgemein"
+
+#: includes/class-myhome-estates.php:229
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:57
+msgid "Featured"
+msgstr "HIGHLIGHT"
+
+#: includes/class-myhome-estates.php:269 includes/class-myhome-estates.php:275
+msgid "Location"
+msgstr "Standort"
+
+#: includes/class-myhome-estates.php:306 includes/class-myhome-estates.php:313
+#: includes/class-myhome-translations.php:256
+msgid "Plans"
+msgstr "Mitgliedschaftspläne"
+
+#: includes/class-myhome-estates.php:316
+#: includes/class-myhome-translations.php:257
+msgid "Add plan"
+msgstr "Plan hinzufügen"
+
+#: includes/class-myhome-estates.php:344
+msgid "Video"
+msgstr "Video"
+
+#: includes/class-myhome-estates.php:351
+msgid ""
+"Video link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to .mp4)"
+msgstr ""
+"Video-Link (Youtube / Vimeo / Facebook / Twitter / Instagram / link zu MP4)"
+
+#: includes/class-myhome-estates.php:365
+#: includes/class-myhome-translations.php:208
+msgid "Virtual tour"
+msgstr "Virtueller Rundgang"
+
+#: includes/class-myhome-estates.php:372
+#: includes/class-myhome-translations.php:209
+msgid "Add embed code"
+msgstr "Einbettungscode hinzufügen"
+
+#: includes/class-myhome-estates.php:382
+msgid "Property details"
+msgstr "Objektdetails"
+
+#: includes/class-myhome-listing.php:182
+msgid "Search form position"
+msgstr "Suchmske: Position"
+
+#: includes/class-myhome-listing.php:185 includes/class-myhome-listing.php:393
+msgid "Top"
+msgstr "Oben"
+
+#: includes/class-myhome-listing.php:186
+#: includes/shortcodes/class-myhome-button-shortcode.php:72
+#: includes/shortcodes/class-myhome-heading-shortcode.php:69
+#: includes/shortcodes/class-myhome-icon-shortcode.php:117
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/class-myhome-listing.php:187
+#: includes/shortcodes/class-myhome-button-shortcode.php:70
+#: includes/shortcodes/class-myhome-heading-shortcode.php:68
+#: includes/shortcodes/class-myhome-icon-shortcode.php:115
+msgid "Left"
+msgstr "Links"
+
+#: includes/class-myhome-listing.php:188 includes/class-myhome-listing.php:394
+msgid "Hidden"
+msgstr "Versteckt"
+
+#: includes/class-myhome-listing.php:196 includes/class-myhome-listing.php:431
+msgid "Label"
+msgstr "Etikett"
+
+#: includes/class-myhome-listing.php:208 includes/class-myhome-listing.php:402
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr "Anzahl der Filter, die vor der \"Mehr\"-Taste gezeigt werden"
+
+#: includes/class-myhome-listing.php:221
+msgid "Default view"
+msgstr "Standardansicht"
+
+#: includes/class-myhome-listing.php:224
+msgid "Two columns"
+msgstr "Zwei Spalten"
+
+#: includes/class-myhome-listing.php:225
+msgid "Three columns"
+msgstr "Drei Spalten"
+
+#: includes/class-myhome-listing.php:226
+msgid "Row"
+msgstr "Zeile"
+
+#: includes/class-myhome-listing.php:234
+msgid "Estates limit (Number)"
+msgstr "Grenzwert der Immobilien (Anzahl)"
+
+#: includes/class-myhome-listing.php:243
+msgid "Lazy loading"
+msgstr "Langsames laden"
+
+#: includes/class-myhome-listing.php:253
+msgid "Number of times estates will be loaded after clicking “Load More”"
+msgstr "Wie oft Immobilien geladen werden, nach einem Klick auf \"Mehr laden\""
+
+#: includes/class-myhome-listing.php:262
+msgid "\"Load More\" button label"
+msgstr "\"Mehr laden\"-Button Etikett "
+
+#: includes/class-myhome-listing.php:264
+msgid "Load more"
+msgstr "Mehr laden"
+
+#: includes/class-myhome-listing.php:271
+msgid "\"Load Previous\" button label"
+msgstr "\"Zurück\"-Button Etikett"
+
+#: includes/class-myhome-listing.php:273
+msgid "Load previous"
+msgstr "Zurück"
+
+#: includes/class-myhome-listing.php:280 includes/class-myhome-listing.php:457
+msgid "Display \"advanced\" button"
+msgstr "\"Mehr\"-Button anzeigen"
+
+#: includes/class-myhome-listing.php:294 includes/class-myhome-listing.php:467
+msgid "Display \"clear\" button"
+msgstr "\"Leeren\"-Button anzeigen"
+
+#: includes/class-myhome-listing.php:309
+msgid "Display \"sort by\""
+msgstr "Zeige \"sortieren nach\""
+
+#: includes/class-myhome-listing.php:319
+msgid "Display \"view types\""
+msgstr "\"Ansichttypen\" anzeigen "
+
+#: includes/class-myhome-listing.php:335 includes/class-myhome-listing.php:483
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:118
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:98
+#, php-format
+msgid "%s from"
+msgstr "%s von"
+
+#: includes/class-myhome-listing.php:345 includes/class-myhome-listing.php:493
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:128
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:108
+#, php-format
+msgid "%s to"
+msgstr "%s bis"
+
+#: includes/class-myhome-listing.php:367 includes/class-myhome-listing.php:517
+#, php-format
+msgid "Show %s"
+msgstr "Zeige %s"
+
+#: includes/class-myhome-listing.php:369 includes/class-myhome-listing.php:519
+msgid "Show filters"
+msgstr "Filter anzeigen"
+
+#: includes/class-myhome-listing.php:389
+msgid "Search form style"
+msgstr "Suchmaske: Style"
+
+#: includes/class-myhome-listing.php:392
+msgid "Bottom"
+msgstr "Unten"
+
+#: includes/class-myhome-listing.php:415
+msgid "Wide search form"
+msgstr "Suchmaske: Breite"
+
+#: includes/class-myhome-listing.php:445
+msgid "Map height"
+msgstr "Karten Höhe"
+
+#: includes/class-myhome-listing.php:448
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:49
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/class-myhome-listing.php:449
+msgid "Tall"
+msgstr "Groß"
+
+#: includes/class-myhome-post-types.php:31
+msgid "Testimonial author"
+msgstr "Die Bewertung ist von"
+
+#: includes/class-myhome-post-types.php:35
+msgid "Author occupation"
+msgstr "Beruf des Autors"
+
+#: includes/class-myhome-post-types.php:56
+#: includes/class-myhome-post-types.php:88
+msgid "Client"
+msgstr "Kunde"
+
+#: includes/class-myhome-post-types.php:60
+msgid "Client link"
+msgstr "Kunde-Link"
+
+#: includes/class-myhome-post-types.php:87
+#: includes/class-myhome-post-types.php:89
+#: includes/class-myhome-post-types.php:96
+msgid "Clients"
+msgstr "Kunden"
+
+#: includes/class-myhome-post-types.php:90
+msgid "Add new Client"
+msgstr "Neuer Kunde - hinzufügen"
+
+#: includes/class-myhome-post-types.php:91
+#: includes/class-myhome-post-types.php:92
+msgid "Add New Client"
+msgstr "Kunde hinzufügen"
+
+#: includes/class-myhome-post-types.php:93
+msgid "New Client"
+msgstr "Neuer Kunde"
+
+#: includes/class-myhome-post-types.php:94
+msgid "Edit Client"
+msgstr "Kunde bearbeiten"
+
+#: includes/class-myhome-post-types.php:95
+msgid "View Client"
+msgstr "Kunde anzeigen"
+
+#: includes/class-myhome-post-types.php:97
+msgid "Search Clients"
+msgstr "Kunden durchsuchen"
+
+#: includes/class-myhome-post-types.php:98
+msgid "No Clients found."
+msgstr "Keine Kunden wurden gefunden."
+
+#: includes/class-myhome-post-types.php:99
+msgid "No Clients found in Trash."
+msgstr "Keine Kunden wurden gefunden in Mülleimer."
+
+#: includes/class-myhome-post-types.php:116
+#: includes/class-myhome-post-types.php:118
+#: includes/class-myhome-post-types.php:125
+msgid "Testimonials"
+msgstr "Referenzen"
+
+#: includes/class-myhome-post-types.php:117
+msgid "Testimonial"
+msgstr "Referenz"
+
+#: includes/class-myhome-post-types.php:119
+msgid "Add new Testimonial"
+msgstr "Neue Referenz hinzufügen"
+
+#: includes/class-myhome-post-types.php:120
+#: includes/class-myhome-post-types.php:121
+msgid "Add New Testimonial"
+msgstr "Neue Referenz hinzufügen"
+
+#: includes/class-myhome-post-types.php:122
+msgid "New Testimonial"
+msgstr "Neue Referenz"
+
+#: includes/class-myhome-post-types.php:123
+msgid "Edit Testimonial"
+msgstr "Referenz bearbeiten"
+
+#: includes/class-myhome-post-types.php:124
+msgid "View Testimonial"
+msgstr "Testimonial aufrufen"
+
+#: includes/class-myhome-post-types.php:126
+msgid "Search Testimonials"
+msgstr "Suche Empfehlung"
+
+#: includes/class-myhome-post-types.php:127
+msgid "No Testimonials found."
+msgstr "Keine Empfehlung gefunden."
+
+#: includes/class-myhome-post-types.php:128
+msgid "No Testimonials found in Trash."
+msgstr "Keine Empfehlung im Kübel gefunden."
+
+#: includes/class-myhome-property-types.php:50
+msgid "Filters"
+msgstr "Filter"
+
+#: includes/class-myhome-translations.php:26
+msgid "Price from"
+msgstr "Preis von"
+
+#: includes/class-myhome-translations.php:27
+msgid "Price to"
+msgstr "Preis bis"
+
+#: includes/class-myhome-translations.php:28
+msgid "Bathrooms from"
+msgstr "Badezimmer von"
+
+#: includes/class-myhome-translations.php:29
+msgid "Bathrooms to"
+msgstr "Badezimmer bis"
+
+#: includes/class-myhome-translations.php:30
+msgid "Bedrooms from"
+msgstr "Schlafzimmer von"
+
+#: includes/class-myhome-translations.php:31
+msgid "Bedrooms to"
+msgstr "Schlafzimmer bis"
+
+#: includes/class-myhome-translations.php:33
+msgid "All areas"
+msgstr "Alle Bereiche"
+
+#: includes/class-myhome-translations.php:34
+msgid "Year built"
+msgstr "Baujahr"
+
+#: includes/class-myhome-translations.php:35
+msgid "Property size from"
+msgstr "Grundstücksgröße von"
+
+#: includes/class-myhome-translations.php:36
+msgid "Property size to"
+msgstr "Grundstücksgröße bis"
+
+#: includes/class-myhome-translations.php:37
+msgid "Lot size from"
+msgstr "Losgröße von"
+
+#: includes/class-myhome-translations.php:38
+msgid "Lot size to"
+msgstr "Losgröße bis"
+
+#: includes/class-myhome-translations.php:39
+#: includes/class-myhome-translations.php:77
+msgid "Sell"
+msgstr "Verkaufen"
+
+#: includes/class-myhome-translations.php:40
+#: includes/class-myhome-translations.php:78
+msgid "Rent"
+msgstr "Mieten"
+
+#: includes/class-myhome-translations.php:41
+msgid "Areas"
+msgstr "Fachgebiete"
+
+#: includes/class-myhome-translations.php:42
+msgid "Built year from"
+msgstr "Baujahr von"
+
+#: includes/class-myhome-translations.php:43
+msgid "Built year to"
+msgstr "Baujahr bis"
+
+#: includes/class-myhome-translations.php:44
+#: includes/models/class-myhome-attribute.php:238
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:18
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:18
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:21
+msgid "Any"
+msgstr "Beliebig"
+
+#: includes/class-myhome-translations.php:45
+msgid "Reset settings"
+msgstr "Einstellungen zurücksetzen"
+
+#: includes/class-myhome-translations.php:46
+msgid "Search"
+msgstr "Neue Suche"
+
+#: includes/class-myhome-translations.php:47
+msgid "From"
+msgstr "Von"
+
+#: includes/class-myhome-translations.php:48
+msgid "To"
+msgstr "An"
+
+#: includes/class-myhome-translations.php:52
+msgid "Lot size"
+msgstr "Größe der Partie"
+
+#: includes/class-myhome-translations.php:54
+msgid "Build Year"
+msgstr "Baujahr"
+
+#: includes/class-myhome-translations.php:56
+msgid "Keywords"
+msgstr "Stichwörter"
+
+#: includes/class-myhome-translations.php:57
+msgid "Categories"
+msgstr "Kategorien"
+
+#: includes/class-myhome-translations.php:58
+msgid "Parameters"
+msgstr "Parameter"
+
+#: includes/class-myhome-translations.php:59
+msgid "Clear selections"
+msgstr "Auswahl löschen"
+
+#: includes/class-myhome-translations.php:60
+#: includes/class-myhome-translations.php:110
+msgid "Clear search"
+msgstr "Suchmaske löschen"
+
+#: includes/class-myhome-translations.php:62
+#: includes/class-myhome-translations.php:160
+msgid "Hide"
+msgstr "Verstecken"
+
+#: includes/class-myhome-translations.php:63
+msgid "Show Location"
+msgstr "Standort anzeigen"
+
+#: includes/class-myhome-translations.php:64
+msgid "Show Places"
+msgstr "Zeige Orte"
+
+#: includes/class-myhome-translations.php:65
+msgid "Show Near"
+msgstr "In der Nähe anzeigen"
+
+#: includes/class-myhome-translations.php:66
+msgid "clear"
+msgstr "leeren"
+
+#: includes/class-myhome-translations.php:79
+#: includes/class-myhome-translations.php:165
+#: includes/class-myhome-translations.php:178
+msgid "Compare"
+msgstr "Vergleichen"
+
+#: includes/class-myhome-translations.php:80
+#: includes/class-myhome-translations.php:177
+msgid "Added"
+msgstr "Hinzugefügt"
+
+#: includes/class-myhome-translations.php:81
+#: includes/class-myhome-translations.php:162
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:306
+msgid "Details"
+msgstr "Einzelheiten"
+
+#: includes/class-myhome-translations.php:82
+#: includes/class-myhome-translations.php:164
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:282
+msgid "More"
+msgstr "Mehr"
+
+#: includes/class-myhome-translations.php:83
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:69
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:47
+msgid "Newest"
+msgstr "Neueste"
+
+#: includes/class-myhome-translations.php:84
+msgid "Sort by:"
+msgstr "Sortierung:"
+
+#: includes/class-myhome-translations.php:85
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:72
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:50
+msgid "Popular"
+msgstr "beliebte"
+
+#: includes/class-myhome-translations.php:87
+msgid "reset"
+msgstr "zurücksetzen"
+
+#: includes/class-myhome-translations.php:88
+msgid "Full Screen"
+msgstr "Full Screen"
+
+#: includes/class-myhome-translations.php:89
+msgid "previous"
+msgstr "vorheriges"
+
+#: includes/class-myhome-translations.php:90
+msgid "next"
+msgstr "nächstes"
+
+#: includes/class-myhome-translations.php:91
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:70
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:48
+msgid "Price (high to low)"
+msgstr "Preis (absteigend)"
+
+#: includes/class-myhome-translations.php:92
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:71
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:49
+msgid "Price (low to high)"
+msgstr "Preis (aufsteigend)"
+
+#: includes/class-myhome-translations.php:93
+msgid "results"
+msgstr " Ergebnisse"
+
+#: includes/class-myhome-translations.php:94
+msgid "Found"
+msgstr "Gefunden"
+
+#: includes/class-myhome-translations.php:105
+#: includes/class-myhome-translations.php:123
+msgid "Street View"
+msgstr "Straßenansicht (Google Street View)"
+
+#: includes/class-myhome-translations.php:106
+msgid "Previous"
+msgstr "zurück"
+
+#: includes/class-myhome-translations.php:107
+msgid "Next"
+msgstr "nächstes"
+
+#: includes/class-myhome-translations.php:108
+msgid "Full screen"
+msgstr "Vollbild"
+
+#: includes/class-myhome-translations.php:109
+msgid "Close full screen"
+msgstr "Vollbild schließen"
+
+#: includes/class-myhome-translations.php:111
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: includes/class-myhome-translations.php:112
+msgid "No results found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: includes/class-myhome-translations.php:124
+msgid "Show location"
+msgstr "Standort anzeigen"
+
+#: includes/class-myhome-translations.php:125
+msgid "Show near"
+msgstr "In der Nähe anzeigen"
+
+#: includes/class-myhome-translations.php:126
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+#: includes/class-myhome-translations.php:137
+msgid "Are you sure you want to delete this field?"
+msgstr "Sind Sie sicher, dass Sie dieses Feld löschen wollen?"
+
+#: includes/class-myhome-translations.php:138
+msgid "Up"
+msgstr "Oben"
+
+#: includes/class-myhome-translations.php:139
+msgid "Down"
+msgstr "Runter"
+
+#: includes/class-myhome-translations.php:140
+#: includes/class-myhome-translations.php:144
+#: includes/class-myhome-translations.php:226
+msgid "Edit"
+msgstr "Editieren"
+
+#: includes/class-myhome-translations.php:141
+#: includes/class-myhome-translations.php:258
+msgid "Delete"
+msgstr "Entfernen"
+
+#: includes/class-myhome-translations.php:143
+msgid "Type"
+msgstr "Typ"
+
+#: includes/class-myhome-translations.php:145
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/class-myhome-translations.php:146
+msgid "required"
+msgstr "gefordert"
+
+#: includes/class-myhome-translations.php:147
+msgid "- separate with commas"
+msgstr "- getrennt durch Kommas"
+
+#: includes/class-myhome-translations.php:148
+#: includes/class-myhome-translations.php:268
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:74
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:84
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:94
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:104
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:114
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:124
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:126
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:50
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:61
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:106
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:85
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:73
+#: includes/shortcodes/class-myhome-service-shortcode.php:72
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:205
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-myhome-translations.php:149
+#: includes/class-myhome-translations.php:269
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:75
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:85
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:95
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:105
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:115
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:125
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:127
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:51
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:60
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:107
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:86
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:74
+#: includes/shortcodes/class-myhome-service-shortcode.php:73
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:206
+msgid "No"
+msgstr "Nr"
+
+#: includes/class-myhome-translations.php:161
+msgid "Show"
+msgstr "Anzeigen"
+
+#: includes/class-myhome-translations.php:163
+msgid "Clear"
+msgstr "Leeren"
+
+#: includes/class-myhome-translations.php:166
+msgid "Attributes"
+msgstr "Eigenschaften"
+
+#: includes/class-myhome-translations.php:189
+msgid "Email"
+msgstr "E-Mail"
+
+#: includes/class-myhome-translations.php:191
+msgid "Your message"
+msgstr "Ihre Nachricht"
+
+#: includes/class-myhome-translations.php:192
+msgid "Send"
+msgstr "Abschicken"
+
+#: includes/class-myhome-translations.php:193
+msgid "Message is to short (min 5 characters) "
+msgstr "Ihre Nachricht ist zu kurz (min. 5 Zeichen)."
+
+#: includes/class-myhome-translations.php:194
+msgid "Email address is invalid"
+msgstr "Die E-Mail-Adresse ist ungültig"
+
+#: includes/class-myhome-translations.php:195
+msgid "Error..."
+msgstr "Fehler..."
+
+#: includes/class-myhome-translations.php:196
+msgid "Your message was sent successfully. Thanks."
+msgstr "Ihre Nachricht wurde erfolgreich an uns abgeschickt."
+
+#: includes/class-myhome-translations.php:197
+msgid "Sending..."
+msgstr "Senden..."
+
+#: includes/class-myhome-translations.php:210
+msgid "Remove file"
+msgstr "Entferne Datei"
+
+#: includes/class-myhome-translations.php:211
+msgid "Upload profile picture"
+msgstr "Profilbild hochladen"
+
+#: includes/class-myhome-translations.php:212
+msgid "Drop plan image here or click to upload"
+msgstr ""
+"Lassen Sie das Bild des Plans hier fallen oder klicken Sie an, um es "
+"hochzuladen"
+
+#: includes/class-myhome-translations.php:213
+msgid "Drop featured image here or click to upload"
+msgstr ""
+"Lassen Sie das angezeigte Bild hier fallen oder klicken Sie an, um es "
+"hochzuladen"
+
+#: includes/class-myhome-translations.php:214
+msgid "Drop all images here or click to upload"
+msgstr ""
+"Lassen Sie alle Bilder hier fallen oder klicken Sie an, um sie hochzuladen"
+
+#: includes/class-myhome-translations.php:215
+msgid "Cancel upload"
+msgstr "Upload abbrechen"
+
+#: includes/class-myhome-translations.php:216
+msgid "Are you sure you want to cancel this upload?"
+msgstr "Sind Sie sicher, dass Sie das Hochladen abbrechen wollen?"
+
+#: includes/class-myhome-translations.php:217
+msgid "Image upload failed"
+msgstr "Bild-Upload fehlgeschlagen"
+
+#: includes/class-myhome-translations.php:218
+msgid "You can't upload files of this type."
+msgstr ""
+"Dieser Dateien werden nicht unterstützt und können nicht hochgeladen werden."
+
+#: includes/class-myhome-translations.php:219
+msgid "Pay with credit card"
+msgstr "Zahlen Sie mit Kreditkarte"
+
+#: includes/class-myhome-translations.php:220
+msgid "Pay with PayPal"
+msgstr "Mit PayPal bezahlen"
+
+#: includes/class-myhome-translations.php:221
+msgid "Thank you for registering. You can log in now."
+msgstr "Vielen Dank für Ihre Anmeldung. Sie können sich jetzt einloggen."
+
+#: includes/class-myhome-translations.php:223
+#: includes/shortcodes/class-myhome-service-shortcode.php:29
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:101
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-myhome-translations.php:224
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-myhome-translations.php:225
+msgid "Payment"
+msgstr "Bezahlung"
+
+#: includes/class-myhome-translations.php:227
+msgid "Log in"
+msgstr "Einloggen"
+
+#: includes/class-myhome-translations.php:228
+#: includes/class-myhome-translations.php:304
+msgid "Log out"
+msgstr "Abmelden"
+
+#: includes/class-myhome-translations.php:229
+#: includes/class-myhome-translations.php:298
+msgid "Login"
+msgstr "Anmelden"
+
+#: includes/class-myhome-translations.php:230
+msgid "password"
+msgstr "Kennwort"
+
+#: includes/class-myhome-translations.php:231
+msgid "user name"
+msgstr "dieser Benutzername ist schon vergeben"
+
+#: includes/class-myhome-translations.php:232
+msgid "email"
+msgstr " E-Mail"
+
+#: includes/class-myhome-translations.php:234
+msgid "Public name"
+msgstr "Öffentlicher Name"
+
+#: includes/class-myhome-translations.php:235
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: includes/class-myhome-translations.php:236
+#: includes/class-myhome-translations.php:300
+msgid "Submit property"
+msgstr "Immotipp abgeben"
+
+#: includes/class-myhome-translations.php:237
+#: includes/class-myhome-translations.php:301
+msgid "My properties"
+msgstr "Meine Immobilien"
+
+#: includes/class-myhome-translations.php:238
+#: includes/class-myhome-translations.php:302
+msgid "Edit profile"
+msgstr "Edit Profil"
+
+#: includes/class-myhome-translations.php:239
+#: includes/class-myhome-translations.php:260
+#: includes/class-myhome-translations.php:303
+msgid "View my profile"
+msgstr "MEIN PROFIL ANZEIGEN"
+
+#: includes/class-myhome-translations.php:240
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: includes/class-myhome-translations.php:241
+msgid "Profile picture"
+msgstr "Profilbild"
+
+#: includes/class-myhome-translations.php:242
+msgid "Add image"
+msgstr "Bild hinzufügen"
+
+#: includes/class-myhome-translations.php:243
+msgid "Set image"
+msgstr "Bild festlegen"
+
+#: includes/class-myhome-translations.php:244
+msgid "Facebook profile link"
+msgstr "Facebook-Profil-Link"
+
+#: includes/class-myhome-translations.php:245
+msgid "Twitter profile link"
+msgstr "Twitter-Profil-Link"
+
+#: includes/class-myhome-translations.php:246
+msgid "Instagram profile link"
+msgstr "Instagram-Profil-Link"
+
+#: includes/class-myhome-translations.php:247
+msgid "Linkedin profile link"
+msgstr "Linkedin-Profil-Link"
+
+#: includes/class-myhome-translations.php:248
+msgid "Update profile"
+msgstr "Profil aktualisieren"
+
+#: includes/class-myhome-translations.php:249
+#: includes/class-myhome-translations.php:299
+msgid "Register"
+msgstr "Registrieren"
+
+#: includes/class-myhome-translations.php:250
+msgid "email address"
+msgstr "Email-Adresse"
+
+#: includes/class-myhome-translations.php:251
+msgid "Edit property"
+msgstr "Unterkunft bearbeiten"
+
+#: includes/class-myhome-translations.php:252
+msgid "Update property"
+msgstr "Immobilie aktualisieren"
+
+#: includes/class-myhome-translations.php:253
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/class-myhome-translations.php:254
+msgid "Featured image"
+msgstr "Ausgewähltes Bild"
+
+#: includes/class-myhome-translations.php:255
+msgid "All images"
+msgstr "Alle Bilder"
+
+#: includes/class-myhome-translations.php:259
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/class-myhome-translations.php:261
+msgid "reset password"
+msgstr "Passwort zurücksetzen"
+
+#: includes/class-myhome-translations.php:262
+msgid "Reset password"
+msgstr "Kennwort zurücksetzen"
+
+#: includes/class-myhome-translations.php:263
+msgid "Back to login form"
+msgstr "Zurück zum Login-Formular"
+
+#: includes/class-myhome-translations.php:264
+msgid "remember me"
+msgstr "Merken"
+
+#: includes/class-myhome-translations.php:266
+msgid "You haven’t added any property yet"
+msgstr "Sie haben noch keine Immobilien hinzugefügt"
+
+#: includes/class-myhome-translations.php:267
+msgid ""
+"Video Link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to .mp4)"
+msgstr ""
+"Video-Link (Youtube / Vimeo / Facebook / Twitter / Instagram / link zu MP4)"
+
+#: includes/class-myhome-translations.php:270
+msgid "Are you sure you want to delete"
+msgstr "Sind Sie sich sicher, dass Sie dies löschen möchten"
+
+#: includes/class-myhome-translations.php:271
+msgid "Username ( cannot be changed )"
+msgstr "Benutzername (kann nachher nicht mehr geändert werden)"
+
+#: includes/class-myhome-translations.php:272
+msgid "Profile updated"
+msgstr "Profil aktualisiert"
+
+#: includes/class-myhome-translations.php:273
+msgid "Unknown error"
+msgstr "Unbekannter Fehler"
+
+#: includes/class-myhome-translations.php:274
+msgid "You are logged in"
+msgstr "Sie sind eingeloggt"
+
+#: includes/class-myhome-translations.php:275
+msgid "You are logged out"
+msgstr "Sie sind jetzt abgemeldet."
+
+#: includes/class-myhome-translations.php:276
+msgid "Select or upload"
+msgstr "Auswählen oder Hochladen"
+
+#: includes/class-myhome-translations.php:277
+msgid "Use this media"
+msgstr "Benutze dieses Media"
+
+#: includes/class-myhome-translations.php:278
+msgid "Use commas to separate"
+msgstr "Benutze Kommas, um zu trennen "
+
+#: includes/class-myhome-translations.php:279
+msgid "This property is waiting for approval."
+msgstr "Diese Immobilie wartet auf Genehmigung."
+
+#: includes/class-myhome-translations.php:280
+msgid "Make a payment"
+msgstr "Zahlung erbringen"
+
+#: includes/class-myhome-translations.php:281
+msgid "payed"
+msgstr "bezahlt"
+
+#: includes/class-myhome-translations.php:282
+msgid "pay"
+msgstr "bezahlen"
+
+#: includes/class-myhome-translations.php:283
+msgid "Thank you for submitting your property information."
+msgstr "Vielen Dank für das Hinzufügen von Informationen über Ihre Immobilie."
+
+#: includes/class-myhome-translations.php:284
+msgid ""
+"Thank you for submitting your property information. Your property is waiting "
+"for approval."
+msgstr ""
+"Vielen Dank für das Hinzufügen von Informationen über Ihre Immobilie. Ihre "
+"Immobilie wartet auf Genehmigung."
+
+#: includes/class-myhome-translations.php:285
+msgid ""
+"If you edit your property, it won't be visible to the public until it is "
+"approved again."
+msgstr ""
+"Wenn Sie Ihre Immobilie aktualisieren, wird sie für andere Benutzer nicht "
+"sichtbar sein, bis sie erneut genehmigt wird."
+
+#: includes/class-myhome-translations.php:286
+msgid "Awaiting payment"
+msgstr "Zahlung erwartet"
+
+#: includes/class-myhome-translations.php:287
+msgid "Publish"
+msgstr "Veröffentlich"
+
+#: includes/class-myhome-translations.php:288
+msgid "Pending"
+msgstr "Ausstehend"
+
+#: includes/class-myhome-translations.php:289
+msgid "Draft"
+msgstr "Entwurf"
+
+#: includes/class-myhome-translations.php:290
+msgid "Private"
+msgstr "Privat"
+
+#: includes/class-myhome-translations.php:291
+msgid "Trash"
+msgstr "Löschen"
+
+#: includes/class-myhome-translations.php:292
+msgid "Set map marker without changing address field"
+msgstr ""
+"Setzen Sie die Markierung auf die Karte ohne das Feld \"Adresse\" zu ändern"
+
+#: includes/models/class-myhome-attribute.php:43
+msgid "MyHome - Search form fields"
+msgstr " MyHome - Suchmaske \"Felder\""
+
+#: includes/models/class-myhome-attribute.php:44
+#, php-format
+msgid "Field name - %s"
+msgstr "Feldname - %s"
+
+#: includes/models/class-myhome-attribute.php:86
+#, php-format
+msgid " %s (display after)"
+msgstr " %s (nachher anzeigen)"
+
+#: includes/models/class-myhome-attribute.php:87
+#, php-format
+msgid " %s (placeholder from)"
+msgstr " %s (Platzhalter von)"
+
+#: includes/models/class-myhome-attribute.php:88
+#, php-format
+msgid " %s (placeholder to)"
+msgstr " %s (Platzhalter bis)"
+
+#: includes/models/class-myhome-attribute.php:89
+#, php-format
+msgid " %s (placeholder)"
+msgstr " %s (Platzhalter)"
+
+#: includes/models/class-myhome-estate.php:287
+#, php-format
+msgid "%s ago"
+msgstr "%s her"
+
+#: includes/models/class-myhome-estate.php:577
+msgid "..."
+msgstr "..."
+
+#: includes/payments/class-myhome-stripe.php:41
+#, php-format
+msgid "%s listing, Estate ID: %d"
+msgstr "%s aufgelistet, Immobilien-ID: %d"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:22
+#: includes/shortcodes/class-myhome-button-shortcode.php:29
+#: includes/shortcodes/class-myhome-button-shortcode.php:38
+#: includes/shortcodes/class-myhome-button-shortcode.php:53
+#: includes/shortcodes/class-myhome-button-shortcode.php:65
+#: includes/shortcodes/class-myhome-button-shortcode.php:78
+#: includes/shortcodes/class-myhome-service-shortcode.php:67
+#: includes/shortcodes/class-myhome-service-shortcode.php:79
+#: includes/shortcodes/class-myhome-service-shortcode.php:93
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:200
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:211
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:225
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:245
+msgid "Button"
+msgstr "Taste"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:25
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:27
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:83
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:21
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:155
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:33
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:21
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:52
+#: includes/shortcodes/class-myhome-heading-shortcode.php:27
+#: includes/shortcodes/class-myhome-icon-shortcode.php:27
+#: includes/shortcodes/class-myhome-listing-map-shortcode.php:101
+#: includes/shortcodes/class-myhome-listing-shortcode.php:89
+#: includes/shortcodes/class-myhome-service-shortcode.php:24
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:24
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:137
+#: includes/shortcodes/class-myhome-slider-shortcode.php:36
+msgid "MyHome"
+msgstr "MyHome"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:31
+msgid "Text"
+msgstr "Text"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:33
+#: includes/shortcodes/class-myhome-button-shortcode.php:107
+#: includes/shortcodes/class-myhome-service-shortcode.php:97
+#: includes/shortcodes/class-myhome-service-shortcode.php:125
+msgid "Read More"
+msgstr "Mehr lesen"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:40
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:60
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:27
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:70
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:46
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:113
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:115
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:128
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:140
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:152
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:164
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:176
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:188
+msgid "Style"
+msgstr "Style"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:43
+#: includes/shortcodes/class-myhome-heading-shortcode.php:129
+#: includes/shortcodes/class-myhome-heading-shortcode.php:168
+#: includes/shortcodes/class-myhome-icon-shortcode.php:128
+#: includes/shortcodes/class-myhome-icon-shortcode.php:220
+#: includes/shortcodes/class-myhome-icon-shortcode.php:253
+#: includes/shortcodes/class-myhome-service-shortcode.php:84
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:134
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:158
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:182
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:230
+msgid "Primary"
+msgstr "Grundfarbe für alle Elemente auswählen"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:44
+#: includes/shortcodes/class-myhome-service-shortcode.php:85
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:231
+msgid "Primary ghost"
+msgstr "Primäre Geist"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:45
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:51
+#: includes/shortcodes/class-myhome-service-shortcode.php:86
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:232
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:36
+msgid "Transparent"
+msgstr ""
+"Wählen Sie diese Option, wenn Sie einen halbtransparenten Hintergrund hinter "
+"dem Titel haben möchten."
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:46
+#: includes/shortcodes/class-myhome-heading-shortcode.php:128
+#: includes/shortcodes/class-myhome-heading-shortcode.php:167
+#: includes/shortcodes/class-myhome-service-shortcode.php:87
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:233
+msgid "White"
+msgstr "Weiß"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:47
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:62
+#: includes/shortcodes/class-myhome-service-shortcode.php:88
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:234
+msgid "Dark"
+msgstr "Dunkel"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:55
+#: includes/shortcodes/class-myhome-heading-shortcode.php:88
+msgid "Size"
+msgstr "Größe"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:58
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:63
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:30
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:73
+#: includes/shortcodes/class-myhome-heading-shortcode.php:92
+#: includes/shortcodes/class-myhome-heading-shortcode.php:127
+#: includes/shortcodes/class-myhome-heading-shortcode.php:141
+#: includes/shortcodes/class-myhome-heading-shortcode.php:166
+#: includes/shortcodes/class-myhome-icon-shortcode.php:127
+#: includes/shortcodes/class-myhome-icon-shortcode.php:219
+#: includes/shortcodes/class-myhome-icon-shortcode.php:252
+#: includes/shortcodes/class-myhome-service-shortcode.php:60
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:133
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:157
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:181
+msgid "Default"
+msgstr "Standard"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:59
+msgid "Big"
+msgstr "Gross"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:67
+#: includes/shortcodes/class-myhome-heading-shortcode.php:63
+#: includes/shortcodes/class-myhome-icon-shortcode.php:112
+msgid "Align"
+msgstr "Ausrichtung"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:71
+#: includes/shortcodes/class-myhome-heading-shortcode.php:67
+#: includes/shortcodes/class-myhome-icon-shortcode.php:116
+msgid "Center"
+msgstr "Mitte"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:80
+#: includes/shortcodes/class-myhome-service-shortcode.php:49
+msgid "Link"
+msgstr "Link"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:83
+#: includes/shortcodes/class-myhome-service-shortcode.php:52
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:250
+msgid "eg. http://xxxxxxx.xxx"
+msgstr "z.B. http://xxxxxxx.xxx"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:89
+#: includes/shortcodes/class-myhome-heading-shortcode.php:196
+#: includes/shortcodes/class-myhome-icon-shortcode.php:281
+#: includes/shortcodes/class-myhome-service-shortcode.php:103
+msgid "Css"
+msgstr "CSS"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:91
+#: includes/shortcodes/class-myhome-heading-shortcode.php:198
+#: includes/shortcodes/class-myhome-icon-shortcode.php:283
+#: includes/shortcodes/class-myhome-service-shortcode.php:105
+msgid "Design options"
+msgstr "Design Optionen"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:24
+msgid "Agent Carousel"
+msgstr "Agenten Carousel"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:32
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:89
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:26
+msgid "Visible"
+msgstr "Sichtbar"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:35
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:102
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:29
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:92
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:42
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:29
+msgid "Default - 3"
+msgstr "Standardwert - 3"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:36
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:103
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:30
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:93
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:43
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:30
+msgid "1 "
+msgstr " 1"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:37
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:104
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:31
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:94
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:44
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:31
+msgid "2 "
+msgstr " 2"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:38
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:105
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:32
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:95
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:45
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:32
+msgid "3 "
+msgstr " 3"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:39
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:106
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:33
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:46
+msgid "4 "
+msgstr "4"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:45
+msgid "Agents limit"
+msgstr "Agenten Limit"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:52
+msgid "Exclude admins"
+msgstr "Ausschließung der Systemadministrator"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:64
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:31
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:74
+#: includes/shortcodes/class-myhome-service-shortcode.php:61
+msgid "White Background"
+msgstr "Weißer Hintergrund"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:65
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:32
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:75
+#: includes/shortcodes/class-myhome-service-shortcode.php:62
+msgid "Dark Background"
+msgstr "Dunkler Hintergrund"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:71
+msgid "Show description"
+msgstr "Zeige Beschreibung"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:81
+msgid "Show social icons"
+msgstr "Social Media-Symbole anzeigen"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:91
+msgid "Show Email"
+msgstr "Zeige Email"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:101
+msgid "Show phone"
+msgstr "Zeige Telefonnummer"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:111
+msgid "Show button"
+msgstr "Schaltfläche anzeigen"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:121
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:123
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:103
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:82
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:70
+msgid "Dots"
+msgstr "Punkte"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:271
+msgid "Full Profile"
+msgstr "Vollständiges Profil"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:80
+msgid "Attribute Carousel"
+msgstr "Eigenschaften Carousel"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:89
+msgid "Attribute"
+msgstr "Eigenschaften"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:90
+msgid ""
+"It shows options with at least one property assigned e.g. it will not show "
+"Washington if it has not at least one property assigned"
+msgstr ""
+"Es werden Optionen angezeigt, wo mindestens eine Immobilie vorhanden ist, z."
+"B Berlin wird nicht anzeigt, wenn dort keine Immobilie zur Verfügug steht"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:99
+msgid "Visible number"
+msgstr "Sichtbare Nummer"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:107
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:34
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:47
+msgid "5 "
+msgstr "5"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:114
+msgid "Total elements number"
+msgstr "Gesamtzahl aller Elemente"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:117
+msgid "0 or empty = all elements"
+msgstr "0 oder leer = alle Elemente"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:18
+msgid "Client Carousel"
+msgstr "Kunden Carousel"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:26
+msgid "Number of visible clients"
+msgstr "Anzahl der sichtbaren Kunden"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:40
+msgid "Total number of clients to display"
+msgstr "Gesamtzahl aller Kunden zum Anzeigen"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:47
+msgid "Display navigation dots"
+msgstr "Navigationspunkte anzeigen"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:57
+msgid "Image Hover Effect - Grayscale"
+msgstr "Image Hover Effect - Grayscale"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:67
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:81
+msgid "Auto play"
+msgstr "Auto-Wiedergabe"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:39
+msgid "Properties IDs"
+msgstr "ID der Immobilien"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:48
+msgid "Properties limit"
+msgstr "Limit der Immobilien"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:66
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:44
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:152
+msgid "Property Carousel"
+msgstr "Immobilien Carousel"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:30
+msgid "Post Carousel"
+msgstr "Beitragsstatus"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:39
+msgid "Max Visible"
+msgstr "Alles Sichtbare"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:54
+msgid "Posts limit"
+msgstr "Limit der Posten"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:62
+msgid "Read more text"
+msgstr "Lesen Sie mehr Text"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:64
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:103
+msgid "Read more"
+msgstr "Mehr"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:18
+msgid "Testimonial Carousel"
+msgstr "Bewertungs-Karussell"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:39
+msgid "Limit"
+msgstr "Limit"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:50
+msgid "Cloud text"
+msgstr "Wolkenschrift"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:52
+msgid "Boxed"
+msgstr "Gerahmt"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:59
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:63
+msgid "Light"
+msgstr "Hell"
+
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:18
+msgid "Google API Key not set"
+msgstr "Google API Key nicht festgesetzt"
+
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:49
+msgid "One Property Map"
+msgstr "Karte einer Immobilie"
+
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:56
+msgid "Estates"
+msgstr "Grundstücke"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:24
+#: includes/shortcodes/class-myhome-heading-shortcode.php:31
+#: includes/shortcodes/class-myhome-heading-shortcode.php:40
+#: includes/shortcodes/class-myhome-heading-shortcode.php:48
+#: includes/shortcodes/class-myhome-heading-shortcode.php:61
+#: includes/shortcodes/class-myhome-heading-shortcode.php:74
+#: includes/shortcodes/class-myhome-heading-shortcode.php:86
+#: includes/shortcodes/class-myhome-heading-shortcode.php:105
+#: includes/shortcodes/class-myhome-heading-shortcode.php:121
+#: includes/shortcodes/class-myhome-heading-shortcode.php:135
+#: includes/shortcodes/class-myhome-heading-shortcode.php:147
+#: includes/shortcodes/class-myhome-heading-shortcode.php:160
+#: includes/shortcodes/class-myhome-heading-shortcode.php:174
+#: includes/shortcodes/class-myhome-heading-shortcode.php:187
+msgid "Heading"
+msgstr " Überschrift "
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:33
+msgid "Heading text"
+msgstr "Überschrift Text"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:42
+msgid "Subheading text"
+msgstr "Unterüberschrift Text"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:50
+msgid "Heading style"
+msgstr "Heading style"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:54
+msgid "Bottom Separator"
+msgstr "Endtrennzeichen"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:55
+msgid "Top Separator"
+msgstr "Anfangstrennzeichen"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:56
+msgid "No separator"
+msgstr "Kein Trennzeichen"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:76
+msgid "Font Weight"
+msgstr "Schriftstärke"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:80
+msgid "Bold"
+msgstr "Fett"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:81
+msgid "Thin"
+msgstr "Schmal"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:93
+msgid "XXXL"
+msgstr "XXXL"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:94
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:95
+msgid "XL"
+msgstr "XL"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:96
+msgid "L"
+msgstr "Liter"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:97
+msgid "M"
+msgstr "Monat"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:98
+msgid "S"
+msgstr "S"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:99
+msgid "XS"
+msgstr "XS"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:100
+msgid "XXS"
+msgstr "XXS"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:107
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:111
+#: includes/shortcodes/class-myhome-heading-shortcode.php:113
+msgid "H2"
+msgstr "H2"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:112
+msgid "H1"
+msgstr "H1"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:114
+msgid "H3"
+msgstr "H3"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:115
+msgid "H4"
+msgstr "H4"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:116
+msgid "H5"
+msgstr "H5"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:123
+msgid "Heading color"
+msgstr "Überschriftenfarbe"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:130
+#: includes/shortcodes/class-myhome-heading-shortcode.php:169
+#: includes/shortcodes/class-myhome-icon-shortcode.php:129
+#: includes/shortcodes/class-myhome-icon-shortcode.php:221
+#: includes/shortcodes/class-myhome-icon-shortcode.php:254
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:135
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:159
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:183
+msgid "Other"
+msgstr "Andere"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:137
+msgid "Font family"
+msgstr "Schriftart Familie"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:142
+msgid "Font body"
+msgstr "Schriftkörper"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:149
+msgid "Heading color other"
+msgstr " andere Farben der Überschrift"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:162
+msgid "Subheading color"
+msgstr "Farbe der Zwischenüberschrift"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:176
+msgid "Subheading color other"
+msgstr " andere Farben der Zwischenüberschrift"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:189
+msgid "Heading Background"
+msgstr "Hintergrund der Überschrift"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:24
+#: includes/shortcodes/class-myhome-icon-shortcode.php:32
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:29
+msgid "Icon"
+msgstr "Icon"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:35
+#: includes/shortcodes/class-myhome-icon-shortcode.php:57
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:32
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:54
+msgid "home"
+msgstr "STARTSEITE"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:36
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:33
+msgid "air conditioner"
+msgstr "Klimaanlage"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:37
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:34
+msgid "apartment"
+msgstr "wohnungen"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:38
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:35
+msgid "area"
+msgstr "Fläche"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:39
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:36
+msgid "bath"
+msgstr "Badezimmer"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:40
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:37
+msgid "bath 2"
+msgstr "Bad 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:41
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:38
+msgid "bathtub"
+msgstr "Badewanne"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:42
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:39
+msgid "bed"
+msgstr "Bett"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:43
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:40
+msgid "bulb"
+msgstr "Knolle"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:44
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:41
+msgid "city"
+msgstr " Stadt"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:45
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:42
+msgid "city 2"
+msgstr " Stadt 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:46
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:43
+msgid "computer"
+msgstr "Computer"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:47
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:44
+msgid "construction"
+msgstr "Bau"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:48
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:45
+msgid "construction 2"
+msgstr "Bau 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:49
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:46
+msgid "date"
+msgstr "Datum"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:50
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:47
+msgid "dishwasher"
+msgstr "Spülmaschine"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:51
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:48
+msgid "door"
+msgstr "Tür"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:52
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:49
+msgid "fence"
+msgstr "Horizont"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:53
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:50
+msgid "fireplace"
+msgstr "Wandkamin"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:54
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:51
+msgid "full size"
+msgstr "volle Grösse"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:55
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:52
+msgid "furniture"
+msgstr "Möbel und Einrichtungsgegenstände"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:56
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:53
+msgid "garage"
+msgstr "Garage"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:58
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:55
+msgid "home 2"
+msgstr "Haus 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:59
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:56
+msgid "home 3"
+msgstr "Haus 3"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:60
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:57
+msgid "home 4"
+msgstr "Haus 4"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:61
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:58
+msgid "home 5"
+msgstr "Haus 5"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:62
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:59
+msgid "home 6"
+msgstr "Haus 6"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:63
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:60
+msgid "plan"
+msgstr "Plan"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:64
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:61
+msgid "plan 2"
+msgstr "Plan 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:65
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:62
+msgid "interface"
+msgstr "Schnittstelle"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:66
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:63
+msgid "layers"
+msgstr "Schichten"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:67
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:64
+msgid "lift"
+msgstr "heben"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:68
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:65
+msgid "location"
+msgstr " Ort"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:69
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:66
+msgid "location 2"
+msgstr " Ort 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:70
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:67
+msgid "mail"
+msgstr "E-Mail"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:71
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:68
+msgid "mail 2"
+msgstr "E-Mail (2)"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:72
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:69
+msgid "map"
+msgstr "karte"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:73
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:70
+msgid "medical"
+msgstr "medizinisch"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:74
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:71
+msgid "microwave"
+msgstr "Mikrowelle"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:75
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:72
+msgid "multimedia"
+msgstr "multimedia"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:76
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:73
+msgid "office"
+msgstr "Büro"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:77
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:74
+msgid "office 2"
+msgstr "Büro 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:78
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:75
+msgid "owen"
+msgstr "owen"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:79
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:76
+msgid "parquet"
+msgstr " Parkett"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:80
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:77
+msgid "phone"
+msgstr "Telefon"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:81
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:78
+msgid "pin"
+msgstr "Pin"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:82
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:79
+msgid "prize"
+msgstr "Preis"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:83
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:80
+msgid "rent"
+msgstr "Miete"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:84
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:81
+msgid "roof"
+msgstr "roof"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:85
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:82
+msgid "school"
+msgstr "Schule"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:86
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:83
+msgid "school 2"
+msgstr "Schule 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:87
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:84
+msgid "shower"
+msgstr "Dusche"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:88
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:85
+msgid "sofa"
+msgstr "das Sofa"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:89
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:86
+msgid "sofa 2"
+msgstr "Sofa 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:90
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:87
+msgid "sold"
+msgstr "verkauft"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:91
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:88
+msgid "stairs"
+msgstr " Treppe"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:92
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:89
+msgid "swimming pool"
+msgstr "Schwimmbecken"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:93
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:90
+msgid "technology"
+msgstr "Technologie"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:94
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:91
+msgid "transport"
+msgstr "Transport"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:95
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:92
+msgid "wall"
+msgstr "Profil"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:96
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:93
+msgid "wardrobe"
+msgstr "Kleiderablage"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:97
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:94
+msgid "wifi"
+msgstr " Wi-Fi"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:98
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:95
+msgid "window"
+msgstr "Fenster"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:104
+msgid "Icon size (font size)"
+msgstr "Icon-Größe (Schriftgröße)"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:124
+msgid "Color"
+msgstr "Farbe"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:136
+msgid "Color Other"
+msgstr " andere Farben"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:146
+#: includes/shortcodes/class-myhome-icon-shortcode.php:148
+#: includes/shortcodes/class-myhome-icon-shortcode.php:158
+#: includes/shortcodes/class-myhome-icon-shortcode.php:175
+#: includes/shortcodes/class-myhome-icon-shortcode.php:192
+#: includes/shortcodes/class-myhome-icon-shortcode.php:214
+#: includes/shortcodes/class-myhome-icon-shortcode.php:235
+#: includes/shortcodes/class-myhome-icon-shortcode.php:247
+#: includes/shortcodes/class-myhome-icon-shortcode.php:268
+msgid "Shape"
+msgstr "Form"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:151
+msgid "None"
+msgstr "keine"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:152
+msgid "Shape round"
+msgstr "Form: rund"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:153
+msgid "Shape rounded rectangle"
+msgstr "Form: abgerundetes Rechteck"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:154
+msgid "Shape square"
+msgstr "Form: quadratisch"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:160
+msgid "Padding"
+msgstr "Kopfzeile Abstand oben"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:177
+msgid "Border Width"
+msgstr "Rahmenbreite"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:194
+msgid "Border Style"
+msgstr "Border Style"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:197
+msgid "Solid"
+msgstr "Geschlossen"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:198
+msgid "Dotted"
+msgstr "Gepunktet"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:199
+msgid "Dashed"
+msgstr "Gestrichelt"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:200
+msgid "Double"
+msgstr "Doppel"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:216
+msgid "Border Color"
+msgstr "Rahmenfarbe"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:237
+msgid "Border Color Other"
+msgstr "Rahmenfarbe andere"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:249
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:270
+msgid "Background Color Other"
+msgstr " andere Hintergrundfarbe"
+
+#: includes/shortcodes/class-myhome-listing-map-shortcode.php:27
+msgid "Paste your Google Maps Api Key in your theme option to display map."
+msgstr ""
+"Copy-Paste dein Google Maps Api Kay in deine Thema-Eigenschaften, um die "
+"Karte anzuzeigen "
+
+#: includes/shortcodes/class-myhome-listing-map-shortcode.php:98
+msgid "Property Listings Map"
+msgstr "Auflistung der Immobilien - Karte"
+
+#: includes/shortcodes/class-myhome-listing-shortcode.php:86
+msgid "Property Listings"
+msgstr "Objekt Inserate"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:21
+msgid "Service Box"
+msgstr "Service-Box"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:35
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:107
+msgid "Content"
+msgstr "Inhalt"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:57
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:69
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:202
+#: includes/widgets/class-myhome-infobox-widget.php:136
+msgid "Display button"
+msgstr "Button anzeigen"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:81
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:227
+msgid "Button style"
+msgstr "Button-Stil"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:95
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:213
+msgid "Button text"
+msgstr "Taste-Text"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:21
+msgid "Simple Box"
+msgstr "Simple Box"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:118
+msgid "Icon Left"
+msgstr "Icon Links"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:119
+msgid "Icon Center"
+msgstr "Icon mitte"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:120
+msgid "Icon Right"
+msgstr "Icon  rechts"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:121
+msgid "Big Icon Left"
+msgstr " große Icon links"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:122
+msgid "Big Icon Center"
+msgstr " große Icon mitte"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:123
+msgid "Big Icon Right"
+msgstr "große Icon rechts"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:130
+msgid "Icon Color"
+msgstr "Icon Farbe"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:142
+msgid "Icon Color Other"
+msgstr " andare Iconfarbe"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:154
+msgid "Title Color"
+msgstr "Titelfarbe"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:166
+msgid "Title Color Other"
+msgstr " andare Titelfarbe"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:178
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:190
+msgid "Text Color Other"
+msgstr " andere Textfarbe"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:247
+msgid "Button link"
+msgstr "Button Link"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:31
+msgid "Slider Style"
+msgstr "Schieber-Style"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:34
+msgid "Card"
+msgstr "Geschenkgutschein"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:35
+msgid "Card short"
+msgstr "Kurze Karte"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:58
+msgid "Estates limit"
+msgstr "Limit der Immobilien"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:67
+msgid "Narrow estates to single agent"
+msgstr " Immobilien nur von einem Agenten anzeigen "
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:76
+msgid "Narrow estates to featured only"
+msgstr "nur die dargestellten Immobilien anzeigen"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:85
+msgid "Narrow estates to IDs:"
+msgstr "Immobilien nur als IDs anzeigen:"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:132
+msgid "Properties Slider"
+msgstr "Objekt/Immobilien Slider"
+
+#: includes/shortcodes/class-myhome-slider-shortcode.php:24
+msgid "Select slider"
+msgstr "Slidertyp wählen"
+
+#: includes/shortcodes/class-myhome-slider-shortcode.php:31
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: includes/shortcodes/class-myhome-slider-shortcode.php:45
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/widgets/class-myhome-facebook-widget.php:26
+msgid "Display facebook page"
+msgstr "Facebook-Seite anzeigen"
+
+#: includes/widgets/class-myhome-facebook-widget.php:28
+msgid "MH Facebook"
+msgstr "MH Facebook"
+
+#: includes/widgets/class-myhome-facebook-widget.php:61
+#: includes/widgets/class-myhome-facebook-widget.php:186
+#: includes/widgets/class-myhome-social-icons-widget.php:65
+#: includes/widgets/class-myhome-social-icons-widget.php:147
+#: includes/widgets/class-myhome-twitter-widget.php:54
+#: includes/widgets/class-myhome-twitter-widget.php:119
+#: includes/widgets/class-myhome-twitter-widget.php:191
+msgid "MyHome - Widgets"
+msgstr "MyHome - Widgets"
+
+#: includes/widgets/class-myhome-facebook-widget.php:62
+#: includes/widgets/class-myhome-facebook-widget.php:187
+msgid "Facebook widget"
+msgstr "Facebook widget"
+
+#: includes/widgets/class-myhome-facebook-widget.php:130
+#: includes/widgets/class-myhome-infobox-widget.php:119
+#: includes/widgets/class-myhome-social-icons-widget.php:114
+#: includes/widgets/class-myhome-twitter-widget.php:125
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widgets/class-myhome-facebook-widget.php:134
+msgid "Page (url):"
+msgstr "Seite (url):"
+
+#: includes/widgets/class-myhome-facebook-widget.php:138
+msgid "Page height:"
+msgstr "Seitenhöhe:"
+
+#: includes/widgets/class-myhome-facebook-widget.php:143
+msgid "Use small header"
+msgstr "Benutze kleine Überschrift"
+
+#: includes/widgets/class-myhome-facebook-widget.php:147
+msgid "Hide cover photo"
+msgstr "Titelbild verstecken"
+
+#: includes/widgets/class-myhome-facebook-widget.php:151
+msgid "Display faces of friend"
+msgstr "Gesichter von Freunden anzeigen"
+
+#: includes/widgets/class-myhome-facebook-widget.php:155
+msgid "Display timeline"
+msgstr "Zeitachse anzeigen"
+
+#: includes/widgets/class-myhome-infobox-widget.php:26
+msgid "Display image and text"
+msgstr "Bild und Text anzeigen"
+
+#: includes/widgets/class-myhome-infobox-widget.php:28
+msgid "MH Infobox"
+msgstr "MH Infobox"
+
+#: includes/widgets/class-myhome-infobox-widget.php:123
+msgid "Image url ( jpg / png / gif ):"
+msgstr "Bild url ( jpg / png / gif ):"
+
+#: includes/widgets/class-myhome-infobox-widget.php:127
+msgid "Link ( url: ):"
+msgstr "Link ( url: ):"
+
+#: includes/widgets/class-myhome-infobox-widget.php:131
+msgid "Text:"
+msgstr "Text:"
+
+#: includes/widgets/class-myhome-infobox-widget.php:139
+msgid "Button text:"
+msgstr "Button Text:"
+
+#: includes/widgets/class-myhome-social-icons-widget.php:40
+msgid "Display social icons"
+msgstr "Social Icons anzeigen"
+
+#: includes/widgets/class-myhome-social-icons-widget.php:42
+msgid "MH Social Icons"
+msgstr "MH Social Icon"
+
+#: includes/widgets/class-myhome-social-icons-widget.php:66
+#: includes/widgets/class-myhome-social-icons-widget.php:148
+msgid "Icons widget"
+msgstr "Icon-Widget"
+
+#: includes/widgets/class-myhome-twitter-widget.php:26
+msgid "Display latest tweets"
+msgstr "Die neuesten Tweets anzeigen"
+
+#: includes/widgets/class-myhome-twitter-widget.php:28
+msgid "MH Twitter"
+msgstr "MH-Twitter"
+
+#: includes/widgets/class-myhome-twitter-widget.php:55
+#: includes/widgets/class-myhome-twitter-widget.php:120
+#: includes/widgets/class-myhome-twitter-widget.php:192
+msgid "Twitter widget"
+msgstr "Twitter-Widget"
+
+#: includes/widgets/class-myhome-twitter-widget.php:129
+msgid "Twitter Handle:"
+msgstr "Twitter-Handle:"
+
+#: includes/widgets/class-myhome-twitter-widget.php:133
+msgid "Consumer Key (API Key):"
+msgstr "Benutzer Key (API Key):"
+
+#: includes/widgets/class-myhome-twitter-widget.php:137
+msgid "\tConsumer Secret (API Secret):"
+msgstr "\tBenutzer geheim (API geheim):"
+
+#: includes/widgets/class-myhome-twitter-widget.php:141
+msgid "Access Token:"
+msgstr "Zugriffs Token:"
+
+#: includes/widgets/class-myhome-twitter-widget.php:145
+msgid "Access Token Secret:"
+msgstr "Zugriffs Token Geheim:"
+
+#: includes/widgets/class-myhome-twitter-widget.php:149
+msgid "Cache duration (minutes):"
+msgstr "Cache-Dauer (Minuten):"
+
+#: includes/widgets/class-myhome-twitter-widget.php:153
+msgid "Number of displayed tweets"
+msgstr "Anzahl der angezeigten Tweets"
+
+#: includes/widgets/class-myhome-twitter-widget.php:158
+msgid "Show retweets"
+msgstr "Retweets anzeigen"
+
+#. Plugin URI of the plugin/theme
+msgid "http://tangibledesign.net"
+msgstr "http://tangibledesign.NET"

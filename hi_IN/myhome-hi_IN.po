@@ -1,0 +1,1649 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MyHome\n"
+"POT-Creation-Date: 2017-05-18 16:46+0200\n"
+"PO-Revision-Date: 2017-05-30 17:45+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19 includes/class-myhome-redux.php:1846 includes/class-myhome-redux.php:1855
+msgid "404"
+msgstr "404"
+
+#: 404.php:20 includes/class-myhome-redux.php:1862
+msgid "Page not found"
+msgstr "पृष्ठ नहीं मिला"
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s comments"
+msgstr[0] "एक टिप्पणी"
+msgstr[1] "%1$s टिप्पणी"
+
+#: includes/class-myhome-acf.php:38
+msgid "Page settings"
+msgstr "पेज सेटिंग्स"
+
+#: includes/class-myhome-acf.php:53
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: includes/class-myhome-acf.php:58
+msgid "Default"
+msgstr "डिफाल्ट"
+
+#: includes/class-myhome-acf.php:59
+msgid "Transparent"
+msgstr "पारदर्शी"
+
+#: includes/class-myhome-acf.php:61
+msgid "Transparent - dark gradient"
+msgstr "पारदर्शी - अंधेरे ढाल"
+
+#: includes/class-myhome-comments.php:39
+msgid "Send comment"
+msgstr "टिप्पणी भेजें"
+
+#: includes/class-myhome-comments.php:81
+msgid "Comment navigation"
+msgstr "टिप्पणी का नेविगेशन"
+
+#: includes/class-myhome-comments.php:82
+msgid "&larr; Older Comments"
+msgstr "&larr; अौर पुरानी टिप्पणियाँ"
+
+#: includes/class-myhome-comments.php:83
+msgid "Newer Comments &rarr;"
+msgstr "अौर नई टिप्पणी &rarr;"
+
+#: includes/class-myhome-comments.php:114
+msgid "Name*"
+msgstr "नाम*"
+
+#: includes/class-myhome-comments.php:118
+msgid "Email*"
+msgstr "ई-मेल*"
+
+#: includes/class-myhome-comments.php:121
+msgid "Website"
+msgstr "वेबसाइट"
+
+#: includes/class-myhome-comments.php:126
+msgid "Comment"
+msgstr "टिप्पणी"
+
+#: includes/class-myhome-comments.php:131
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "अपनी टिप्पणी पोस्ट करने के लिए आपको <a href=„%s”>लॉग इन</a> करना होगा"
+
+#: includes/class-myhome-comments.php:137
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a>के रूप में लॉग इन किया।"
+
+#: includes/class-myhome-comments.php:141
+msgid "Log out of this account"
+msgstr "इस खाते से लॉग आउट"
+
+#: includes/class-myhome-comments.php:142
+msgid "Log out &raquo;"
+msgstr "लॉग आउट &raquo;"
+
+#: includes/class-myhome-comments.php:144
+msgid "Send Comment"
+msgstr "टिप्पणी भेजें"
+
+#: includes/class-myhome-comments.php:146
+msgid "Leave a reply"
+msgstr "उत्तर छोड़ दें"
+
+#: includes/class-myhome-comments.php:147
+#, php-format
+msgid "Comment to %s"
+msgstr "%s की टिप्पणी"
+
+#: includes/class-myhome-comments.php:160
+msgid "Your comment is awaiting moderation"
+msgstr "आपकी टिप्पणी संतुलित किए जाने की प्रतीक्षा कर रही है।"
+
+#: includes/class-myhome-comments.php:174
+msgid "edit comment"
+msgstr "टिप्पणी को संपादित करें"
+
+#: includes/class-myhome-comments.php:185
+msgid "Reply"
+msgstr "परता देओ"
+
+#: includes/class-myhome-comments.php:202
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 टिप्पणी"
+msgstr[1] "%1$s टिप्पणियाँ"
+
+#: includes/class-myhome-comments.php:213
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: includes/class-myhome-init.php:64 includes/class-myhome-init.php:66
+msgid "Enter client name"
+msgstr "ग्राहक का नाम दर्ज करें"
+
+#: includes/class-myhome-init.php:86
+msgid "MyHome Theme - Google API Key is not set. Paste your Google Maps Api Key in your theme option to display map."
+msgstr "MyHome थीम - गूगल एपीआई कुंजी सेट नहीं है। अपने गूगल मैप्स एपीआई कुंजी मैप को प्रदर्शित करने के लिए अपने विषय विकल्प में चिपकाएँ।"
+
+#: includes/class-myhome-init.php:122
+msgid "To view this protected post, enter the password below:"
+msgstr "इस पोस्ट की रक्षा को देखने के लिए नीचे दिए गए पासवर्ड दर्ज करें:"
+
+#: includes/class-myhome-init.php:127
+msgid "Submit"
+msgstr "सबमिट"
+
+#: includes/class-myhome-init.php:203 templates/searchform.php:2
+msgid "Search for:"
+msgstr "खोज करें:"
+
+#: includes/class-myhome-init.php:204
+msgid "Search ..."
+msgstr "खोज …"
+
+#: includes/class-myhome-init.php:239
+msgid "MH Sidebar"
+msgstr "एमएच साइडबार"
+
+#: includes/class-myhome-init.php:241 includes/class-myhome-init.php:251 includes/class-myhome-init.php:261 includes/class-myhome-init.php:271
+msgid "Add widgets here."
+msgstr "यहाँ विजेट जोड़ें।"
+
+#: includes/class-myhome-init.php:249
+msgid "MH Sidebar Footer"
+msgstr "एमएच साइडबार पाद लेख"
+
+#: includes/class-myhome-init.php:259
+msgid "MH Listing"
+msgstr "एमएच लिस्टिंग"
+
+#: includes/class-myhome-init.php:269
+msgid "MH Property Page"
+msgstr "एमएच संपत्ति का पृष्ठ"
+
+#: includes/class-myhome-layout.php:914 includes/class-myhome-redux.php:859
+msgid "Read more"
+msgstr "और पढ़ें"
+
+#: includes/class-myhome-plugins.php:56
+msgid "MyHome Core"
+msgstr "MyHome कोर"
+
+#: includes/class-myhome-plugins.php:66
+msgid "Advanced Custom Fields PRO"
+msgstr "उन्नत कस्टम फ़ील्ड्स प्रो"
+
+#: includes/class-myhome-plugins.php:76
+msgid "WPBakery Visual Composer"
+msgstr "WP बेकरी दृश्य संगीतकार"
+
+#: includes/class-myhome-plugins.php:86
+msgid "Contact Form 7"
+msgstr "संपर्क फ़ॉर्म 7"
+
+#: includes/class-myhome-plugins.php:95
+msgid "Redux Framework"
+msgstr "Redux रूपरेखा"
+
+#: includes/class-myhome-plugins.php:104
+msgid "Slider Revolution"
+msgstr "स्लाइडर क्रांति"
+
+#: includes/class-myhome-plugins.php:114
+msgid "Mega Main Menu"
+msgstr "मेगा मुख्य मेनू"
+
+#: includes/class-myhome-plugins.php:124
+msgid "Ultimate Addons for Visual Composer"
+msgstr "दृश्य संगीतकार के लिए अंतिम आड आॅन्स"
+
+#: includes/class-myhome-plugins.php:134
+msgid "Easy Social Share Buttons"
+msgstr "आसान सामाजिक साझा बटन"
+
+#: includes/class-myhome-plugins.php:144
+msgid "MyHome Demo Importer"
+msgstr "MyHome डेमो आयातक"
+
+#: includes/class-myhome-redux.php:101
+msgid "Theme Options"
+msgstr "थीम का विकल्प"
+
+#: includes/class-myhome-redux.php:102
+msgid "MyHome Options"
+msgstr "MyHome विकल्प"
+
+#: includes/class-myhome-redux.php:138 includes/class-myhome-redux.php:1014 includes/class-myhome-redux.php:1224
+msgid "General"
+msgstr "सार्वत्रिक"
+
+#: includes/class-myhome-redux.php:146 includes/class-myhome-redux.php:321
+msgid "Primary color"
+msgstr "प्राथमिक रंग"
+
+#: includes/class-myhome-redux.php:147
+msgid "Set primary color for all elements"
+msgstr "सभी तत्वों के लिए प्राथमिक रंग सेट करें"
+
+#: includes/class-myhome-redux.php:318
+msgid "Active inputs style"
+msgstr "सक्रिय इनपुट्स की शैली"
+
+#: includes/class-myhome-redux.php:322 includes/class-myhome-redux.php:961
+msgid "Gray"
+msgstr "भूरा"
+
+#: includes/class-myhome-redux.php:329
+msgid "Google API Key"
+msgstr "गूगल एपीआई कुंजी"
+
+#: includes/class-myhome-redux.php:330
+msgid ""
+"Following instruction with images, can be found in your documentation:<br><br>\n"
+"                        1. Go https://developers.google.com/maps/documentation/javascript/ <br>\n"
+"                        2. Sign in with your Google Account <br>\n"
+"                        3. Click \"GET A KEY\" button <br>\n"
+"                        4. Enter new project name <br>\n"
+"                        5. Select Yes below \"I agree that my use of any services and related APIs is subject to my compliance with the applicable Terms of "
+"Service.\" <br>\n"
+"                        6. Click - \"CREATE AND ENABLE API\" button <br>\n"
+"                        7. Copy Your API Key into this field             \n"
+"                        "
+msgstr ""
+"निम्नलिखित निर्देश छवियों के साथ, आपके दस्तावेज़ में पाया जा सकता है:<br> <br>\n"
+"1. चले जाओ https://developers.google.com/maps/documentation/javascript/ <br>\n"
+"2. अपने गूगल अकाउंट से साईन इन करें <br>\n"
+"3. „एक कुंजी प्राप्त करें” बटन पर क्लिक करें <br>\n"
+"4. नया प्रोजेक्ट नाम दर्ज करें <br>\n"
+"5. नीचे चुनें हाँ „मैं सहमत हूँ कि मेरी सेवाओं और संबंधित एपीआई का उपयोग मेरे लागू शर्तों के अनुपालन के अधीन है।” <br>\n"
+"6. क्लिक करें - „एपीआई बनाएं और सक्षम करें” बटन <br>\n"
+"7. अपने एपीआई कुंजी को इस क्षेत्र में कॉपी करें              "
+
+#: includes/class-myhome-redux.php:343
+msgid "Map style"
+msgstr "मैप की शैली"
+
+#: includes/class-myhome-redux.php:346
+msgid "MyHome gray palette"
+msgstr "MyHome भूरे रंग पैलेट"
+
+#: includes/class-myhome-redux.php:347
+msgid "Default by Google"
+msgstr "गूगल के वारा डिफ़ॉल्ट"
+
+#: includes/class-myhome-redux.php:348
+msgid "Custom (Snazzy Maps)"
+msgstr "कस्टम (अत्यधिक आकर्षित मैप्स)"
+
+#: includes/class-myhome-redux.php:354
+msgid "Snazzy Maps"
+msgstr "अत्यधिक आकर्षित मैप्स"
+
+#: includes/class-myhome-redux.php:355
+msgid "Visit: https://snazzymaps.com/ - find your favorite map and copy \"JAVASCRIPT STYLE ARRAY\""
+msgstr "https://snazzymaps.com/ पर जाएँ - अपने पसंदीदा मानचित्र खोजें और \"जावास्क्रिप्ट शैली सरणी\" की प्रतिलिपि बनाएँ"
+
+#: includes/class-myhome-redux.php:373
+msgid "Typography"
+msgstr "टाइपोग्राफी"
+
+#: includes/class-myhome-redux.php:381
+msgid "Main font"
+msgstr "मुख्य फ़ॉन्ट"
+
+#: includes/class-myhome-redux.php:419
+msgid "Main font - italic"
+msgstr "मुख्य फ़ॉन्ट - इटैलिक"
+
+#: includes/class-myhome-redux.php:420
+msgid "Leave empty if \"Main Font\" has no separate italic version."
+msgstr "\"मुख्य फ़ॉन्ट\" कोई अलग इटैलिक संस्करण है, तो खाली छोड़ दें।"
+
+#: includes/class-myhome-redux.php:441
+msgid "Main font - bold (700)"
+msgstr "मुख्य फ़ॉन्ट - बोल्ड (700)"
+
+#: includes/class-myhome-redux.php:467
+msgid "Heading font"
+msgstr "शीर्षक फ़ॉन्ट"
+
+#: includes/class-myhome-redux.php:505
+msgid "Heading font - bold (700)"
+msgstr "शीर्ष फ़ॉन्ट - बोल्ड (700)"
+
+#: includes/class-myhome-redux.php:536
+msgid "RTL text direction"
+msgstr "RTL पाठ की दिशा"
+
+#: includes/class-myhome-redux.php:537
+msgid "Right to left text direction"
+msgstr "पाठ की पाठ की दिशा दिशा"
+
+#: includes/class-myhome-redux.php:551
+msgid "Header"
+msgstr "शीर्ष लेख"
+
+#: includes/class-myhome-redux.php:560
+msgid "Header general"
+msgstr "सामान्य शीर्ष लेख"
+
+#: includes/class-myhome-redux.php:568
+msgid "This is a default logo for desktop and mobile menu"
+msgstr "यह डेस्कटॉप और मोबाइल मेनू के लिए एक डिफ़ॉल्ट लोगो है"
+
+#: includes/class-myhome-redux.php:570
+msgid "Logo Default"
+msgstr "लोगो डिफ़ॉल्ट"
+
+#: includes/class-myhome-redux.php:576
+msgid "This logo will be used on pages with transparent menu only"
+msgstr "इस लोगो केवल पारदर्शी मेनू के साथ पृष्ठों पर इस्तेमाल किया जाएगा"
+
+#: includes/class-myhome-redux.php:578
+msgid "Additional logo for the transparent menu"
+msgstr "पारदर्शी मेनू के लिए अतिरिक्त लोगो"
+
+#: includes/class-myhome-redux.php:584
+msgid "Full width menu and top bars container"
+msgstr "पूर्ण चौड़ाई मेनू और शीर्ष सलाखों के कंटेनर"
+
+#: includes/class-myhome-redux.php:585
+msgid "By default max width is 1170px, but you can change it for fullwidth"
+msgstr "डिफ़ॉल्ट अधिकतम चौड़ाई 1170px है, लेकिन आप पूर्ण चौड़ाई के लिए इसे परिवर्तित कर सकते हैं"
+
+#: includes/class-myhome-redux.php:592
+msgid "Menu background \"primary color\""
+msgstr "मेनू पृष्ठभूमि \"प्राथमिक रंग\""
+
+#: includes/class-myhome-redux.php:593
+msgid "Change the menu background into primary color and first level items font color into white"
+msgstr "मेनू पृष्ठभूमि को प्राथमिक रंग में बदलें और प्रथम स्तर के आइटम का रंग सफेद रंग में बदलें"
+
+#: includes/class-myhome-redux.php:601
+msgid "Logo height (px)"
+msgstr "लोगो ऊँचाई (px)"
+
+#: includes/class-myhome-redux.php:602
+msgid "Height of the default logo and logo for transparent menu."
+msgstr "डिफ़ॉल्ट लोगो और पारदर्शी मेनू के लिए लोगो की ऊंचाई।"
+
+#: includes/class-myhome-redux.php:609
+msgid "Logo Margin Top (px)"
+msgstr "लोगो मार्जिन शीर्ष (px)"
+
+#: includes/class-myhome-redux.php:616
+msgid "Desktop Menu Height (px)"
+msgstr "डेस्कटॉप मेनू ऊँचाई (px)"
+
+#: includes/class-myhome-redux.php:617 includes/class-myhome-redux.php:624 includes/class-myhome-redux.php:638 includes/class-myhome-redux.php:646
+msgid "Mega Main Menu plugin must be active"
+msgstr "मेगा मुख्य मेनू प्लगइन सक्रिय होना चाहिए"
+
+#: includes/class-myhome-redux.php:623
+msgid "First level item align"
+msgstr "प्रथम स्तर आइटम संरेखित करें"
+
+#: includes/class-myhome-redux.php:626
+msgid "left"
+msgstr "बाएं"
+
+#: includes/class-myhome-redux.php:627
+msgid "right"
+msgstr "दाहिना"
+
+#: includes/class-myhome-redux.php:628
+msgid "center"
+msgstr "बीच"
+
+#: includes/class-myhome-redux.php:637
+msgid "Font size of first level item (px)"
+msgstr "पहले स्तर आइटम (px) का फ़ॉन्ट आकार"
+
+#: includes/class-myhome-redux.php:645
+msgid "Font size of the dropdown menu item (px)"
+msgstr "फ़ॉन्ट आकार ड्रॉप-डाउन मेनू आइटम (px)"
+
+#: includes/class-myhome-redux.php:656 includes/class-myhome-redux.php:664
+msgid "Top bar"
+msgstr "ऊपर पट्टी"
+
+#: includes/class-myhome-redux.php:665
+msgid "Additional bar with contact information at the top of the menu"
+msgstr "अतिरिक्त पट्टी संपर्क जानकारी के साथ मेनू के शीर्ष पर"
+
+#: includes/class-myhome-redux.php:667
+msgid "none"
+msgstr "कोई नहीं"
+
+#: includes/class-myhome-redux.php:668
+msgid "Small - white background"
+msgstr "छोटा - सफेद पृष्ठभूमि"
+
+#: includes/class-myhome-redux.php:669
+msgid "Small - primary color background"
+msgstr "छोटा - प्राथमिक रंग पृष्ठभूमि"
+
+#: includes/class-myhome-redux.php:670
+msgid "Big - white background"
+msgstr "बड़ा - सफेद पृष्ठभूमि"
+
+#: includes/class-myhome-redux.php:678
+msgid "Hide top bar on mobile"
+msgstr "मोबाइल पर शीर्ष पट्टी छुपाएँ"
+
+#: includes/class-myhome-redux.php:688
+msgid "This logo will be displayed for screens larger than 1024px only. On mobile theme will still use \"Default Logo\""
+msgstr "इस लोगो केवल 1024px से बड़े स्क्रीन के लिए प्रदर्शित किया जाएगा। मोबाइल विषय पर अभी भी \"लोगो डिफ़ॉल्ट\" का उपयोग करेगा"
+
+#: includes/class-myhome-redux.php:690
+msgid "Logo - Top Bar Big"
+msgstr "लोगो - शीर्ष पट्टी बड़ा"
+
+#: includes/class-myhome-redux.php:700
+msgid "Logo - Top Bar Big height (px)"
+msgstr "लोगो - बड़े शीर्ष पट्टी की ऊंचाई (px)"
+
+#: includes/class-myhome-redux.php:712
+msgid "Logo - Top Bar Big margin top (px)"
+msgstr "लोगो - बड़े शीर्ष पट्टी का मार्जिन शीर्ष (px)"
+
+#: includes/class-myhome-redux.php:724 includes/class-myhome-redux.php:1809
+msgid "518-520 5th Ave, New York, USA"
+msgstr ""
+
+#: includes/class-myhome-redux.php:726
+msgid "Address"
+msgstr "पता"
+
+#: includes/class-myhome-redux.php:736 includes/class-myhome-redux.php:1785
+msgid "(123) 345-6789"
+msgstr ""
+
+#: includes/class-myhome-redux.php:738 includes/class-myhome-redux.php:1297
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: includes/class-myhome-redux.php:748
+msgid "support@tangibledesign.net"
+msgstr "support@tangibledesign.net"
+
+#: includes/class-myhome-redux.php:750
+msgid "Email"
+msgstr "ई-मेल"
+
+#: includes/class-myhome-redux.php:760 includes/class-myhome-redux.php:772 includes/class-myhome-redux.php:784 includes/class-myhome-redux.php:796
+msgid "#"
+msgstr "#"
+
+#: includes/class-myhome-redux.php:762
+msgid "Facebook (URL)"
+msgstr "फेसबुक URL"
+
+#: includes/class-myhome-redux.php:774
+msgid "Linkedin (URL)"
+msgstr "लिंकेडन URL"
+
+#: includes/class-myhome-redux.php:786
+msgid "Twitter (URL)"
+msgstr "ट्विटर URL"
+
+#: includes/class-myhome-redux.php:798
+msgid "Instagram (URL)"
+msgstr "इंस्टाग्राम (URL)"
+
+#: includes/class-myhome-redux.php:818 templates/top-title.php:43
+msgid "Blog"
+msgstr "ब्लॉग"
+
+#: includes/class-myhome-redux.php:828
+msgid "Blog general"
+msgstr "सामान्य ब्लॉग"
+
+#: includes/class-myhome-redux.php:836
+msgid "Sidebar position"
+msgstr "साइडबार की स्थिति"
+
+#: includes/class-myhome-redux.php:838 includes/class-myhome-redux.php:1602
+msgid "Left"
+msgstr "बाएं"
+
+#: includes/class-myhome-redux.php:839 includes/class-myhome-redux.php:1603
+msgid "Right"
+msgstr "दाहिना"
+
+#: includes/class-myhome-redux.php:847
+msgid "Post grid style"
+msgstr "पोस्ट ग्रिड शैली"
+
+#: includes/class-myhome-redux.php:849 includes/class-myhome-redux.php:926
+msgid "1 column"
+msgstr "1 स्तंभ"
+
+#: includes/class-myhome-redux.php:850 includes/class-myhome-redux.php:927
+msgid "2 columns"
+msgstr "2 स्तंभ"
+
+#: includes/class-myhome-redux.php:858
+msgid "Blog: \"Read More\" button text"
+msgstr "ब्लॉग: \"और अधिक पढ़ें\" टेक्स्ट बटन"
+
+#: includes/class-myhome-redux.php:869
+msgid "Single post"
+msgstr "एक पोस्ट"
+
+#: includes/class-myhome-redux.php:877
+msgid "Display an author"
+msgstr "एक लेखक को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:884
+msgid "Display tags"
+msgstr "टैग्स को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:891
+msgid "Display navigation"
+msgstr "नेविगेशन को प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:898
+msgid "Display comments"
+msgstr "टिप्पणियों को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:905
+msgid "Display related posts"
+msgstr "संबंधित पोस्ट को प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:912
+msgid "Total number of related posts to display"
+msgstr "प्रदर्शित करने के लिए संबंधित पदों की कुल संख्या"
+
+#: includes/class-myhome-redux.php:924
+msgid "Related posts style"
+msgstr "संबंधित पोस्ट की शैली"
+
+#: includes/class-myhome-redux.php:944
+msgid "Blog top title"
+msgstr "ब्लॉग का शीर्ष शीर्षक"
+
+#: includes/class-myhome-redux.php:952
+msgid "Display top title on blog"
+msgstr "शीर्ष शीर्षक को ब्लॉग पर प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:959
+msgid "Blog top title style"
+msgstr "ब्लॉग के शीर्ष शीर्षक की शैली"
+
+#: includes/class-myhome-redux.php:962
+msgid "Image"
+msgstr "चित्र"
+
+#: includes/class-myhome-redux.php:976
+msgid "Upload background image"
+msgstr "पृष्ठभूमि छवि अपलोड करें"
+
+#: includes/class-myhome-redux.php:1004
+msgid "Property options"
+msgstr "संपत्ति के विकल्प"
+
+#: includes/class-myhome-redux.php:1023
+msgid "Single property style"
+msgstr "एकल संपत्ति की शैली"
+
+#: includes/class-myhome-redux.php:1025
+msgid "Gallery"
+msgstr "गैलरी"
+
+#: includes/class-myhome-redux.php:1026
+msgid "Slider"
+msgstr "स्लाइडर"
+
+#: includes/class-myhome-redux.php:1033
+msgid "Display property video"
+msgstr "संपत्ति वीडियो को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1040
+msgid "Display property virtual tour"
+msgstr "आभासी यात्रा को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1047
+msgid "Display property plans"
+msgstr "संपत्ति की योजनाअों को रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1054
+msgid "Display sidebar"
+msgstr "साइडबार रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1061
+msgid "Display sidebar - contact form"
+msgstr "साइडबार रदर्शन करें - संपर्क फ़ॉर्म"
+
+#: includes/class-myhome-redux.php:1071
+msgid "Display sidebar - user profile"
+msgstr "साइडबार रदर्शन करें - उपयोगकर्ते का प्रोफ़ाइल"
+
+#: includes/class-myhome-redux.php:1081
+msgid "Slug"
+msgstr "स्लग"
+
+#: includes/class-myhome-redux.php:1082
+msgid "Change slug from http://yourdomain/estate/estate-name to http://yourdomain/newslug/estate-name"
+msgstr "http://yourdomain/estate/estate-name स्लग से http://yourdomain/newslug/estate-name में बदल दें"
+
+#: includes/class-myhome-redux.php:1090 includes/class-myhome-redux.php:1098
+msgid "Offer type"
+msgstr "प्रस्ताव के प्रकार"
+
+#: includes/class-myhome-redux.php:1105
+msgid "Rent label"
+msgstr "„किराए के लिए” लेबल"
+
+#: includes/class-myhome-redux.php:1106
+msgid "/month"
+msgstr "/महिना"
+
+#: includes/class-myhome-redux.php:1115
+msgid "Assign \"Rent label\" to appropriate option"
+msgstr "उचित विकल्प पर „किराए के लिए” लेबल को असाइन करें"
+
+#: includes/class-myhome-redux.php:1116
+msgid "For Rent"
+msgstr "किराए के लिए"
+
+#: includes/class-myhome-redux.php:1127
+msgid "Currency"
+msgstr "मुद्रा"
+
+#: includes/class-myhome-redux.php:1135
+msgid "Currency sign"
+msgstr "मुद्रा चिह्न"
+
+#: includes/class-myhome-redux.php:1142
+msgid "Currency sign location"
+msgstr "मुद्रा चिह्न का स्थान"
+
+#: includes/class-myhome-redux.php:1144
+msgid "After price"
+msgstr "दाम के बाद"
+
+#: includes/class-myhome-redux.php:1145
+msgid "Before price"
+msgstr "दाम से पहले"
+
+#: includes/class-myhome-redux.php:1153
+msgid "Thousands separator"
+msgstr "हजारों विभाजक"
+
+#: includes/class-myhome-redux.php:1160
+msgid "Decimal separator"
+msgstr "दशमलव विभाजक"
+
+#: includes/class-myhome-redux.php:1167
+msgid "Decimal"
+msgstr "दशमलव पद्धति"
+
+#: includes/class-myhome-redux.php:1168
+msgid "Sets the number of decimal points."
+msgstr "दशमलव अंकों की संख्या सेट करता है।"
+
+#: includes/class-myhome-redux.php:1177
+msgid "Show near"
+msgstr "पास दिखाएँ"
+
+#: includes/class-myhome-redux.php:1184
+msgid "Active at start"
+msgstr "शुरू में सक्रिय"
+
+#: includes/class-myhome-redux.php:1191
+msgid "Distance unit"
+msgstr "दूरी की इकाई"
+
+#: includes/class-myhome-redux.php:1193
+msgid "km"
+msgstr "किलो मीटर"
+
+#: includes/class-myhome-redux.php:1194
+msgid "miles"
+msgstr "मील"
+
+#: includes/class-myhome-redux.php:1202
+msgid "\"show near\" radius (unit set above)"
+msgstr "\"पास दिखाएँ” त्रेडियस (यूनिट ऊपर सेट है)"
+
+#: includes/class-myhome-redux.php:1203
+msgid "Properties around the selected pin with the set radius will be displayed after clicking \"Show near\" button."
+msgstr "'पास दिखाएँ' बटन क्लिक करने के बाद गुण सेट त्रिज्या के साथ चयनित पिन के आसपास प्रदर्शित किया जाएगा।"
+
+#: includes/class-myhome-redux.php:1217
+msgid "Agents and payment"
+msgstr "एजेंट और भुगतान"
+
+#: includes/class-myhome-redux.php:1232
+msgid "Disable backend for agent user"
+msgstr "बैकएंड एजेंट उपयोगकर्ता के लिए अक्षम करें"
+
+#: includes/class-myhome-redux.php:1239
+msgid "Agent frontend panel"
+msgstr "एजेंट फ़्रंटएंड पैनल"
+
+#: includes/class-myhome-redux.php:1246
+msgid "Show submit property button"
+msgstr "सबमिट संपत्ति बटन दिखाएँ"
+
+#: includes/class-myhome-redux.php:1256
+msgid "Panel page URL"
+msgstr "पैनल पेज URL"
+
+#: includes/class-myhome-redux.php:1257
+msgid "Usually: http://yourdomain/panel/"
+msgstr "आम तौर पर: http://yourdomain/panel/"
+
+#: includes/class-myhome-redux.php:1267
+msgid "Frontend registration"
+msgstr "फ़्रंटएंड पंजीकरण"
+
+#: includes/class-myhome-redux.php:1277
+msgid "Moderation"
+msgstr "मॉडरेशन"
+
+#: includes/class-myhome-redux.php:1278
+msgid "If it is on, property added by user must be accepted by admin to show"
+msgstr "यदि यह चालू है, तो उपयोगकर्ता द्वारा जोड़े गए संपत्ति को दिखाने के लिए व्यवस्थापक द्वारा स्वीकार किया जाना चाहिए"
+
+#: includes/class-myhome-redux.php:1289
+msgid "Agents"
+msgstr "प्रतिनिधि"
+
+#: includes/class-myhome-redux.php:1304
+msgid "Display email"
+msgstr "ईमेल को प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:1311
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: includes/class-myhome-redux.php:1318
+msgid "Twitter"
+msgstr "ट्विटर"
+
+#: includes/class-myhome-redux.php:1325
+msgid "Instagram"
+msgstr "इंस्टाग्राम"
+
+#: includes/class-myhome-redux.php:1332
+msgid "Linkedin"
+msgstr "लिंक्डइन"
+
+#: includes/class-myhome-redux.php:1340
+msgid "Payments"
+msgstr "भुगतान"
+
+#: includes/class-myhome-redux.php:1347
+msgid "Payment module"
+msgstr "भुगतान का मॉड्यूल"
+
+#: includes/class-myhome-redux.php:1357
+msgid "Message above payment methods"
+msgstr "संदेश भुगतान की विधि के ऊपर है"
+
+#: includes/class-myhome-redux.php:1368
+msgid "Stripe payment"
+msgstr "भुगतान स्ट्राइप"
+
+#: includes/class-myhome-redux.php:1379
+msgid "Stripe currency"
+msgstr "मुद्रा स्ट्राइप"
+
+#: includes/class-myhome-redux.php:1391
+msgid "Stripe Cost"
+msgstr "लागत स्ट्राइप"
+
+#: includes/class-myhome-redux.php:1403
+msgid "Stripe Secret Key"
+msgstr "गुप्त कुंजी स्ट्राइप"
+
+#: includes/class-myhome-redux.php:1415
+msgid "Stripe Publishable Key"
+msgstr "दंडनीय कुंजी स्ट्राइप"
+
+#: includes/class-myhome-redux.php:1427
+msgid "PayPal Payment"
+msgstr "पेपैल भुगतान"
+
+#: includes/class-myhome-redux.php:1438
+msgid "PayPal locale"
+msgstr "पेपैल लोकेल"
+
+#: includes/class-myhome-redux.php:1476
+msgid "PayPal Client ID"
+msgstr "पेपैल ग्राहक का आईडी"
+
+#: includes/class-myhome-redux.php:1488
+msgid "PayPal Secret"
+msgstr "पेपैल गुप्त"
+
+#: includes/class-myhome-redux.php:1500
+msgid "PayPal Sandbox Mode"
+msgstr "पेपैल सैंडबॉक्स मोड"
+
+#: includes/class-myhome-redux.php:1512
+msgid "PayPal Currency"
+msgstr "पेपैल मुद्रा"
+
+#: includes/class-myhome-redux.php:1524
+msgid "PayPal Cost"
+msgstr "पेपैल लागत"
+
+#: includes/class-myhome-redux.php:1546
+msgid "Default view"
+msgstr "डिफाल्ट द्रिश्श"
+
+#: includes/class-myhome-redux.php:1549
+msgid "Two columns"
+msgstr "दो कॉलम"
+
+#: includes/class-myhome-redux.php:1550
+msgid "Three columns"
+msgstr "तीन कॉलम"
+
+#: includes/class-myhome-redux.php:1551
+msgid "Row"
+msgstr "पंगताल"
+
+#: includes/class-myhome-redux.php:1558
+msgid "Properties limit"
+msgstr "गुणों की सीमा"
+
+#: includes/class-myhome-redux.php:1565
+msgid "Lazy loading"
+msgstr "आलसी लोड हो रहा है"
+
+#: includes/class-myhome-redux.php:1572
+msgid "Show load more button after N loads"
+msgstr "N लोड करने के बाद अधिक लोड बटन को दिखाएँ"
+
+#: includes/class-myhome-redux.php:1584
+msgid "Load more button label"
+msgstr "अधिक बटन लेबल लोड करें"
+
+#: includes/class-myhome-redux.php:1585
+msgid "Load more"
+msgstr "और लोड करें"
+
+#: includes/class-myhome-redux.php:1591
+msgid "Load previous button label"
+msgstr "पिछले लोड बटन लेबल"
+
+#: includes/class-myhome-redux.php:1592
+msgid "Load previous"
+msgstr "पिछले लोड"
+
+#: includes/class-myhome-redux.php:1598
+msgid "Search form position"
+msgstr "खोज फ़ॉर्म की स्थिति"
+
+#: includes/class-myhome-redux.php:1599 includes/class-myhome-redux.php:1675
+msgid "Not applicable for Agents"
+msgstr "एजेंटों के लिए लागू नहीं है"
+
+#: includes/class-myhome-redux.php:1604
+msgid "Top"
+msgstr "ऊपर"
+
+#: includes/class-myhome-redux.php:1611
+msgid "Label"
+msgstr "लेबल"
+
+#: includes/class-myhome-redux.php:1623
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr "\"उन्नत\" बटन से पहले दिखाने के लिए फ़िल्टर्स की संख्या"
+
+#: includes/class-myhome-redux.php:1634
+msgid "Display \"advanced\" button"
+msgstr "\"उन्नत\" बटन प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:1645
+msgid "Display \"clear\" button"
+msgstr "„साफ़ करना” बटन प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:1656
+msgid "Display \"sort by\""
+msgstr "'सॉर्ट' प्प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1663
+msgid "Display \"view types\""
+msgstr "„देखने के प्रकार” बटन प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:1674
+#, php-format
+msgid "Show %s filter"
+msgstr "%s फ़िल्टर दिखाएँ"
+
+#: includes/class-myhome-redux.php:1682
+msgid "Listings"
+msgstr "लिस्टिंग"
+
+#: includes/class-myhome-redux.php:1685
+msgid ""
+"Below options will change Single Agent Page and Single Attribute Page (eg. property type, city).\n"
+"                 It will not influence on any Visual Composer Element eg. Homepages / Maps."
+msgstr ""
+"नीचे दिए गए विकल्पों एकल एजेंट पृष्ठ और एकल विशेषता पृष्ठ बदल जाएगा (उदा. गुण प्रकार, शहर)।\n"
+"                 यह किसी भी दृश्य संगीतकार तत्व पर प्रभावित नहीं करेगा। जैसे होमपेज / मैप करता है।"
+
+#: includes/class-myhome-redux.php:1697
+msgid "Footer"
+msgstr "पाद लेख"
+
+#: includes/class-myhome-redux.php:1705
+msgid "Footer Style"
+msgstr "पाद लेख की शैली"
+
+#: includes/class-myhome-redux.php:1707
+msgid "Light background"
+msgstr "हल्की पृष्ठभूमि"
+
+#: includes/class-myhome-redux.php:1708
+msgid "Dark background"
+msgstr "गहरी पृष्ठभूमि"
+
+#: includes/class-myhome-redux.php:1709
+msgid "Image background"
+msgstr "छवि की पृष्ठभूमि"
+
+#: includes/class-myhome-redux.php:1718
+msgid "Upload Background Image"
+msgstr "पृष्ठभूमि की छवि को अपलोड करें"
+
+#: includes/class-myhome-redux.php:1729
+msgid "Background Image Parallax"
+msgstr "पृष्ठभूमि की छवि का लंबन"
+
+#: includes/class-myhome-redux.php:1741
+msgid "Display Widget Area"
+msgstr "विजेट क्षेत्र को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1748
+msgid "Display Footer Widget"
+msgstr "विजेट के पाद लेख को प्रदर्शन करें"
+
+#: includes/class-myhome-redux.php:1761
+msgid "Upload Footer Widget logo"
+msgstr "पाद लेख विजेट लोगो अपलोड"
+
+#: includes/class-myhome-redux.php:1772
+msgid "Edit Footer Widget Text"
+msgstr "पाद लेख विजेट पाठ संपादित करें"
+
+#: includes/class-myhome-redux.php:1773
+msgid ""
+"After a time we drew near the road, and as we did so we heard the clatter of hoofs and saw through the tree stems three cavalry soldiers riding slowly "
+"towards Woking."
+msgstr "एक समय के बाद हमने सड़क के पास आकर्षित किया, और खुरवाले की दस्तक सुना और पेड़ उपजी के माध्यम से देखा कि Woking की ओर तीन घुड़सवार सैनिकों की सवारी धीरे धीरे जा रहे थे।"
+
+#: includes/class-myhome-redux.php:1784
+msgid "Edit Footer Widget phone"
+msgstr "पाद लेख विजेट फोन संपादित करें"
+
+#: includes/class-myhome-redux.php:1796
+msgid "Edit Footer Widget email"
+msgstr "पाद लेख विजेट ईमेल संपादित करें"
+
+#: includes/class-myhome-redux.php:1797
+msgid "support@tangibledesing.net"
+msgstr "support@tangibledesing.net"
+
+#: includes/class-myhome-redux.php:1808
+msgid "Edit Footer Widget address"
+msgstr "पाद लेख विजेट पता संपादित करें"
+
+#: includes/class-myhome-redux.php:1820
+msgid "Display Copyright Information"
+msgstr "कॉपीराइट जानकारी प्रदर्शित करें"
+
+#: includes/class-myhome-redux.php:1827
+msgid "Edit copyright text"
+msgstr "कॉपीराइट टेक्सट संपादित करें"
+
+#: includes/class-myhome-redux.php:1828
+msgid "2017 MyHome by TangibleDesign. All rights reserved."
+msgstr "2017 MyHome TangibleDesign के द्वारा। सभी अधिकार सुरक्षित।"
+
+#: includes/class-myhome-redux.php:1854
+msgid "Title"
+msgstr "शीर्षक"
+
+#: includes/class-myhome-redux.php:1861
+msgid "Subtitle"
+msgstr "उपशीर्शक"
+
+#: includes/class-myhome-redux.php:1882
+msgid "Header address"
+msgstr "हैडर का पता"
+
+#: includes/class-myhome-redux.php:1886
+msgid "Header phone"
+msgstr "हैडर का फोन"
+
+#: includes/class-myhome-redux.php:1890
+msgid "Header email"
+msgstr "हैडर का ई-मेल"
+
+#: includes/class-myhome-redux.php:1894
+msgid "Header Facebook"
+msgstr "हैडर का फेसबुक"
+
+#: includes/class-myhome-redux.php:1898
+msgid "Header Twitter"
+msgstr "हैडर का ट्विटर"
+
+#: includes/class-myhome-redux.php:1902
+msgid "Header Linkedin"
+msgstr "हैडर का लिंक्डइन"
+
+#: includes/class-myhome-redux.php:1906
+msgid "Header Instagram"
+msgstr "हैडर का इंस्टाग्राम"
+
+#: includes/class-myhome-redux.php:1911
+msgid "Footer address"
+msgstr "पाद लेख का पता"
+
+#: includes/class-myhome-redux.php:1915
+msgid "Footer phone"
+msgstr "पाद लेख का फोन"
+
+#: includes/class-myhome-redux.php:1919
+msgid "Footer email"
+msgstr "पाद लेख का ईमेल"
+
+#: includes/class-myhome-redux.php:1923
+msgid "Footer text"
+msgstr "पाद लेख का टेक्सट"
+
+#: includes/class-myhome-redux.php:1927
+msgid "Footer copyright text"
+msgstr "पाद लेख का कॉपीराइट टेक्सट"
+
+#: includes/class-myhome-redux.php:1932
+msgid "Blog read more text"
+msgstr "अधिक पाठ पढ़ें ब्लॉग"
+
+#: includes/class-myhome-redux.php:1937
+msgid "Offer type - rent label (/month)"
+msgstr "ऑफ़र का प्रकार - „किराए के लिए” लेबल (/महीना)"
+
+#: includes/class-myhome-redux.php:1941
+msgid "Load more (button label)"
+msgstr "अधिक लोड (बटन लेबल)"
+
+#: includes/class-myhome-redux.php:1945
+msgid "Load previous (button label)"
+msgstr "पिछले लोड करें (बटन लेबल)"
+
+#: includes/class-myhome-redux.php:1950
+msgid "Payments - message above payment methods"
+msgstr "भुगतान - संदेश भुगतान की विधि के ऊपर है"
+
+#: includes/class-myhome-scripts.php:221
+msgid "1 property listing"
+msgstr "1 संपत्ति लिस्टिंग"
+
+#. translators: If there are characters in your language that are not supported by this font, translate this to 'off'. Do not translate into your own language.
+#: includes/class-myhome-scripts.php:353
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "कामोत्तेजित"
+
+#. translators: If there are characters in your language that are not supported by this font, translate this to 'off'. Do not translate into your own language.
+#: includes/class-myhome-scripts.php:358
+msgctxt "Play font: on or off"
+msgid "on"
+msgstr "कामोत्तेजित"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "आवश्यक प्लगिन स्थापित करें"
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "प्लगइन्स थापित करें"
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "प्लग इन: %s स्थापित कर रहा है"
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "प्लगइन: %s अपडेट कर रहा है"
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "एपीआई प्लगइन में कुछ गलत हो गया।"
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "इस विषय को निम्नलिखित प्लगइन की आवश्यकता है: %1$s."
+msgstr[1] "इस विषय को निम्नलिखित प्लगइन्स की आवश्यकता है: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "यह विषय निम्न प्लगइन की अनुशंसा करता है: %1$s."
+msgstr[1] "यह विषय निम्न प्लगइन् की अनुशंसा करता है: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "इस थीम के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन को अपने नवीनतम संस्करण में अद्यतन करने की आवश्यकता है: %1$s."
+msgstr[1] "इस थीम के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन्स को अपने नवीनतम संस्करण में अद्यतन करने की आवश्यकता है: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "इसके लिए एक अपडेट उपलब्ध है: %1$s."
+msgstr[1] "निम्नलिखित प्लगइन्स के लिए अपडेट उपलब्ध हैं: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "निम्नलिखित आवश्यक प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+msgstr[1] "निम्नलिखित आवश्यक प्लगइन्स वर्तमान में निष्क्रिय है: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "निम्नलिखित अनुशंसित प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+msgstr[1] "निम्नलिखित अनुशंसित प्लगइन्स वर्तमान में निष्क्रिय है: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "प्लगइन इंस्टॉल करना आरंभ करें"
+msgstr[1] "प्लगइन्स इंस्टॉल करना आरंभ करें"
+
+#: includes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "प्लगइन अपडेट करना शुरू करें"
+msgstr[1] "प्लगइन्स अपडेट करना शुरू करें"
+
+#: includes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "प्लगइन सक्रिय करना शुरू करें"
+msgstr[1] "प्लगइन्स सक्रिय करना शुरू करें"
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "आवश्यक प्लगइन इंस्टॉलर पर वापस आएँ"
+
+#: includes/class-tgm-plugin-activation.php:393 includes/class-tgm-plugin-activation.php:906 includes/class-tgm-plugin-activation.php:2617
+#: includes/class-tgm-plugin-activation.php:3666
+msgid "Return to the Dashboard"
+msgstr "डाइश्बोर्ड पर वापस आएँ"
+
+#: includes/class-tgm-plugin-activation.php:394 includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "प्लग इन सफलतापूर्वक सक्रिय।"
+
+#: includes/class-tgm-plugin-activation.php:395 includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "निम्नलिखित प्लगइन्स सफलतापूर्वक सक्रिय है:"
+msgstr[1] "निम्नलिखित प्लगइन्स सफलतापूर्वक सक्रिय है:"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "कोई कार्रवाई नहीं। प्लगइन %1$s पहले से ही सक्रिय था।"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "प्लगइन सक्रिय नहीं है। इस विषय के लिए %s का एक उच्च संस्करण की जरूरत है। कृपया प्लगइन अद्यतन करें।"
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "सभी प्लगइनस इंस्टाल और सफलतापूर्वक एक्टिवेट कर दी गयी है । %1$s"
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr "इस नोटिस को खारिज करें"
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "स्थापित, अद्यतन या सक्रिय करने के लिए एक या अधिक आवश्यक या अनुशंसित प्लगइन्स हैं।"
+
+#: includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "मदद के लिए कृपया इस साइट के व्यवस्थापक से संपर्क करें।"
+
+#: includes/class-tgm-plugin-activation.php:600
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "इस प्लगइन को अपने विषय के साथ संगत होना चाहिए।"
+
+#: includes/class-tgm-plugin-activation.php:601
+msgid "Update Required"
+msgstr "अपडेट की आवश्यकता"
+
+#: includes/class-tgm-plugin-activation.php:1014
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "रिमोट प्लगइन पैकेज में वांछित स्लग के साथ एक फ़ोल्डर नहीं है और अवशिष्ट प्लगइन ने काम नहीं किया।"
+
+#: includes/class-tgm-plugin-activation.php:1014 includes/class-tgm-plugin-activation.php:1017
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "कृपया प्लगइन प्रदाता से संपर्क करें और उनसे वर्डप्रेस दिशानिर्देशों के अनुसार अपने प्लगइन को पैकेज करने के लिए कहें।"
+
+#: includes/class-tgm-plugin-activation.php:1017
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "रिमोट प्लगइन पैकेज में एक से अधिक फाइल हैं, लेकिन ये फ़ाइलें एक फ़ोल्डर में पैक नहीं हैं।"
+
+#: includes/class-tgm-plugin-activation.php:1202 includes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "और"
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:2063
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: includes/class-tgm-plugin-activation.php:2354
+msgid "Required"
+msgstr "आवश्यकता"
+
+#: includes/class-tgm-plugin-activation.php:2357
+msgid "Recommended"
+msgstr "सफारशशुदा"
+
+#: includes/class-tgm-plugin-activation.php:2373
+msgid "WordPress Repository"
+msgstr "वर्डप्रेस रिपॉजिटरी"
+
+#: includes/class-tgm-plugin-activation.php:2376
+msgid "External Source"
+msgstr "वाह्य स्रोत"
+
+#: includes/class-tgm-plugin-activation.php:2379
+msgid "Pre-Packaged"
+msgstr "पहले से पैक किया"
+
+#: includes/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr "इंस्टालशुदा नेईं"
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr "इंस्टाल है, लेकिन एक्टिवेट नहीं है"
+
+#: includes/class-tgm-plugin-activation.php:2402
+msgid "Active"
+msgstr "सक्रिय"
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr "आवश्यक अपडेट उपलब्ध नहीं है"
+
+#: includes/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr "अपडेट की आवश्यकता है"
+
+#: includes/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr "अपडेट की सलाह दी गई"
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2423
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2469
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "सभी <span class=„count”>(%s)</span>"
+msgstr[1] "सभी <span class=„count”>(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "स्थापित करने के लिए <span class=„count”>(%s)</span>"
+msgstr[1] "स्थापित करने के लिए <span class=„count”>(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "अपडेट उपलब्ध <span class=„count”>(%s)</span>"
+msgstr[1] "अपडेट उपलब्ध <span class=„count”>(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "सक्रिय के लिए <span class=„count”>(%s)</span>"
+msgstr[1] "सक्रिय के लिए <span class=„count”>(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "अनजान"
+
+#: includes/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr "स्थापित संस्करण:"
+
+#: includes/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr "न्यूनतम आवश्यक संस्करण:"
+
+#: includes/class-tgm-plugin-activation.php:2593
+msgid "Available version:"
+msgstr "उपलब्ध संस्करण:"
+
+#: includes/class-tgm-plugin-activation.php:2616
+msgid "No plugins to install, update or activate."
+msgstr "इंस्टॉल, अपडेट या सक्रिय करने के लिए कोई प्लगिन नहीं है।"
+
+#: includes/class-tgm-plugin-activation.php:2631
+msgid "Plugin"
+msgstr "प्लग-इन"
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Source"
+msgstr "स्रोत"
+
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Type"
+msgstr "प्रकार"
+
+#: includes/class-tgm-plugin-activation.php:2637
+msgid "Version"
+msgstr "सरूप"
+
+#: includes/class-tgm-plugin-activation.php:2638
+msgid "Status"
+msgstr "पद"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2687
+#, php-format
+msgid "Install %2$s"
+msgstr "%2$s स्थापित करें"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2692
+#, php-format
+msgid "Update %2$s"
+msgstr "अद्यतन %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Activate %2$s"
+msgstr "सक्रिय करता है %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2768
+msgid "Upgrade message from the plugin author:"
+msgstr "प्लगइन लेखक से संदेश अपग्रेड करें:"
+
+#: includes/class-tgm-plugin-activation.php:2801
+msgid "Install"
+msgstr "इन्स्टाल करें"
+
+#: includes/class-tgm-plugin-activation.php:2807
+msgid "Update"
+msgstr "अपडेट करें"
+
+#: includes/class-tgm-plugin-activation.php:2810
+msgid "Activate"
+msgstr "एक्टिवेट करें"
+
+#: includes/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "इंस्टॉल करने के लिए कोई भी प्लग इन नहीं चुना गया था । कोई कार्रवाई ने नहीं की।"
+
+#: includes/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "अपडेट करने के लिए कोई भी प्लग इन नहीं चुना गया था कोई कार्रवाई ने नहीं की।"
+
+#: includes/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be installed at this time."
+msgstr "इस समय कोई प्लगइन्स इंस्टॉल करने के लिए उपलब्ध नहीं हैं।"
+
+#: includes/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be updated at this time."
+msgstr "इस समय अपडेट करने के लिए कोई प्लगइन्स उपलब्ध नहीं हैं।"
+
+#: includes/class-tgm-plugin-activation.php:2992
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "सक्रिय करने के लिए कोई भी प्लग इन नहीं चुना गया था। कोई कार्रवाई ने नहीं की।"
+
+#: includes/class-tgm-plugin-activation.php:3018
+msgid "No plugins are available to be activated at this time."
+msgstr "इस समय सक्रिय करने के लिए कोई प्लगइन्स उपलब्ध नहीं हैं।"
+
+#: includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "प्लगइन सक्रियण विफल।"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "अद्यतन कर रहा है प्लगइन %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s: </strong> %1$s स्थापित करते समय एक त्रुटि हुई।"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s की इंस्टालेशन विफल रही।"
+
+#: includes/class-tgm-plugin-activation.php:3593
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "इंस्टालेशन और एक्टिवेशन की प्रक्रिया शुरू हो रही है। इस प्रक्रिया में कुछ होस्ट्स पर कुछ समय लग सकता है, तो कृपया धैर्य रखें।"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s सफलतापूर्वक इन्स्टाल और एक्टिवेट कर दिया गया।"
+
+#: includes/class-tgm-plugin-activation.php:3595 includes/class-tgm-plugin-activation.php:3603
+msgid "Show Details"
+msgstr "विवरणों को दिखाएँ"
+
+#: includes/class-tgm-plugin-activation.php:3595 includes/class-tgm-plugin-activation.php:3603
+msgid "Hide Details"
+msgstr "विवरणों को छिपाएँ"
+
+#: includes/class-tgm-plugin-activation.php:3596
+msgid "All installations and activations have been completed."
+msgstr "सभी इंस्टालेशन और एक्टिवेशन पूरी हो चुकी है।"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) प्लगइन इन्स्टाल और एक्टिवेट हो रहा है"
+
+#: includes/class-tgm-plugin-activation.php:3601
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "स्थापना प्रक्रिया शुरू हो रही है। इस प्रक्रिया को कुछ मेजबानों पर थोड़ी देर लग सकती है इसलिए कृपया धैर्य रखें।"
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s सफलतापूर्वक स्थापित किया गया।"
+
+#: includes/class-tgm-plugin-activation.php:3604
+msgid "All installations have been completed."
+msgstr "सभी स्थापनाएं पूरी हो चुकी हैं।"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) प्लगइन इन्स्टाल हो रही है"
+
+#: includes/menu/class-myhome-menu.php:89
+msgid "MH Primary"
+msgstr "एमएच प्राथमिक"
+
+#: includes/menu/class-myhome-menu.php:208
+msgid "Submit property"
+msgstr "संपत्ति सबमिट करें"
+
+#: search.php:40
+msgid "No results"
+msgstr "कोई नतीजे नेईं"
+
+#: templates/author.php:16
+msgid "Post author"
+msgstr "पोस्ट लेखक"
+
+#: templates/content-single-estate.php:128 templates/content-single-estate.php:297
+msgid "See Map"
+msgstr "मानचित्र देखें"
+
+#: templates/content-single-estate.php:202
+msgid "Details"
+msgstr "विवरण"
+
+#: templates/content-single-estate.php:208
+msgid "Video"
+msgstr "वीडियो"
+
+#: templates/content-single-estate.php:217
+msgid "Virtual tour"
+msgstr "आभासी यात्रा"
+
+#: templates/content-single-estate.php:226
+msgid "Plans"
+msgstr "योजना"
+
+#: templates/content-single-estate.php:252
+msgid "ID:"
+msgstr "आईडी:"
+
+#: templates/content-single-estate.php:256
+msgid "Published:"
+msgstr "प्रकाशित:"
+
+#: templates/content-single-estate.php:260
+msgid "Last Update:"
+msgstr "आखिरी अपडेट:"
+
+#: templates/content-single-estate.php:264
+msgid "Views:"
+msgstr "आलोकन:"
+
+#: templates/content-single-estate.php:308
+msgid "Reply to the listing"
+msgstr "लिस्टिंग के लिए उत्तर दें"
+
+#: templates/content-single-estate.php:403
+#, php-format
+msgid "All by %s"
+msgstr "सभी %s से द्वारा"
+
+#: templates/content-single.php:22
+msgid "Category:"
+msgstr "कैटेगरी:"
+
+#: templates/nav-single.php:10
+msgid "previous"
+msgstr "पिछला"
+
+#: templates/nav-single.php:23
+msgid "next"
+msgstr "अगला"
+
+#: templates/post-vertical.php:23 templates/related-posts.php:29
+msgid "..."
+msgstr "..."
+
+#: templates/related-posts.php:6
+msgid "Related posts"
+msgstr "संबंधित पोस्ट"
+
+#: templates/top-title.php:57
+msgid "Search result for "
+msgstr "खोज के परिणाम"
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "MyHome"
+msgstr "MyHome"
+
+#. Theme URI of the plugin/theme
+msgid "http://myhome.tangibledesign.net/"
+msgstr "http://myhome.tangibledesign.net/"
+
+#. Author of the plugin/theme
+msgid "Tangible Design"
+msgstr "ठोस डिजाइन"
+
+#. Author URI of the plugin/theme
+msgid "http://tangibledesign.net/"
+msgstr "http://tangibledesign.net/"

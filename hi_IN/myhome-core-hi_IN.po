@@ -1,0 +1,2546 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: MyHome Core\n"
+"POT-Creation-Date: 2017-05-18 16:29+0200\n"
+"PO-Revision-Date: 2017-05-30 17:45+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: myhome-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-myhome-agents.php:140
+msgid "Check your email"
+msgstr "अपने ईमेल की जाँच करें"
+
+#: includes/class-myhome-agents.php:146
+msgid "Unknown error, try again."
+msgstr "अज्ञात त्रुटि, बाद में फिर से कोशिश करें।"
+
+#: includes/class-myhome-agents.php:159
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "<strong>त्रुटि</strong>: कोई उपयोगकर्ता नाम या ईमेल पता दर्ज करें।"
+
+#: includes/class-myhome-agents.php:163
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>त्रुटि</strong>: कोई उपयोगकर्ता उस ईमेल पते के साथ पंजीकृत नहीं है।"
+
+#: includes/class-myhome-agents.php:184
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr "<strong>त्रुटि</strong>: अमान्य उपयोगकर्ता नाम या ई-मेल।"
+
+#: includes/class-myhome-agents.php:197
+msgid "Someone has requested a password reset for the following account:"
+msgstr "किसी निम्न खाते से रीसेट पासवर्ड का अनुरोध किया है:"
+
+#: includes/class-myhome-agents.php:199
+#, php-format
+msgid "Username: %s"
+msgstr "प्रयोक्ता नाम: %s"
+
+#: includes/class-myhome-agents.php:200
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "यह एक गलती थी, तो बस इस ई-मेल पर ध्यान न दें और कुछ नहीं होगा।"
+
+#: includes/class-myhome-agents.php:201
+msgid "To reset your password, visit the following address:"
+msgstr "अपना पासवर्ड रीसेट करने के लिए, निम्न पते पर जाएँ:"
+
+#. translators: Password reset email subject. 1: Site name
+#: includes/class-myhome-agents.php:215
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] पासवर्ड रीसेट करें"
+
+#: includes/class-myhome-agents.php:243
+msgid "The email could not be sent."
+msgstr "ईमेल भेजी नहीं जा सकी।"
+
+#: includes/class-myhome-agents.php:581 includes/class-myhome-agents.php:586 includes/class-myhome-agents.php:645
+#: includes/class-myhome-agents.php:650 includes/class-myhome-agents.php:655 includes/class-myhome-translations.php:265
+msgid "Empty field"
+msgstr "खाली फ़ील्डस"
+
+#: includes/class-myhome-agents.php:591 includes/class-myhome-agents.php:602 includes/class-myhome-agents.php:661
+#: includes/class-myhome-agents.php:670 includes/class-myhome-agents.php:681
+msgid "Check errors"
+msgstr "त्रुटियों की जाँच करें"
+
+#: includes/class-myhome-agents.php:609
+msgid "Wrong password"
+msgstr "गलत पासवर्ड"
+
+#: includes/class-myhome-agents.php:615
+msgid "Invalid username"
+msgstr "अवैध प्रयोक्ता नाम"
+
+#: includes/class-myhome-agents.php:622
+msgid "Unknown error, try again"
+msgstr "अज्ञात त्रुटि, बाद में फिर से कोशिश करें"
+
+#: includes/class-myhome-agents.php:668
+msgid "Email is not valid"
+msgstr "इमेल वैध नहीं है"
+
+#: includes/class-myhome-agents.php:688
+msgid "This email is already exists."
+msgstr "यह ईमेल पहले से ही मौजूद है।"
+
+#: includes/class-myhome-agents.php:694
+msgid "This username already exists."
+msgstr "उपयोगकर्ता का नाम पहले से ही मौजूद है।"
+
+#: includes/class-myhome-agents.php:705
+msgid "Successful registration! You can login now."
+msgstr "सफल पंजीकरण! अब आप लॉग-इन कर सकते हैं।"
+
+#: includes/class-myhome-agents.php:708
+msgid "Unknown error, please try again."
+msgstr "अज्ञात त्रुटि, कृपया बाद में फिर से कोशिश करें।"
+
+#: includes/class-myhome-agents.php:835 includes/class-myhome-agents.php:921 includes/class-myhome-estates.php:66
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:80
+msgid "Agent"
+msgstr "प्रतिनिधि"
+
+#: includes/class-myhome-agents.php:942 includes/class-myhome-attributes.php:632 includes/class-myhome-estates.php:63
+#: includes/class-myhome-estates.php:328 includes/class-myhome-translations.php:222
+#: includes/shortcodes/class-myhome-service-shortcode.php:42
+msgid "Image"
+msgstr "चित्र"
+
+#: includes/class-myhome-agents.php:949 includes/class-myhome-translations.php:190
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: includes/class-myhome-agents.php:956 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:232
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: includes/class-myhome-agents.php:963 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:240
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-myhome-agents.php:970 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:248
+msgid "Instagram"
+msgstr "इंस्टाग्राम"
+
+#: includes/class-myhome-agents.php:977 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:256
+msgid "Linkedin"
+msgstr "लिंक्डइन"
+
+#: includes/class-myhome-api.php:148
+#, php-format
+msgid "Contact %s - %s"
+msgstr "संपर्क %s - %s"
+
+#: includes/class-myhome-api.php:152
+#, php-format
+msgid "From: %s<br>Phone: %s<br>Message: %s<br>Estate: %s"
+msgstr "से: %s<br>फ़ोन: %s<br>संदेश: %s<br>संपत्ति: %s"
+
+#: includes/class-myhome-attributes.php:125
+msgid "Property Attributes"
+msgstr "गुण की विशेषता"
+
+#: includes/class-myhome-attributes.php:218 includes/class-myhome-attributes.php:782
+msgid "Number field"
+msgstr "नंबर फ़ील्ड"
+
+#: includes/class-myhome-attributes.php:220 includes/class-myhome-attributes.php:783
+msgid "Text field"
+msgstr "पाठ का फ़ील्ड"
+
+#: includes/class-myhome-attributes.php:223 includes/class-myhome-attributes.php:860 includes/class-myhome-translations.php:24
+msgid "Keyword"
+msgstr "कुंजी-शब्द"
+
+#: includes/class-myhome-attributes.php:231
+#, php-format
+msgid "%1$s - view on the search form<div class=\"acf-settings-wrap__subtitle\">%2$s</div>"
+msgstr "%1$s - खोज फ़ॉर्म पर देखें<div class=\"acf-settings-wrap__subtitle\">%2$s</div>"
+
+#: includes/class-myhome-attributes.php:246
+msgid "Basic"
+msgstr "बुनयादी"
+
+#: includes/class-myhome-attributes.php:257 includes/class-myhome-attributes.php:286
+msgid "Search form - display as:"
+msgstr "खोज फ़ॉर्म - इस रूप में प्रदर्शित करें:"
+
+#: includes/class-myhome-attributes.php:261
+msgid "Input field"
+msgstr "इनपुट फ़ील्र"
+
+#: includes/class-myhome-attributes.php:262
+msgid "Input field based on a range ( from - to )"
+msgstr "इनपुट क्षेत्र एक श्रेणी (से - तक) पर आधारित"
+
+#: includes/class-myhome-attributes.php:263
+msgid "Drop-down list "
+msgstr "ड्रॉप-डाउन सूची"
+
+#: includes/class-myhome-attributes.php:264
+msgid "Drop-down list based on a range ( from - to )"
+msgstr "ड्रॉप-डाउन सूची एक श्रेणी (से - तक) पर आधारित"
+
+#: includes/class-myhome-attributes.php:272
+msgid "Dropdown list"
+msgstr "ड्रॉप-डाउन सूची"
+
+#: includes/class-myhome-attributes.php:273
+msgid "Input Text"
+msgstr "इनपुट पाठ"
+
+#: includes/class-myhome-attributes.php:274
+msgid "Checkbox"
+msgstr "चेक बॉक्स"
+
+#: includes/class-myhome-attributes.php:275
+msgid "Mixed - Radio / Select ( search form position left/right - radio button | search form position top/bottom: select)"
+msgstr "मिश्रित - रेडियो / चुनें (खोज फ़ॉर्म स्थिति बाएँ/दाएँ - रेडियो बटन | खोज फ़ॉर्म स्थिति ऊपर/नीचे: चुनें)"
+
+#: includes/class-myhome-attributes.php:299 includes/class-myhome-listing.php:337 includes/class-myhome-listing.php:347
+#: includes/class-myhome-listing.php:358 includes/class-myhome-listing.php:485 includes/class-myhome-listing.php:495
+#: includes/class-myhome-listing.php:507 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:120
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:130 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:142
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:100 includes/shortcodes/class-myhome-slider-estate-shortcode.php:110
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:122
+msgid "Default values"
+msgstr "डिफाल्ट मुल्ल"
+
+#: includes/class-myhome-attributes.php:303
+msgid "All existing values"
+msgstr "सभी मौजूदा मान"
+
+#: includes/class-myhome-attributes.php:304
+msgid "Most popular"
+msgstr "सबसे लोकप्रिय"
+
+#: includes/class-myhome-attributes.php:305 includes/class-myhome-attributes.php:341 includes/class-myhome-attributes.php:386
+msgid "Static values"
+msgstr "स्थिर मान"
+
+#: includes/class-myhome-attributes.php:325
+msgid "Most popular values limit (number)"
+msgstr "सबसे लोकप्रिय मानों की सीमा (संख्या)"
+
+#: includes/class-myhome-attributes.php:344 includes/class-myhome-attributes.php:389
+msgid "Add"
+msgstr "जोड़ो"
+
+#: includes/class-myhome-attributes.php:349 includes/class-myhome-attributes.php:394
+msgid "Name (visible)"
+msgstr "नाम (दिखाई)"
+
+#: includes/class-myhome-attributes.php:356 includes/class-myhome-attributes.php:401
+msgid "Value"
+msgstr "मूल्य"
+
+#: includes/class-myhome-attributes.php:430
+msgid "Display on property card"
+msgstr "संपत्ति के कार्ड पर प्रदर्शित करें"
+
+#: includes/class-myhome-attributes.php:437
+msgid "Display on single property page"
+msgstr "एक संपत्ति के पेज पर प्रदर्शित करें"
+
+#: includes/class-myhome-attributes.php:449 includes/class-myhome-translations.php:61
+msgid "Advanced"
+msgstr "उन्नत"
+
+#: includes/class-myhome-attributes.php:460
+msgid "Use as tags"
+msgstr "टएग के रूप में उपयोग करें"
+
+#: includes/class-myhome-attributes.php:467
+msgid "Single property page: display in a separate section"
+msgstr "एक गुण पृष्ठ: एक अलग अनुभाग में प्रदर्शित करें"
+
+#: includes/class-myhome-attributes.php:485
+msgid "Single property page: show as link"
+msgstr "एक संपत्ति के पेज: लिंक के रूप में दिखाएँ"
+
+#: includes/class-myhome-attributes.php:493
+msgid "Search Form - display full width"
+msgstr "खोज फ़ॉर्म - पूर्ण चौड़ाई प्रदर्शित करें"
+
+#: includes/class-myhome-attributes.php:512
+msgid "Unit of measure"
+msgstr "माप की इकाई"
+
+#: includes/class-myhome-attributes.php:514
+msgid ""
+"It will be displayed after name eg. you can use that to add (sq feet) next to lot size, but it will be not used in link so it is much "
+"more useful."
+msgstr ""
+"यह नाम के बाद प्रदर्शित किया जाएगा। आप कि आगे बहुत आकार (वर्ग फीट) जोड़ने के लिए उपयोग कर सकते हैं, लेकिन यह लिंक में उपयोग नहीं किया जाएगा इसलिए यह "
+"अधिक उपयोगी है।"
+
+#: includes/class-myhome-attributes.php:525 includes/class-myhome-attributes.php:664
+msgid "Placeholder"
+msgstr "प्लेसहोल्डर"
+
+#: includes/class-myhome-attributes.php:547
+msgid "Placeholder (default: from)"
+msgstr "प्लेसहोल्डर (डिफ़ॉल्ट: से)"
+
+#: includes/class-myhome-attributes.php:573
+msgid "Placeholder (default: to)"
+msgstr "प्लेसहोल्डर (डिफ़ॉल्ट: तक)"
+
+#: includes/class-myhome-attributes.php:600
+#, php-format
+msgid "%s Settings"
+msgstr "%s सेटिंग्स"
+
+#: includes/class-myhome-attributes.php:627
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: includes/class-myhome-attributes.php:638
+msgid "Image wide"
+msgstr "चौड़ी छवि"
+
+#: includes/class-myhome-attributes.php:639
+msgid "Recommended size 1920x500 px"
+msgstr "अनुशंसित डाइमेंशन्स 1920x500 पिक्सल"
+
+#: includes/class-myhome-attributes.php:650
+msgid "Keyword Settings"
+msgstr "कीवर्ड सेटिंग्स"
+
+#: includes/class-myhome-attributes.php:668
+msgid "Default placeholder is always a name of a field, but you can change it below"
+msgstr "डिफ़ॉल्ट प्लेसहोल्डर हमेशा एक फ़ील्ड का एक नाम है, लेकिन आप इसे नीचे परिवर्तित कर सकते हैं"
+
+#: includes/class-myhome-attributes.php:690
+#, php-format
+msgid "Search %s"
+msgstr "खोजें %s"
+
+#: includes/class-myhome-attributes.php:691
+#, php-format
+msgid "All %s"
+msgstr "सभी %s"
+
+#: includes/class-myhome-attributes.php:692
+#, php-format
+msgid "Parent %s"
+msgstr "पैरेंट %s"
+
+#: includes/class-myhome-attributes.php:693
+#, php-format
+msgid "Parent %s:"
+msgstr "पैरेंट %s:"
+
+#: includes/class-myhome-attributes.php:694
+#, php-format
+msgid "Edit %s"
+msgstr "संपादन %s"
+
+#: includes/class-myhome-attributes.php:695
+#, php-format
+msgid "Update %s"
+msgstr "अपडेट करो %s"
+
+#: includes/class-myhome-attributes.php:696
+#, php-format
+msgid "Add New %s"
+msgstr "नया जोड़े %s"
+
+#: includes/class-myhome-attributes.php:697
+#, php-format
+msgid "New %s Name"
+msgstr "नया %s नाम"
+
+#: includes/class-myhome-attributes.php:730 includes/class-myhome-attributes.php:731 includes/class-myhome-attributes.php:748
+msgid "Property fields"
+msgstr "गुण फ़ील्ड्स"
+
+#: includes/class-myhome-attributes.php:750
+msgid "Use \"Up\" and \"Down\" arrows to change order of the options"
+msgstr "विकल्पों का क्रम परिवर्तित करने के लिए \"ऊपर\" और \"नीचे\" तीर का उपयोग करें"
+
+#: includes/class-myhome-attributes.php:765
+msgid "Add new field"
+msgstr "नया फ़ील्ड जोड़ें"
+
+#: includes/class-myhome-attributes.php:771 includes/class-myhome-estates.php:321 includes/class-myhome-translations.php:142
+#: includes/class-myhome-translations.php:233
+msgid "Name"
+msgstr "नाम"
+
+#: includes/class-myhome-attributes.php:778
+msgid "Field type"
+msgstr "फ़ील्ड का प्रकार"
+
+#: includes/class-myhome-attributes.php:788
+msgid "Create"
+msgstr "सिरजो"
+
+#: includes/class-myhome-attributes.php:832 includes/class-myhome-translations.php:25
+msgid "Property type"
+msgstr "गुण का प्रकार"
+
+#: includes/class-myhome-attributes.php:839 includes/class-myhome-translations.php:32
+msgid "Offer type"
+msgstr "प्रस्ताव का प्रकार"
+
+#: includes/class-myhome-attributes.php:846
+msgid "City"
+msgstr "शहर"
+
+#: includes/class-myhome-attributes.php:853 includes/class-myhome-estates.php:67 includes/class-myhome-translations.php:55
+#: includes/class-myhome-translations.php:86
+msgid "Price"
+msgstr "मूल्य"
+
+#: includes/class-myhome-attributes.php:867 includes/class-myhome-translations.php:51
+msgid "Bedrooms"
+msgstr "बेडरूम"
+
+#: includes/class-myhome-attributes.php:874 includes/class-myhome-translations.php:50
+msgid "Bathrooms"
+msgstr "स्नान-घर"
+
+#: includes/class-myhome-attributes.php:881 includes/class-myhome-translations.php:53
+msgid "Property Size"
+msgstr "गुण का आकार"
+
+#: includes/class-myhome-attributes.php:888
+msgid "Lot Size"
+msgstr "लोट का आकार"
+
+#: includes/class-myhome-attributes.php:895
+msgid "Year"
+msgstr "वर्ष"
+
+#: includes/class-myhome-attributes.php:902 includes/class-myhome-translations.php:49
+msgid "Features"
+msgstr "फीचर"
+
+#: includes/class-myhome-cache.php:40
+msgid "Clear cache"
+msgstr "कैश को साफ़ करें"
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: includes/class-myhome-core.php:41
+msgid "MyHome Core"
+msgstr "MyHome कोर"
+
+#: includes/class-myhome-estates.php:110 includes/class-myhome-estates.php:112 includes/class-myhome-estates.php:119
+msgid "Properties"
+msgstr "विशेशतां"
+
+#: includes/class-myhome-estates.php:111 includes/shortcodes/class-myhome-estate-map-shortcode.php:58
+msgid "Property"
+msgstr "विशेशता"
+
+#: includes/class-myhome-estates.php:113 includes/class-myhome-estates.php:114 includes/class-myhome-estates.php:115
+msgid "Add New Property"
+msgstr "नया गुण जोड़ें"
+
+#: includes/class-myhome-estates.php:116
+msgid "New Property"
+msgstr "नया गुण"
+
+#: includes/class-myhome-estates.php:117
+msgid "Edit Property"
+msgstr "संपत्ति को संपादित करें"
+
+#: includes/class-myhome-estates.php:118
+msgid "View Property"
+msgstr "संपत्ति को प्रदर्शन करें"
+
+#: includes/class-myhome-estates.php:120
+msgid "Search property"
+msgstr "संपत्ति खोजना"
+
+#: includes/class-myhome-estates.php:121
+msgid "No Property Found found."
+msgstr "कोई गुण नहीं पाया।"
+
+#: includes/class-myhome-estates.php:122
+msgid "No Property found in Trash."
+msgstr "कोई गुण कचरे में नहीं पाया।"
+
+#: includes/class-myhome-estates.php:217 includes/class-myhome-listing.php:191 includes/class-myhome-listing.php:199
+#: includes/class-myhome-listing.php:212 includes/class-myhome-listing.php:229 includes/class-myhome-listing.php:238
+#: includes/class-myhome-listing.php:248 includes/class-myhome-listing.php:257 includes/class-myhome-listing.php:266
+#: includes/class-myhome-listing.php:275 includes/class-myhome-listing.php:285 includes/class-myhome-listing.php:299
+#: includes/class-myhome-listing.php:314 includes/class-myhome-listing.php:323 includes/class-myhome-listing.php:397
+#: includes/class-myhome-listing.php:406 includes/class-myhome-listing.php:418 includes/class-myhome-listing.php:434
+#: includes/class-myhome-listing.php:452 includes/class-myhome-listing.php:462 includes/class-myhome-listing.php:472
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:93
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:97
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:112
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:121
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:25 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:37
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:46 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:55
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:64 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:78
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:87 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:101
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:37 includes/shortcodes/class-myhome-carousel-post-shortcode.php:52
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:60 includes/shortcodes/class-myhome-carousel-post-shortcode.php:68
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:80 includes/shortcodes/class-myhome-icon-shortcode.php:30
+#: includes/shortcodes/class-myhome-icon-shortcode.php:102 includes/shortcodes/class-myhome-icon-shortcode.php:110
+#: includes/shortcodes/class-myhome-icon-shortcode.php:122 includes/shortcodes/class-myhome-icon-shortcode.php:134
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:29 includes/shortcodes/class-myhome-slider-estate-shortcode.php:42
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:56 includes/shortcodes/class-myhome-slider-estate-shortcode.php:65
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:74 includes/shortcodes/class-myhome-slider-estate-shortcode.php:83
+#: includes/shortcodes/class-myhome-slider-shortcode.php:43
+msgid "General"
+msgstr "सार्वत्रिक"
+
+#: includes/class-myhome-estates.php:229 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:57
+msgid "Featured"
+msgstr "विशिष्ट हुए"
+
+#: includes/class-myhome-estates.php:269 includes/class-myhome-estates.php:275
+msgid "Location"
+msgstr "अवस्थिति"
+
+#: includes/class-myhome-estates.php:306 includes/class-myhome-estates.php:313 includes/class-myhome-translations.php:256
+msgid "Plans"
+msgstr "योजना"
+
+#: includes/class-myhome-estates.php:316 includes/class-myhome-translations.php:257
+msgid "Add plan"
+msgstr "योजना जोड़ें"
+
+#: includes/class-myhome-estates.php:344
+msgid "Video"
+msgstr "वीडियो"
+
+#: includes/class-myhome-estates.php:351
+msgid "Video link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to .mp4)"
+msgstr "वीडियो लिंक (यूट्यूब / Vimeo / फेसबुक/ ट्विटर / इंस्टाग्राम /  link to .mp4)"
+
+#: includes/class-myhome-estates.php:365 includes/class-myhome-translations.php:208
+msgid "Virtual tour"
+msgstr "आभासी यात्रा"
+
+#: includes/class-myhome-estates.php:372 includes/class-myhome-translations.php:209
+msgid "Add embed code"
+msgstr "एम्बेड कोड जोड़ें करें"
+
+#: includes/class-myhome-estates.php:382
+msgid "Property details"
+msgstr "संपत्ति का ब्यौरा"
+
+#: includes/class-myhome-listing.php:182
+msgid "Search form position"
+msgstr "खोज फ़ॉर्म की स्थिति"
+
+#: includes/class-myhome-listing.php:185 includes/class-myhome-listing.php:393
+msgid "Top"
+msgstr "ऊपर"
+
+#: includes/class-myhome-listing.php:186 includes/shortcodes/class-myhome-button-shortcode.php:72
+#: includes/shortcodes/class-myhome-heading-shortcode.php:69 includes/shortcodes/class-myhome-icon-shortcode.php:117
+msgid "Right"
+msgstr "सही"
+
+#: includes/class-myhome-listing.php:187 includes/shortcodes/class-myhome-button-shortcode.php:70
+#: includes/shortcodes/class-myhome-heading-shortcode.php:68 includes/shortcodes/class-myhome-icon-shortcode.php:115
+msgid "Left"
+msgstr "बाएं"
+
+#: includes/class-myhome-listing.php:188 includes/class-myhome-listing.php:394
+msgid "Hidden"
+msgstr "छपैलेआ गेदा"
+
+#: includes/class-myhome-listing.php:196 includes/class-myhome-listing.php:431
+msgid "Label"
+msgstr "लेबल"
+
+#: includes/class-myhome-listing.php:208 includes/class-myhome-listing.php:402
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr "\"उन्नत\" बटन से पहले दिखाने के लिए फ़िल्टर्स की संख्या"
+
+#: includes/class-myhome-listing.php:221
+msgid "Default view"
+msgstr "डिफाल्ट द्रिश्श"
+
+#: includes/class-myhome-listing.php:224
+msgid "Two columns"
+msgstr "दो कॉलम"
+
+#: includes/class-myhome-listing.php:225
+msgid "Three columns"
+msgstr "तीन कॉलम"
+
+#: includes/class-myhome-listing.php:226
+msgid "Row"
+msgstr "पंगताल"
+
+#: includes/class-myhome-listing.php:234
+msgid "Estates limit (Number)"
+msgstr "सम्पदा की सीमा (संख्या)"
+
+#: includes/class-myhome-listing.php:243
+msgid "Lazy loading"
+msgstr "आलसी लोड हो रहा है"
+
+#: includes/class-myhome-listing.php:253
+msgid "Number of times estates will be loaded after clicking “Load More”"
+msgstr "सम्पदाओं का नंबर „लोड अधिक” क्लिक करने के बाद लोड हो जाएगा"
+
+#: includes/class-myhome-listing.php:262
+msgid "\"Load More\" button label"
+msgstr "\"और अधिक लोड करें\" बटन लेबल"
+
+#: includes/class-myhome-listing.php:264
+msgid "Load more"
+msgstr "加载更多"
+
+#: includes/class-myhome-listing.php:271
+msgid "\"Load Previous\" button label"
+msgstr "\"पिछले लोड करें\" बटन लेबल"
+
+#: includes/class-myhome-listing.php:273
+msgid "Load previous"
+msgstr "पिछले लोड"
+
+#: includes/class-myhome-listing.php:280 includes/class-myhome-listing.php:457
+msgid "Display \"advanced\" button"
+msgstr "\"उन्नत\" बटन प्रदर्शित करें"
+
+#: includes/class-myhome-listing.php:294 includes/class-myhome-listing.php:467
+msgid "Display \"clear\" button"
+msgstr "„साफ़ करना” बटन रदर्शित करें"
+
+#: includes/class-myhome-listing.php:309
+msgid "Display \"sort by\""
+msgstr "‚सॉर्ट बाई’ प्रदर्शित करें"
+
+#: includes/class-myhome-listing.php:319
+msgid "Display \"view types\""
+msgstr "\"प्रकार देखना” प्रदर्शित करें"
+
+#: includes/class-myhome-listing.php:335 includes/class-myhome-listing.php:483
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:118 includes/shortcodes/class-myhome-slider-estate-shortcode.php:98
+#, php-format
+msgid "%s from"
+msgstr "%s से"
+
+#: includes/class-myhome-listing.php:345 includes/class-myhome-listing.php:493
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:128 includes/shortcodes/class-myhome-slider-estate-shortcode.php:108
+#, php-format
+msgid "%s to"
+msgstr "%s तक"
+
+#: includes/class-myhome-listing.php:367 includes/class-myhome-listing.php:517
+#, php-format
+msgid "Show %s"
+msgstr "दिखाओ %s"
+
+#: includes/class-myhome-listing.php:369 includes/class-myhome-listing.php:519
+msgid "Show filters"
+msgstr "फ़िल्टर्स दिखाएँ"
+
+#: includes/class-myhome-listing.php:389
+msgid "Search form style"
+msgstr "खोज फ़ॉर्म की शैली"
+
+#: includes/class-myhome-listing.php:392
+msgid "Bottom"
+msgstr "थल्लै"
+
+#: includes/class-myhome-listing.php:415
+msgid "Wide search form"
+msgstr "चौड़ा खोज फ़ॉर्म"
+
+#: includes/class-myhome-listing.php:445
+msgid "Map height"
+msgstr "नक्शा की ऊँचाई"
+
+#: includes/class-myhome-listing.php:448 includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:49
+msgid "Standard"
+msgstr "स्टैण्डर्ड"
+
+#: includes/class-myhome-listing.php:449
+msgid "Tall"
+msgstr "लंबा"
+
+#: includes/class-myhome-post-types.php:31
+msgid "Testimonial author"
+msgstr "प्रशंसापत्र का लेखक"
+
+#: includes/class-myhome-post-types.php:35
+msgid "Author occupation"
+msgstr "लेखक का व्यवसाय"
+
+#: includes/class-myhome-post-types.php:56 includes/class-myhome-post-types.php:88
+msgid "Client"
+msgstr "क्लाइंट"
+
+#: includes/class-myhome-post-types.php:60
+msgid "Client link"
+msgstr "ग्राहक का लिंक"
+
+#: includes/class-myhome-post-types.php:87 includes/class-myhome-post-types.php:89 includes/class-myhome-post-types.php:96
+msgid "Clients"
+msgstr "ग्राहक"
+
+#: includes/class-myhome-post-types.php:90
+msgid "Add new Client"
+msgstr "नया ग्राहक जोड़ना"
+
+#: includes/class-myhome-post-types.php:91 includes/class-myhome-post-types.php:92
+msgid "Add New Client"
+msgstr "नए ग्राहक जोड़ना"
+
+#: includes/class-myhome-post-types.php:93
+msgid "New Client"
+msgstr "नया ग्राहक"
+
+#: includes/class-myhome-post-types.php:94
+msgid "Edit Client"
+msgstr "क्लाइंट को संपादित करें"
+
+#: includes/class-myhome-post-types.php:95
+msgid "View Client"
+msgstr "क्लाइंट को दर्शन करें"
+
+#: includes/class-myhome-post-types.php:97
+msgid "Search Clients"
+msgstr "ग्राहक को खोज करें"
+
+#: includes/class-myhome-post-types.php:98
+msgid "No Clients found."
+msgstr "कोई ग्राहकों को नहीं मिला।"
+
+#: includes/class-myhome-post-types.php:99
+msgid "No Clients found in Trash."
+msgstr "कोई ग्राहकों को कचरे में नहीं मिला।"
+
+#: includes/class-myhome-post-types.php:116 includes/class-myhome-post-types.php:118 includes/class-myhome-post-types.php:125
+msgid "Testimonials"
+msgstr "प्रशंसापत्र"
+
+#: includes/class-myhome-post-types.php:117
+msgid "Testimonial"
+msgstr "प्रशंसापत्र"
+
+#: includes/class-myhome-post-types.php:119
+msgid "Add new Testimonial"
+msgstr "नया प्रशंसापत्र जोड़ें"
+
+#: includes/class-myhome-post-types.php:120 includes/class-myhome-post-types.php:121
+msgid "Add New Testimonial"
+msgstr "नया प्रशंसापत्र जोड़ें"
+
+#: includes/class-myhome-post-types.php:122
+msgid "New Testimonial"
+msgstr "नया प्रशंसापत्र"
+
+#: includes/class-myhome-post-types.php:123
+msgid "Edit Testimonial"
+msgstr "प्रशंसापत्र को संपादित करें"
+
+#: includes/class-myhome-post-types.php:124
+msgid "View Testimonial"
+msgstr "प्रशंसापत्र को दर्शन करें"
+
+#: includes/class-myhome-post-types.php:126
+msgid "Search Testimonials"
+msgstr "प्रशंसापत्रों को खोज करें"
+
+#: includes/class-myhome-post-types.php:127
+msgid "No Testimonials found."
+msgstr "कोई प्रशंसापतों को नहीं मिला।"
+
+#: includes/class-myhome-post-types.php:128
+msgid "No Testimonials found in Trash."
+msgstr "कोई प्रशंसापतों को कचरे में नहीं मिला।"
+
+#: includes/class-myhome-property-types.php:50
+msgid "Filters"
+msgstr "फिल्टर"
+
+#: includes/class-myhome-translations.php:26
+msgid "Price from"
+msgstr "दाम: से"
+
+#: includes/class-myhome-translations.php:27
+msgid "Price to"
+msgstr "दाम: तक"
+
+#: includes/class-myhome-translations.php:28
+msgid "Bathrooms from"
+msgstr "गुसलखाने: से"
+
+#: includes/class-myhome-translations.php:29
+msgid "Bathrooms to"
+msgstr "गुसलखाने: तक"
+
+#: includes/class-myhome-translations.php:30
+msgid "Bedrooms from"
+msgstr "सोने के कामरे: से"
+
+#: includes/class-myhome-translations.php:31
+msgid "Bedrooms to"
+msgstr "सोने के कामरे: तक"
+
+#: includes/class-myhome-translations.php:33
+msgid "All areas"
+msgstr "सभी क्षेत्र"
+
+#: includes/class-myhome-translations.php:34
+msgid "Year built"
+msgstr "निर्माण का वर्ष"
+
+#: includes/class-myhome-translations.php:35
+msgid "Property size from"
+msgstr "संपत्ति का आकार: से"
+
+#: includes/class-myhome-translations.php:36
+msgid "Property size to"
+msgstr "संपत्ति का आकार: से"
+
+#: includes/class-myhome-translations.php:37
+msgid "Lot size from"
+msgstr "लॉट का आकार: से"
+
+#: includes/class-myhome-translations.php:38
+msgid "Lot size to"
+msgstr "लॉट का आकार: तक"
+
+#: includes/class-myhome-translations.php:39 includes/class-myhome-translations.php:77
+msgid "Sell"
+msgstr "बेचना"
+
+#: includes/class-myhome-translations.php:40 includes/class-myhome-translations.php:78
+msgid "Rent"
+msgstr "उधार लेना"
+
+#: includes/class-myhome-translations.php:41
+msgid "Areas"
+msgstr "क्षेत्र"
+
+#: includes/class-myhome-translations.php:42
+msgid "Built year from"
+msgstr "निर्माण का वर्ष: से"
+
+#: includes/class-myhome-translations.php:43
+msgid "Built year to"
+msgstr "निर्माण का वर्ष: तक"
+
+#: includes/class-myhome-translations.php:44 includes/models/class-myhome-attribute.php:238
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:18 includes/shortcodes/class-myhome-carousel-post-shortcode.php:18
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:21
+msgid "Any"
+msgstr "कोई"
+
+#: includes/class-myhome-translations.php:45
+msgid "Reset settings"
+msgstr "सेटिंग्स रिसेट"
+
+#: includes/class-myhome-translations.php:46
+msgid "Search"
+msgstr "खोजे"
+
+#: includes/class-myhome-translations.php:47
+msgid "From"
+msgstr "द्वारा"
+
+#: includes/class-myhome-translations.php:48
+msgid "To"
+msgstr "गी"
+
+#: includes/class-myhome-translations.php:52
+msgid "Lot size"
+msgstr "लॉट का आकार"
+
+#: includes/class-myhome-translations.php:54
+msgid "Build Year"
+msgstr "निर्माण का वर्"
+
+#: includes/class-myhome-translations.php:56
+msgid "Keywords"
+msgstr "कुंजी-शब्द"
+
+#: includes/class-myhome-translations.php:57
+msgid "Categories"
+msgstr "विषयवस्तु"
+
+#: includes/class-myhome-translations.php:58
+msgid "Parameters"
+msgstr "मापदंड"
+
+#: includes/class-myhome-translations.php:59
+msgid "Clear selections"
+msgstr "चयन को साफ़ करें"
+
+#: includes/class-myhome-translations.php:60 includes/class-myhome-translations.php:110
+msgid "Clear search"
+msgstr "खोज को साफ़ करें"
+
+#: includes/class-myhome-translations.php:62 includes/class-myhome-translations.php:160
+msgid "Hide"
+msgstr "छिपाना"
+
+#: includes/class-myhome-translations.php:63
+msgid "Show Location"
+msgstr "अवस्थिति को दिखाएँ"
+
+#: includes/class-myhome-translations.php:64
+msgid "Show Places"
+msgstr "स्थानों को दिखाएँ"
+
+#: includes/class-myhome-translations.php:65
+msgid "Show Near"
+msgstr "के पास दिखाएँ"
+
+#: includes/class-myhome-translations.php:66
+msgid "clear"
+msgstr "पूर्ण करें"
+
+#: includes/class-myhome-translations.php:79 includes/class-myhome-translations.php:165 includes/class-myhome-translations.php:178
+msgid "Compare"
+msgstr "तुलना करे"
+
+#: includes/class-myhome-translations.php:80 includes/class-myhome-translations.php:177
+msgid "Added"
+msgstr "जोड़ा गया"
+
+#: includes/class-myhome-translations.php:81 includes/class-myhome-translations.php:162
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:306
+msgid "Details"
+msgstr "विवरण"
+
+#: includes/class-myhome-translations.php:82 includes/class-myhome-translations.php:164
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:282
+msgid "More"
+msgstr "更多"
+
+#: includes/class-myhome-translations.php:83 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:69
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:47
+msgid "Newest"
+msgstr "नवीनतम"
+
+#: includes/class-myhome-translations.php:84
+msgid "Sort by:"
+msgstr "क्रमबद्ध करें:"
+
+#: includes/class-myhome-translations.php:85 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:72
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:50
+msgid "Popular"
+msgstr "लोकप्रिय"
+
+#: includes/class-myhome-translations.php:87
+msgid "reset"
+msgstr "रीसेट करें"
+
+#: includes/class-myhome-translations.php:88
+msgid "Full Screen"
+msgstr "पूर्ण स्क्रीन"
+
+#: includes/class-myhome-translations.php:89
+msgid "previous"
+msgstr "पिछला"
+
+#: includes/class-myhome-translations.php:90
+msgid "next"
+msgstr "आगे"
+
+#: includes/class-myhome-translations.php:91 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:70
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:48
+msgid "Price (high to low)"
+msgstr "दाम: (बाड़े से छोटे तक)"
+
+#: includes/class-myhome-translations.php:92 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:71
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:49
+msgid "Price (low to high)"
+msgstr "दाम: (छोटे से बाड़े तक)"
+
+#: includes/class-myhome-translations.php:93
+msgid "results"
+msgstr "परिणाम"
+
+#: includes/class-myhome-translations.php:94
+msgid "Found"
+msgstr "पाया गया"
+
+#: includes/class-myhome-translations.php:105 includes/class-myhome-translations.php:123
+msgid "Street View"
+msgstr "सड़क का दृश्य"
+
+#: includes/class-myhome-translations.php:106
+msgid "Previous"
+msgstr "पिछला"
+
+#: includes/class-myhome-translations.php:107
+msgid "Next"
+msgstr "अगला"
+
+#: includes/class-myhome-translations.php:108
+msgid "Full screen"
+msgstr "पूर्ण स्क्रीन"
+
+#: includes/class-myhome-translations.php:109
+msgid "Close full screen"
+msgstr "पूर्ण स्क्रीन बंद करें"
+
+#: includes/class-myhome-translations.php:111
+msgid "Reset"
+msgstr "पुनः सेट करें"
+
+#: includes/class-myhome-translations.php:112
+msgid "No results found"
+msgstr "कोई नतीजे नहीं मिले"
+
+#: includes/class-myhome-translations.php:124
+msgid "Show location"
+msgstr "अवस्थिति को दिखाएँ"
+
+#: includes/class-myhome-translations.php:125
+msgid "Show near"
+msgstr "के पास दिखाएँ"
+
+#: includes/class-myhome-translations.php:126
+msgid "Fullscreen"
+msgstr "फुलस्‍क्रीन"
+
+#: includes/class-myhome-translations.php:137
+msgid "Are you sure you want to delete this field?"
+msgstr "आप इस फील्ड को नष्ट करना चाहते हैं आप सुनिश्चित हैं?"
+
+#: includes/class-myhome-translations.php:138
+msgid "Up"
+msgstr "उप्पर"
+
+#: includes/class-myhome-translations.php:139
+msgid "Down"
+msgstr "हेठ"
+
+#: includes/class-myhome-translations.php:140 includes/class-myhome-translations.php:144 includes/class-myhome-translations.php:226
+msgid "Edit"
+msgstr "संपादन"
+
+#: includes/class-myhome-translations.php:141 includes/class-myhome-translations.php:258
+msgid "Delete"
+msgstr "मिटाएं"
+
+#: includes/class-myhome-translations.php:143
+msgid "Type"
+msgstr "प्रकार"
+
+#: includes/class-myhome-translations.php:145
+msgid "Slug"
+msgstr "स्लग"
+
+#: includes/class-myhome-translations.php:146
+msgid "required"
+msgstr "आवश्यकता"
+
+#: includes/class-myhome-translations.php:147
+msgid "- separate with commas"
+msgstr "-अल्पविराम से अलग-अलग"
+
+#: includes/class-myhome-translations.php:148 includes/class-myhome-translations.php:268
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:74 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:84
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:94 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:104
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:114 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:124
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:126
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:50 includes/shortcodes/class-myhome-carousel-clients-shortcode.php:61
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:106 includes/shortcodes/class-myhome-carousel-post-shortcode.php:85
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:73 includes/shortcodes/class-myhome-service-shortcode.php:72
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:205
+msgid "Yes"
+msgstr "हाँ"
+
+#: includes/class-myhome-translations.php:149 includes/class-myhome-translations.php:269
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:75 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:85
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:95 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:105
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:115 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:125
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:127
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:51 includes/shortcodes/class-myhome-carousel-clients-shortcode.php:60
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:107 includes/shortcodes/class-myhome-carousel-post-shortcode.php:86
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:74 includes/shortcodes/class-myhome-service-shortcode.php:73
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:206
+msgid "No"
+msgstr "नहीं"
+
+#: includes/class-myhome-translations.php:161
+msgid "Show"
+msgstr "दिखाना"
+
+#: includes/class-myhome-translations.php:163
+msgid "Clear"
+msgstr "पूर्ण करें"
+
+#: includes/class-myhome-translations.php:166
+msgid "Attributes"
+msgstr "गुण"
+
+#: includes/class-myhome-translations.php:189
+msgid "Email"
+msgstr "ई-मेल"
+
+#: includes/class-myhome-translations.php:191
+msgid "Your message"
+msgstr "आपका संदेश"
+
+#: includes/class-myhome-translations.php:192
+msgid "Send"
+msgstr "भेजें"
+
+#: includes/class-myhome-translations.php:193
+msgid "Message is to short (min 5 characters) "
+msgstr "संदेश बहुत छोटा है (न्यूनतम 5 वर्ण)"
+
+#: includes/class-myhome-translations.php:194
+msgid "Email address is invalid"
+msgstr "ईमेल पता अमान्य है"
+
+#: includes/class-myhome-translations.php:195
+msgid "Error..."
+msgstr "त्रुटि…"
+
+#: includes/class-myhome-translations.php:196
+msgid "Your message was sent successfully. Thanks."
+msgstr "आपका संदेश सफलतापूर्वक भेजा गया था। धन्यवाद."
+
+#: includes/class-myhome-translations.php:197
+msgid "Sending..."
+msgstr "भेज रहें हैं..."
+
+#: includes/class-myhome-translations.php:210
+msgid "Remove file"
+msgstr "फ़ाइल को निकालें"
+
+#: includes/class-myhome-translations.php:211
+msgid "Upload profile picture"
+msgstr "प्रोफ़ाइल चित्र अपलोड करें"
+
+#: includes/class-myhome-translations.php:212
+msgid "Drop plan image here or click to upload"
+msgstr "योजना छवि यहाँ ड्रॉप करें या अपलोड करने के लिए क्लिक करें"
+
+#: includes/class-myhome-translations.php:213
+msgid "Drop featured image here or click to upload"
+msgstr "चित्रित किया छवि यहाँ ड्रॉप करें या अपलोड करने के लिए क्लिक करें"
+
+#: includes/class-myhome-translations.php:214
+msgid "Drop all images here or click to upload"
+msgstr "सभी छवियों को यहाँ ड्रॉप करें या अपलोड करने के लिए क्लिक करें"
+
+#: includes/class-myhome-translations.php:215
+msgid "Cancel upload"
+msgstr "अपलोड रद्द करें"
+
+#: includes/class-myhome-translations.php:216
+msgid "Are you sure you want to cancel this upload?"
+msgstr "क्या आप वाकई हैं कि इस अपलोड को रद्द करना चाहते हैं?"
+
+#: includes/class-myhome-translations.php:217
+msgid "Image upload failed"
+msgstr "छवि अपलोड विफल हुआ"
+
+#: includes/class-myhome-translations.php:218
+msgid "You can't upload files of this type."
+msgstr "आप इस प्रकार की फ़ाइलें अपलोड नहीं कर सकते।"
+
+#: includes/class-myhome-translations.php:219
+msgid "Pay with credit card"
+msgstr "क्रेडिट कार्ड से भुगतान"
+
+#: includes/class-myhome-translations.php:220
+msgid "Pay with PayPal"
+msgstr "पेपैल से भुगतान"
+
+#: includes/class-myhome-translations.php:221
+msgid "Thank you for registering. You can log in now."
+msgstr "पंजीकरण के लिए धन्यवाद। अब आप लॉग-इन कर सकते हैं।"
+
+#: includes/class-myhome-translations.php:223 includes/shortcodes/class-myhome-service-shortcode.php:29
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:101
+msgid "Title"
+msgstr "शीर्षक"
+
+#: includes/class-myhome-translations.php:224
+msgid "Status"
+msgstr "पद"
+
+#: includes/class-myhome-translations.php:225
+msgid "Payment"
+msgstr "भुगतान"
+
+#: includes/class-myhome-translations.php:227
+msgid "Log in"
+msgstr "लॉगिन करें"
+
+#: includes/class-myhome-translations.php:228 includes/class-myhome-translations.php:304
+msgid "Log out"
+msgstr "लॉग आउट"
+
+#: includes/class-myhome-translations.php:229 includes/class-myhome-translations.php:298
+msgid "Login"
+msgstr "लॉग-इन"
+
+#: includes/class-myhome-translations.php:230
+msgid "password"
+msgstr "पासवर्ड"
+
+#: includes/class-myhome-translations.php:231
+msgid "user name"
+msgstr "यूज़र नेम"
+
+#: includes/class-myhome-translations.php:232
+msgid "email"
+msgstr "ई-मेल"
+
+#: includes/class-myhome-translations.php:234
+msgid "Public name"
+msgstr "सार्वजनिक नाम"
+
+#: includes/class-myhome-translations.php:235
+msgid "Welcome"
+msgstr "स्वागत है"
+
+#: includes/class-myhome-translations.php:236 includes/class-myhome-translations.php:300
+msgid "Submit property"
+msgstr "रॉपर्टी को जमा करें"
+
+#: includes/class-myhome-translations.php:237 includes/class-myhome-translations.php:301
+msgid "My properties"
+msgstr "मेरे रॉपर्टीस"
+
+#: includes/class-myhome-translations.php:238 includes/class-myhome-translations.php:302
+msgid "Edit profile"
+msgstr "प्रोफाइल संपादत करो"
+
+#: includes/class-myhome-translations.php:239 includes/class-myhome-translations.php:260 includes/class-myhome-translations.php:303
+msgid "View my profile"
+msgstr "मेरा प्रोफ़ाइल दिखाओ"
+
+#: includes/class-myhome-translations.php:240
+msgid "Phone number"
+msgstr "फोन नंबर"
+
+#: includes/class-myhome-translations.php:241
+msgid "Profile picture"
+msgstr "प्रोफ़ाइल का चित्र"
+
+#: includes/class-myhome-translations.php:242
+msgid "Add image"
+msgstr "छवि जोड़ें"
+
+#: includes/class-myhome-translations.php:243
+msgid "Set image"
+msgstr "छवि स्थापित करें"
+
+#: includes/class-myhome-translations.php:244
+msgid "Facebook profile link"
+msgstr "फेसबुक प्रोफ़ाइल लिंक"
+
+#: includes/class-myhome-translations.php:245
+msgid "Twitter profile link"
+msgstr "ट्वीटर प्रोफ़ाइल लिंक"
+
+#: includes/class-myhome-translations.php:246
+msgid "Instagram profile link"
+msgstr "इंस्टाग्राम प्रोफ़ाइल लिंक"
+
+#: includes/class-myhome-translations.php:247
+msgid "Linkedin profile link"
+msgstr "Linkedin प्रोफ़ाइल लिंक"
+
+#: includes/class-myhome-translations.php:248
+msgid "Update profile"
+msgstr "प्रोफाइल अपडेट करो"
+
+#: includes/class-myhome-translations.php:249 includes/class-myhome-translations.php:299
+msgid "Register"
+msgstr "रजिस्टर"
+
+#: includes/class-myhome-translations.php:250
+msgid "email address"
+msgstr "ईमेल सिरनामां"
+
+#: includes/class-myhome-translations.php:251
+msgid "Edit property"
+msgstr "रॉपर्टी को संपादित करें"
+
+#: includes/class-myhome-translations.php:252
+msgid "Update property"
+msgstr "रॉपर्टी को अद्यतन करें"
+
+#: includes/class-myhome-translations.php:253
+msgid "Description"
+msgstr "विवरण"
+
+#: includes/class-myhome-translations.php:254
+msgid "Featured image"
+msgstr "चित्रित किया छवि"
+
+#: includes/class-myhome-translations.php:255
+msgid "All images"
+msgstr "सभी छवियाँ"
+
+#: includes/class-myhome-translations.php:259
+msgid "Address"
+msgstr "सिरनामा"
+
+#: includes/class-myhome-translations.php:261
+msgid "reset password"
+msgstr "पासवर्ड रीसेट करें"
+
+#: includes/class-myhome-translations.php:262
+msgid "Reset password"
+msgstr "पासवर्ड रीसेट करें"
+
+#: includes/class-myhome-translations.php:263
+msgid "Back to login form"
+msgstr "लॉगइन फार्म तक वापस करें"
+
+#: includes/class-myhome-translations.php:264
+msgid "remember me"
+msgstr "मुझे याद करें"
+
+#: includes/class-myhome-translations.php:266
+msgid "You haven’t added any property yet"
+msgstr "आप किसी भी संपत्ति को अभी तक नहीं जोड़ा"
+
+#: includes/class-myhome-translations.php:267
+msgid "Video Link (Youtube / Vimeo / Facebook / Twitter / Instagram / link to .mp4)"
+msgstr "वीडियो लिंक (यूट्यूब / Vimeo / फेसबुक / ट्वीटर/ इंस्टाग्राम / link to .mp4)"
+
+#: includes/class-myhome-translations.php:270
+msgid "Are you sure you want to delete"
+msgstr "क्या आप आश्वस्त हैं कि आप मिटाना चाहते हैं?"
+
+#: includes/class-myhome-translations.php:271
+msgid "Username ( cannot be changed )"
+msgstr "उपयोगकर्ता का नाम (बदला नहीं जा सकता)"
+
+#: includes/class-myhome-translations.php:272
+msgid "Profile updated"
+msgstr "प्रोफ़ाइल अद्यतन किया"
+
+#: includes/class-myhome-translations.php:273
+msgid "Unknown error"
+msgstr "अज्ञात त्रुटि"
+
+#: includes/class-myhome-translations.php:274
+msgid "You are logged in"
+msgstr "आप लॉग-इन हैं"
+
+#: includes/class-myhome-translations.php:275
+msgid "You are logged out"
+msgstr "आप लॉग आउट हैं"
+
+#: includes/class-myhome-translations.php:276
+msgid "Select or upload"
+msgstr "चयन करें या अपलोड करें"
+
+#: includes/class-myhome-translations.php:277
+msgid "Use this media"
+msgstr "इस मीडिया का उपयोग करें"
+
+#: includes/class-myhome-translations.php:278
+msgid "Use commas to separate"
+msgstr "अलग करने के लिए अल्पविराम का उपयोग करें"
+
+#: includes/class-myhome-translations.php:279
+msgid "This property is waiting for approval."
+msgstr "यह संपत्ति स्वीकृति के लिए प्रतीक्षा कर रही है।"
+
+#: includes/class-myhome-translations.php:280
+msgid "Make a payment"
+msgstr "एक भुगतान करें"
+
+#: includes/class-myhome-translations.php:281
+msgid "payed"
+msgstr "भुगतान किया है"
+
+#: includes/class-myhome-translations.php:282
+msgid "pay"
+msgstr "भुगतान"
+
+#: includes/class-myhome-translations.php:283
+msgid "Thank you for submitting your property information."
+msgstr "अपने गुण जानकारी सबमिट करने के लिए धन्यवाद।"
+
+#: includes/class-myhome-translations.php:284
+msgid "Thank you for submitting your property information. Your property is waiting for approval."
+msgstr "अपने गुण जानकारी सबमिट करने के लिए धन्यवाद। अपनी संपत्ति के अनुमोदन के लिए प्रतीक्षा कर रहा है।"
+
+#: includes/class-myhome-translations.php:285
+msgid "If you edit your property, it won't be visible to the public until it is approved again."
+msgstr "यदि आप अपने गुण संपादित करते हैं, जब तक यह फिर से मंजूरी दे दी है यह सार्वजनिक रूप से दृश्यमान नहीं होगा।"
+
+#: includes/class-myhome-translations.php:286
+msgid "Awaiting payment"
+msgstr "भुगतान का इंतजार"
+
+#: includes/class-myhome-translations.php:287
+msgid "Publish"
+msgstr "प्रकाशित करें"
+
+#: includes/class-myhome-translations.php:288
+msgid "Pending"
+msgstr "अनिर्णीत"
+
+#: includes/class-myhome-translations.php:289
+msgid "Draft"
+msgstr "प्रारूप"
+
+#: includes/class-myhome-translations.php:290
+msgid "Private"
+msgstr "निजी"
+
+#: includes/class-myhome-translations.php:291
+msgid "Trash"
+msgstr "कचरा"
+
+#: includes/class-myhome-translations.php:292
+msgid "Set map marker without changing address field"
+msgstr "पता फ़ील्ड बदलने के बिना मानचित्र निर्माता लगाएँ"
+
+#: includes/models/class-myhome-attribute.php:43
+msgid "MyHome - Search form fields"
+msgstr "MyHome - खोज फ़ोर्म फ़ील्ड"
+
+#: includes/models/class-myhome-attribute.php:44
+#, php-format
+msgid "Field name - %s"
+msgstr "फ़ील्ड का नाम - %s"
+
+#: includes/models/class-myhome-attribute.php:86
+#, php-format
+msgid " %s (display after)"
+msgstr "%s (बाद में प्रदर्शन करें)"
+
+#: includes/models/class-myhome-attribute.php:87
+#, php-format
+msgid " %s (placeholder from)"
+msgstr "%s (से प्लेसहोल्डर)"
+
+#: includes/models/class-myhome-attribute.php:88
+#, php-format
+msgid " %s (placeholder to)"
+msgstr "%s (तक प्लेसहोल्डर)"
+
+#: includes/models/class-myhome-attribute.php:89
+#, php-format
+msgid " %s (placeholder)"
+msgstr "%s (प्लेसहोल्डर)"
+
+#: includes/models/class-myhome-estate.php:287
+#, php-format
+msgid "%s ago"
+msgstr "%s पहले"
+
+#: includes/models/class-myhome-estate.php:577
+msgid "..."
+msgstr "..."
+
+#: includes/payments/class-myhome-stripe.php:41
+#, php-format
+msgid "%s listing, Estate ID: %d"
+msgstr "%s लिस्टिंग, संपत्ति आईडी: %d"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:22 includes/shortcodes/class-myhome-button-shortcode.php:29
+#: includes/shortcodes/class-myhome-button-shortcode.php:38 includes/shortcodes/class-myhome-button-shortcode.php:53
+#: includes/shortcodes/class-myhome-button-shortcode.php:65 includes/shortcodes/class-myhome-button-shortcode.php:78
+#: includes/shortcodes/class-myhome-service-shortcode.php:67 includes/shortcodes/class-myhome-service-shortcode.php:79
+#: includes/shortcodes/class-myhome-service-shortcode.php:93 includes/shortcodes/class-myhome-simple-box-shortcode.php:200
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:211 includes/shortcodes/class-myhome-simple-box-shortcode.php:225
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:245
+msgid "Button"
+msgstr "बटन"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:25 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:27
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:83
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:21 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:155
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:33
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:21 includes/shortcodes/class-myhome-estate-map-shortcode.php:52
+#: includes/shortcodes/class-myhome-heading-shortcode.php:27 includes/shortcodes/class-myhome-icon-shortcode.php:27
+#: includes/shortcodes/class-myhome-listing-map-shortcode.php:101 includes/shortcodes/class-myhome-listing-shortcode.php:89
+#: includes/shortcodes/class-myhome-service-shortcode.php:24 includes/shortcodes/class-myhome-simple-box-shortcode.php:24
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:137 includes/shortcodes/class-myhome-slider-shortcode.php:36
+msgid "MyHome"
+msgstr "MyHome"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:31
+msgid "Text"
+msgstr "इबारत"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:33 includes/shortcodes/class-myhome-button-shortcode.php:107
+#: includes/shortcodes/class-myhome-service-shortcode.php:97 includes/shortcodes/class-myhome-service-shortcode.php:125
+msgid "Read More"
+msgstr "और पढ़ें"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:40 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:60
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:27 includes/shortcodes/class-myhome-carousel-post-shortcode.php:70
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:46 includes/shortcodes/class-myhome-simple-box-shortcode.php:113
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:115 includes/shortcodes/class-myhome-simple-box-shortcode.php:128
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:140 includes/shortcodes/class-myhome-simple-box-shortcode.php:152
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:164 includes/shortcodes/class-myhome-simple-box-shortcode.php:176
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:188
+msgid "Style"
+msgstr "शैली"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:43 includes/shortcodes/class-myhome-heading-shortcode.php:129
+#: includes/shortcodes/class-myhome-heading-shortcode.php:168 includes/shortcodes/class-myhome-icon-shortcode.php:128
+#: includes/shortcodes/class-myhome-icon-shortcode.php:220 includes/shortcodes/class-myhome-icon-shortcode.php:253
+#: includes/shortcodes/class-myhome-service-shortcode.php:84 includes/shortcodes/class-myhome-simple-box-shortcode.php:134
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:158 includes/shortcodes/class-myhome-simple-box-shortcode.php:182
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:230
+msgid "Primary"
+msgstr "मुख्य"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:44 includes/shortcodes/class-myhome-service-shortcode.php:85
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:231
+msgid "Primary ghost"
+msgstr "प्राथमिक भूत"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:45 includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:51
+#: includes/shortcodes/class-myhome-service-shortcode.php:86 includes/shortcodes/class-myhome-simple-box-shortcode.php:232
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:36
+msgid "Transparent"
+msgstr "पारदर्शी"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:46 includes/shortcodes/class-myhome-heading-shortcode.php:128
+#: includes/shortcodes/class-myhome-heading-shortcode.php:167 includes/shortcodes/class-myhome-service-shortcode.php:87
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:233
+msgid "White"
+msgstr "सफ़ेद"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:47 includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:62
+#: includes/shortcodes/class-myhome-service-shortcode.php:88 includes/shortcodes/class-myhome-simple-box-shortcode.php:234
+msgid "Dark"
+msgstr "कलैखा"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:55 includes/shortcodes/class-myhome-heading-shortcode.php:88
+msgid "Size"
+msgstr "आकार"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:58 includes/shortcodes/class-myhome-carousel-agent-shortcode.php:63
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:30 includes/shortcodes/class-myhome-carousel-post-shortcode.php:73
+#: includes/shortcodes/class-myhome-heading-shortcode.php:92 includes/shortcodes/class-myhome-heading-shortcode.php:127
+#: includes/shortcodes/class-myhome-heading-shortcode.php:141 includes/shortcodes/class-myhome-heading-shortcode.php:166
+#: includes/shortcodes/class-myhome-icon-shortcode.php:127 includes/shortcodes/class-myhome-icon-shortcode.php:219
+#: includes/shortcodes/class-myhome-icon-shortcode.php:252 includes/shortcodes/class-myhome-service-shortcode.php:60
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:133 includes/shortcodes/class-myhome-simple-box-shortcode.php:157
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:181
+msgid "Default"
+msgstr "डिफाल्ट"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:59
+msgid "Big"
+msgstr "बड़ा"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:67 includes/shortcodes/class-myhome-heading-shortcode.php:63
+#: includes/shortcodes/class-myhome-icon-shortcode.php:112
+msgid "Align"
+msgstr "पंक्ति में होना"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:71 includes/shortcodes/class-myhome-heading-shortcode.php:67
+#: includes/shortcodes/class-myhome-icon-shortcode.php:116
+msgid "Center"
+msgstr "केंद्र"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:80 includes/shortcodes/class-myhome-service-shortcode.php:49
+msgid "Link"
+msgstr "लिंक"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:83 includes/shortcodes/class-myhome-service-shortcode.php:52
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:250
+msgid "eg. http://xxxxxxx.xxx"
+msgstr "जैसे http://xxxxxxx.xxx"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:89 includes/shortcodes/class-myhome-heading-shortcode.php:196
+#: includes/shortcodes/class-myhome-icon-shortcode.php:281 includes/shortcodes/class-myhome-service-shortcode.php:103
+msgid "Css"
+msgstr "सीएसएस"
+
+#: includes/shortcodes/class-myhome-button-shortcode.php:91 includes/shortcodes/class-myhome-heading-shortcode.php:198
+#: includes/shortcodes/class-myhome-icon-shortcode.php:283 includes/shortcodes/class-myhome-service-shortcode.php:105
+msgid "Design options"
+msgstr "डिजाइन आप्शन्स"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:24
+msgid "Agent Carousel"
+msgstr "एजेंट हिंडोला"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:32 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:89
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:26
+msgid "Visible"
+msgstr "द्रिश्टीगोचर"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:35
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:102
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:29 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:92
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:42
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:29
+msgid "Default - 3"
+msgstr "डिफ़ॉल्ट - 3"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:36
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:103
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:30 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:93
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:43
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:30
+msgid "1 "
+msgstr "1"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:37
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:104
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:31 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:94
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:44
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:31
+msgid "2 "
+msgstr "2"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:38
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:105
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:32 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:95
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:45
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:32
+msgid "3 "
+msgstr "3"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:39
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:106
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:33 includes/shortcodes/class-myhome-carousel-post-shortcode.php:46
+msgid "4 "
+msgstr "4"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:45
+msgid "Agents limit"
+msgstr "व्यवस्थापकों की सीमा"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:52
+msgid "Exclude admins"
+msgstr "व्यवस्थापक को छोड़ें"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:64 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:31
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:74 includes/shortcodes/class-myhome-service-shortcode.php:61
+msgid "White Background"
+msgstr "सफेद पृष्ठभूमि"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:65 includes/shortcodes/class-myhome-carousel-estate-shortcode.php:32
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:75 includes/shortcodes/class-myhome-service-shortcode.php:62
+msgid "Dark Background"
+msgstr "डार्क पृष्ठभूमि"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:71
+msgid "Show description"
+msgstr "विवरण दिखाएँ"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:81
+msgid "Show social icons"
+msgstr "सामाजिक आइकॉन्स दिखाएँ"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:91
+msgid "Show Email"
+msgstr "ईमेल दिखाएँ"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:101
+msgid "Show phone"
+msgstr "फोन दिखाएँ"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:111
+msgid "Show button"
+msgstr "बटन दिखाएँ"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:121
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:123
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:103 includes/shortcodes/class-myhome-carousel-post-shortcode.php:82
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:70
+msgid "Dots"
+msgstr "बिंदुएं"
+
+#: includes/shortcodes/class-myhome-carousel-agent-shortcode.php:271
+msgid "Full Profile"
+msgstr "पूरा प्रोफाइल"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:80
+msgid "Attribute Carousel"
+msgstr "विशेषता हिंडोला"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:89
+msgid "Attribute"
+msgstr "विशेषता"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:90
+msgid ""
+"It shows options with at least one property assigned e.g. it will not show Washington if it has not at least one property assigned"
+msgstr ""
+"यह दिखाता है कि विकल्प कम से कम एक असाइन किया गया गुण कॆ साथ दिखा जाएगा उदाहरण के लिए वॉशिंगटन दिखा नहीं जाएगा अगर इसके साथ कम से कम एक असाइन "
+"किया गया गुण नहीं है"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:99
+msgid "Visible number"
+msgstr "दृश्य नंबर"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:107
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:34 includes/shortcodes/class-myhome-carousel-post-shortcode.php:47
+msgid "5 "
+msgstr "5"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:114
+msgid "Total elements number"
+msgstr "सभी आधार की संख्य"
+
+#: includes/shortcodes/class-myhome-carousel-attribute-shortcode.php:117
+msgid "0 or empty = all elements"
+msgstr "0 या खाली = सभी आधार"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:18
+msgid "Client Carousel"
+msgstr "क्लाइंट कैरोसल"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:26
+msgid "Number of visible clients"
+msgstr "दृश्यमान ग्राहकों की संख्या"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:40
+msgid "Total number of clients to display"
+msgstr "प्रदर्शित करने के लिए ग्राहकों की कुल संख्या"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:47
+msgid "Display navigation dots"
+msgstr "नेविगेशन बिंदु प्रदर्शित करें"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:57
+msgid "Image Hover Effect - Grayscale"
+msgstr "छवि का मंडराना प्रभाव - ग्रेस्केल"
+
+#: includes/shortcodes/class-myhome-carousel-clients-shortcode.php:67
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:81
+msgid "Auto play"
+msgstr "ऑटो प्ले"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:39
+msgid "Properties IDs"
+msgstr "गुण के IDs"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:48
+msgid "Properties limit"
+msgstr "गुण की सीमा"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:66 includes/shortcodes/class-myhome-slider-estate-shortcode.php:44
+msgid "Sort by"
+msgstr "स्हाबें छांटो"
+
+#: includes/shortcodes/class-myhome-carousel-estate-shortcode.php:152
+msgid "Property Carousel"
+msgstr "संपत्ति कैरोसल"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:30
+msgid "Post Carousel"
+msgstr "पोस्ट कैरोसल"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:39
+msgid "Max Visible"
+msgstr "अधिकतम दिखाई"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:54
+msgid "Posts limit"
+msgstr "पोस्ट की सीमा"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:62
+msgid "Read more text"
+msgstr "और पढ़ें"
+
+#: includes/shortcodes/class-myhome-carousel-post-shortcode.php:64 includes/shortcodes/class-myhome-carousel-post-shortcode.php:103
+msgid "Read more"
+msgstr "और पढ़ें"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:18
+msgid "Testimonial Carousel"
+msgstr "प्रशंसापत्र हिंडोला"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:39
+msgid "Limit"
+msgstr "सीमा"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:50
+msgid "Cloud text"
+msgstr "क्लाउड टेक्स्ट"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:52
+msgid "Boxed"
+msgstr "बॉक्स्ड"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:59
+msgid "Color Scheme"
+msgstr "रंग का सकीम"
+
+#: includes/shortcodes/class-myhome-carousel-testimonials-shortcode.php:63
+msgid "Light"
+msgstr "हलका"
+
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:18
+msgid "Google API Key not set"
+msgstr "गूगल एपीआई कुंजी सेट नहीं है"
+
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:49
+msgid "One Property Map"
+msgstr "एक संपत्ति का मानचित्र"
+
+#: includes/shortcodes/class-myhome-estate-map-shortcode.php:56
+msgid "Estates"
+msgstr "सम्पदा"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:24 includes/shortcodes/class-myhome-heading-shortcode.php:31
+#: includes/shortcodes/class-myhome-heading-shortcode.php:40 includes/shortcodes/class-myhome-heading-shortcode.php:48
+#: includes/shortcodes/class-myhome-heading-shortcode.php:61 includes/shortcodes/class-myhome-heading-shortcode.php:74
+#: includes/shortcodes/class-myhome-heading-shortcode.php:86 includes/shortcodes/class-myhome-heading-shortcode.php:105
+#: includes/shortcodes/class-myhome-heading-shortcode.php:121 includes/shortcodes/class-myhome-heading-shortcode.php:135
+#: includes/shortcodes/class-myhome-heading-shortcode.php:147 includes/shortcodes/class-myhome-heading-shortcode.php:160
+#: includes/shortcodes/class-myhome-heading-shortcode.php:174 includes/shortcodes/class-myhome-heading-shortcode.php:187
+msgid "Heading"
+msgstr "शीर्षक"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:33
+msgid "Heading text"
+msgstr "शीर्ष का पाठ"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:42
+msgid "Subheading text"
+msgstr "उप शीर्षक का पाठ"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:50
+msgid "Heading style"
+msgstr "शीर्षक शैली"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:54
+msgid "Bottom Separator"
+msgstr "नीचा विभाजक"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:55
+msgid "Top Separator"
+msgstr "ऊँचा विभाजक"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:56
+msgid "No separator"
+msgstr "विभाजक नहीं"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:76
+msgid "Font Weight"
+msgstr "फ़ॉन्ट का भार"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:80
+msgid "Bold"
+msgstr "मोटा"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:81
+msgid "Thin"
+msgstr "पतला"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:93
+msgid "XXXL"
+msgstr "XXXL"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:94
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:95
+msgid "XL"
+msgstr "XL"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:96
+msgid "L"
+msgstr "L"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:97
+msgid "M"
+msgstr "M"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:98
+msgid "S"
+msgstr "S"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:99
+msgid "XS"
+msgstr "XS"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:100
+msgid "XXS"
+msgstr "XXS"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:107
+msgid "Tag"
+msgstr "टैग"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:111 includes/shortcodes/class-myhome-heading-shortcode.php:113
+msgid "H2"
+msgstr "H2"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:112
+msgid "H1"
+msgstr "H1"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:114
+msgid "H3"
+msgstr "H3"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:115
+msgid "H4"
+msgstr "H4"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:116
+msgid "H5"
+msgstr "H5"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:123
+msgid "Heading color"
+msgstr "मुख्य रंग"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:130 includes/shortcodes/class-myhome-heading-shortcode.php:169
+#: includes/shortcodes/class-myhome-icon-shortcode.php:129 includes/shortcodes/class-myhome-icon-shortcode.php:221
+#: includes/shortcodes/class-myhome-icon-shortcode.php:254 includes/shortcodes/class-myhome-simple-box-shortcode.php:135
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:159 includes/shortcodes/class-myhome-simple-box-shortcode.php:183
+msgid "Other"
+msgstr "अन्य"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:137
+msgid "Font family"
+msgstr "फ़ॉन्ट का परिवार"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:142
+msgid "Font body"
+msgstr "फ़ॉन्ट का शरीर"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:149
+msgid "Heading color other"
+msgstr "शीर्ष का अन्य रंग"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:162
+msgid "Subheading color"
+msgstr "उप शीर्षक का रंग"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:176
+msgid "Subheading color other"
+msgstr "उप शीर्षक का अन्य रंग य"
+
+#: includes/shortcodes/class-myhome-heading-shortcode.php:189
+msgid "Heading Background"
+msgstr "शीर्ष पृष्ठभूमि"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:24 includes/shortcodes/class-myhome-icon-shortcode.php:32
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:29
+msgid "Icon"
+msgstr "आइकन"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:35 includes/shortcodes/class-myhome-icon-shortcode.php:57
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:32 includes/shortcodes/class-myhome-simple-box-shortcode.php:54
+msgid "home"
+msgstr "नेपाली"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:36 includes/shortcodes/class-myhome-simple-box-shortcode.php:33
+msgid "air conditioner"
+msgstr "एयर कंडीशनर"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:37 includes/shortcodes/class-myhome-simple-box-shortcode.php:34
+msgid "apartment"
+msgstr "अपार्टमेंट"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:38 includes/shortcodes/class-myhome-simple-box-shortcode.php:35
+msgid "area"
+msgstr "खेत"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:39 includes/shortcodes/class-myhome-simple-box-shortcode.php:36
+msgid "bath"
+msgstr "स्नान"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:40 includes/shortcodes/class-myhome-simple-box-shortcode.php:37
+msgid "bath 2"
+msgstr "स्नान 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:41 includes/shortcodes/class-myhome-simple-box-shortcode.php:38
+msgid "bathtub"
+msgstr "बाथटब"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:42 includes/shortcodes/class-myhome-simple-box-shortcode.php:39
+msgid "bed"
+msgstr "पलंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:43 includes/shortcodes/class-myhome-simple-box-shortcode.php:40
+msgid "bulb"
+msgstr "बल्ब"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:44 includes/shortcodes/class-myhome-simple-box-shortcode.php:41
+msgid "city"
+msgstr "शहर"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:45 includes/shortcodes/class-myhome-simple-box-shortcode.php:42
+msgid "city 2"
+msgstr "शहर 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:46 includes/shortcodes/class-myhome-simple-box-shortcode.php:43
+msgid "computer"
+msgstr "कंप्यूटर"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:47 includes/shortcodes/class-myhome-simple-box-shortcode.php:44
+msgid "construction"
+msgstr "निर्माण"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:48 includes/shortcodes/class-myhome-simple-box-shortcode.php:45
+msgid "construction 2"
+msgstr "निर्माण 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:49 includes/shortcodes/class-myhome-simple-box-shortcode.php:46
+msgid "date"
+msgstr "तारीख"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:50 includes/shortcodes/class-myhome-simple-box-shortcode.php:47
+msgid "dishwasher"
+msgstr "बर्तन साफ़ करने वाला"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:51 includes/shortcodes/class-myhome-simple-box-shortcode.php:48
+msgid "door"
+msgstr "सरल"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:52 includes/shortcodes/class-myhome-simple-box-shortcode.php:49
+msgid "fence"
+msgstr "बाड़"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:53 includes/shortcodes/class-myhome-simple-box-shortcode.php:50
+msgid "fireplace"
+msgstr "चिमनी"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:54 includes/shortcodes/class-myhome-simple-box-shortcode.php:51
+msgid "full size"
+msgstr "पूर्ण आकार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:55 includes/shortcodes/class-myhome-simple-box-shortcode.php:52
+msgid "furniture"
+msgstr "फ़र्नीचर"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:56 includes/shortcodes/class-myhome-simple-box-shortcode.php:53
+msgid "garage"
+msgstr "गेराज"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:58 includes/shortcodes/class-myhome-simple-box-shortcode.php:55
+msgid "home 2"
+msgstr "घर 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:59 includes/shortcodes/class-myhome-simple-box-shortcode.php:56
+msgid "home 3"
+msgstr "घर 3"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:60 includes/shortcodes/class-myhome-simple-box-shortcode.php:57
+msgid "home 4"
+msgstr "घर 4"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:61 includes/shortcodes/class-myhome-simple-box-shortcode.php:58
+msgid "home 5"
+msgstr "घर 5"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:62 includes/shortcodes/class-myhome-simple-box-shortcode.php:59
+msgid "home 6"
+msgstr "घर 6"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:63 includes/shortcodes/class-myhome-simple-box-shortcode.php:60
+msgid "plan"
+msgstr "योजना"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:64 includes/shortcodes/class-myhome-simple-box-shortcode.php:61
+msgid "plan 2"
+msgstr "योजना 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:65 includes/shortcodes/class-myhome-simple-box-shortcode.php:62
+msgid "interface"
+msgstr "अंतराफलक"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:66 includes/shortcodes/class-myhome-simple-box-shortcode.php:63
+msgid "layers"
+msgstr "परतें"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:67 includes/shortcodes/class-myhome-simple-box-shortcode.php:64
+msgid "lift"
+msgstr "उठाना"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:68 includes/shortcodes/class-myhome-simple-box-shortcode.php:65
+msgid "location"
+msgstr "स्थान"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:69 includes/shortcodes/class-myhome-simple-box-shortcode.php:66
+msgid "location 2"
+msgstr "स्थान 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:70 includes/shortcodes/class-myhome-simple-box-shortcode.php:67
+msgid "mail"
+msgstr "thoothu"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:71 includes/shortcodes/class-myhome-simple-box-shortcode.php:68
+msgid "mail 2"
+msgstr "मेल 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:72 includes/shortcodes/class-myhome-simple-box-shortcode.php:69
+msgid "map"
+msgstr "नक़्शा"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:73 includes/shortcodes/class-myhome-simple-box-shortcode.php:70
+msgid "medical"
+msgstr "चिकित्सा"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:74 includes/shortcodes/class-myhome-simple-box-shortcode.php:71
+msgid "microwave"
+msgstr "माइक्रोवेव"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:75 includes/shortcodes/class-myhome-simple-box-shortcode.php:72
+msgid "multimedia"
+msgstr "मल्टीमीडिया"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:76 includes/shortcodes/class-myhome-simple-box-shortcode.php:73
+msgid "office"
+msgstr "दफ्तर"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:77 includes/shortcodes/class-myhome-simple-box-shortcode.php:74
+msgid "office 2"
+msgstr "दफ़्तर 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:78 includes/shortcodes/class-myhome-simple-box-shortcode.php:75
+msgid "owen"
+msgstr "ओवेन"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:79 includes/shortcodes/class-myhome-simple-box-shortcode.php:76
+msgid "parquet"
+msgstr "लकड़ी की फ़र्श"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:80 includes/shortcodes/class-myhome-simple-box-shortcode.php:77
+msgid "phone"
+msgstr "फ़ोन"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:81 includes/shortcodes/class-myhome-simple-box-shortcode.php:78
+msgid "pin"
+msgstr "पिन"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:82 includes/shortcodes/class-myhome-simple-box-shortcode.php:79
+msgid "prize"
+msgstr "पुरस्कार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:83 includes/shortcodes/class-myhome-simple-box-shortcode.php:80
+msgid "rent"
+msgstr "लगान"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:84 includes/shortcodes/class-myhome-simple-box-shortcode.php:81
+msgid "roof"
+msgstr "छत"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:85 includes/shortcodes/class-myhome-simple-box-shortcode.php:82
+msgid "school"
+msgstr "स्कूल"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:86 includes/shortcodes/class-myhome-simple-box-shortcode.php:83
+msgid "school 2"
+msgstr "स्कूल 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:87 includes/shortcodes/class-myhome-simple-box-shortcode.php:84
+msgid "shower"
+msgstr "शावर"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:88 includes/shortcodes/class-myhome-simple-box-shortcode.php:85
+msgid "sofa"
+msgstr "सोफा"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:89 includes/shortcodes/class-myhome-simple-box-shortcode.php:86
+msgid "sofa 2"
+msgstr "सोफा 2"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:90 includes/shortcodes/class-myhome-simple-box-shortcode.php:87
+msgid "sold"
+msgstr "बिक गया"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:91 includes/shortcodes/class-myhome-simple-box-shortcode.php:88
+msgid "stairs"
+msgstr "सीढ़ी"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:92 includes/shortcodes/class-myhome-simple-box-shortcode.php:89
+msgid "swimming pool"
+msgstr "तरण ताल"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:93 includes/shortcodes/class-myhome-simple-box-shortcode.php:90
+msgid "technology"
+msgstr "प्रौद्योगिकी"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:94 includes/shortcodes/class-myhome-simple-box-shortcode.php:91
+msgid "transport"
+msgstr "परिवहन"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:95 includes/shortcodes/class-myhome-simple-box-shortcode.php:92
+msgid "wall"
+msgstr "दीवार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:96 includes/shortcodes/class-myhome-simple-box-shortcode.php:93
+msgid "wardrobe"
+msgstr "अलमारी"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:97 includes/shortcodes/class-myhome-simple-box-shortcode.php:94
+msgid "wifi"
+msgstr "वाई-फ़ाई"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:98 includes/shortcodes/class-myhome-simple-box-shortcode.php:95
+msgid "window"
+msgstr "खिड़की"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:104
+msgid "Icon size (font size)"
+msgstr "आइकनन का आकार (फ़ॉन्ट आकार)"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:124
+msgid "Color"
+msgstr "रंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:136
+msgid "Color Other"
+msgstr "दूसरा रंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:146 includes/shortcodes/class-myhome-icon-shortcode.php:148
+#: includes/shortcodes/class-myhome-icon-shortcode.php:158 includes/shortcodes/class-myhome-icon-shortcode.php:175
+#: includes/shortcodes/class-myhome-icon-shortcode.php:192 includes/shortcodes/class-myhome-icon-shortcode.php:214
+#: includes/shortcodes/class-myhome-icon-shortcode.php:235 includes/shortcodes/class-myhome-icon-shortcode.php:247
+#: includes/shortcodes/class-myhome-icon-shortcode.php:268
+msgid "Shape"
+msgstr "आकार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:151
+msgid "None"
+msgstr "कोई नेईं"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:152
+msgid "Shape round"
+msgstr "गोल आकार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:153
+msgid "Shape rounded rectangle"
+msgstr "गोलाकार आयत आकार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:154
+msgid "Shape square"
+msgstr "चौकोर आकार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:160
+msgid "Padding"
+msgstr "पैडिंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:177
+msgid "Border Width"
+msgstr "बार्डर चौड़ाई"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:194
+msgid "Border Style"
+msgstr "बॉर्डर शैली"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:197
+msgid "Solid"
+msgstr "ठोस"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:198
+msgid "Dotted"
+msgstr "बिंदीदार"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:199
+msgid "Dashed"
+msgstr "डैश्ड"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:200
+msgid "Double"
+msgstr "दोहरा"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:216
+msgid "Border Color"
+msgstr "बॉर्डर का रंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:237
+msgid "Border Color Other"
+msgstr "दूसरा बॉर्डर का रंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:249
+msgid "Background Color"
+msgstr "पछौकड़ रंग"
+
+#: includes/shortcodes/class-myhome-icon-shortcode.php:270
+msgid "Background Color Other"
+msgstr "दूसरा पृष्ठभूमि का रंग"
+
+#: includes/shortcodes/class-myhome-listing-map-shortcode.php:27
+msgid "Paste your Google Maps Api Key in your theme option to display map."
+msgstr "मैप को प्रदर्शित करने के लिए अपने गूगल मानचित्र एपी कुंजी अपने विषय विकल्प में चिपकाएँ।"
+
+#: includes/shortcodes/class-myhome-listing-map-shortcode.php:98
+msgid "Property Listings Map"
+msgstr "संपत्ति लिस्टिंग का मानचित्र"
+
+#: includes/shortcodes/class-myhome-listing-shortcode.php:86
+msgid "Property Listings"
+msgstr "संपत्ति लिस्टिंग"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:21
+msgid "Service Box"
+msgstr "सेवा बॉक्स"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:35 includes/shortcodes/class-myhome-simple-box-shortcode.php:107
+msgid "Content"
+msgstr "विषय-वस्तु"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:57
+msgid "Background color"
+msgstr "पछौकड़ रंग"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:69 includes/shortcodes/class-myhome-simple-box-shortcode.php:202
+#: includes/widgets/class-myhome-infobox-widget.php:136
+msgid "Display button"
+msgstr "बटन रदर्शित करें"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:81 includes/shortcodes/class-myhome-simple-box-shortcode.php:227
+msgid "Button style"
+msgstr "बटन शैली"
+
+#: includes/shortcodes/class-myhome-service-shortcode.php:95 includes/shortcodes/class-myhome-simple-box-shortcode.php:213
+msgid "Button text"
+msgstr "बटन पाठ"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:21
+msgid "Simple Box"
+msgstr "साधारण बॉक्स"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:118
+msgid "Icon Left"
+msgstr "आइकन बायां"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:119
+msgid "Icon Center"
+msgstr "आइकन बीच मेंर"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:120
+msgid "Icon Right"
+msgstr "आइकन दाहिने"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:121
+msgid "Big Icon Left"
+msgstr "बड़ा आइकन बायां"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:122
+msgid "Big Icon Center"
+msgstr "बड़ा आइकन बीच में"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:123
+msgid "Big Icon Right"
+msgstr "बड़ा आइकन दाहिने"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:130
+msgid "Icon Color"
+msgstr "आइकन का रंग"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:142
+msgid "Icon Color Other"
+msgstr "आइकन का दूसरा रंग"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:154
+msgid "Title Color"
+msgstr "शीर्षक रंग"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:166
+msgid "Title Color Other"
+msgstr "शीर्षक का दूसरा रंग"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:178
+msgid "Text Color"
+msgstr "इबारत-रंग"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:190
+msgid "Text Color Other"
+msgstr "पाठ का दूसरा रंग"
+
+#: includes/shortcodes/class-myhome-simple-box-shortcode.php:247
+msgid "Button link"
+msgstr "बटन लिंक"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:31
+msgid "Slider Style"
+msgstr "स्लाइडर शैली"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:34
+msgid "Card"
+msgstr "कार्ड"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:35
+msgid "Card short"
+msgstr "लघु कार्ड"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:58
+msgid "Estates limit"
+msgstr "सम्पदे का सीमा"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:67
+msgid "Narrow estates to single agent"
+msgstr "सम्पदाओं को एकल एजेंट के लिए सिकुड़ें"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:76
+msgid "Narrow estates to featured only"
+msgstr "सम्पदाओं को केवल विशेष रूप के लिए सिकुड़ें"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:85
+msgid "Narrow estates to IDs:"
+msgstr "सम्पदाओं को आईडी के लिए सिकुड़ें:"
+
+#: includes/shortcodes/class-myhome-slider-estate-shortcode.php:132
+msgid "Properties Slider"
+msgstr "गुण स्लाइडर"
+
+#: includes/shortcodes/class-myhome-slider-shortcode.php:24
+msgid "Select slider"
+msgstr "स्लाइडर चुनें करें"
+
+#: includes/shortcodes/class-myhome-slider-shortcode.php:31
+msgid "Revolution Slider"
+msgstr "क्रांति स्लाइडर"
+
+#: includes/shortcodes/class-myhome-slider-shortcode.php:45
+msgid "Slider"
+msgstr "स्लाइडर"
+
+#: includes/widgets/class-myhome-facebook-widget.php:26
+msgid "Display facebook page"
+msgstr "फेसबुक पृष् प्रदर्शन करें"
+
+#: includes/widgets/class-myhome-facebook-widget.php:28
+msgid "MH Facebook"
+msgstr "MH फेसबुक"
+
+#: includes/widgets/class-myhome-facebook-widget.php:61 includes/widgets/class-myhome-facebook-widget.php:186
+#: includes/widgets/class-myhome-social-icons-widget.php:65 includes/widgets/class-myhome-social-icons-widget.php:147
+#: includes/widgets/class-myhome-twitter-widget.php:54 includes/widgets/class-myhome-twitter-widget.php:119
+#: includes/widgets/class-myhome-twitter-widget.php:191
+msgid "MyHome - Widgets"
+msgstr "MyHome - विजेट"
+
+#: includes/widgets/class-myhome-facebook-widget.php:62 includes/widgets/class-myhome-facebook-widget.php:187
+msgid "Facebook widget"
+msgstr "फेसबुक विजेट"
+
+#: includes/widgets/class-myhome-facebook-widget.php:130 includes/widgets/class-myhome-infobox-widget.php:119
+#: includes/widgets/class-myhome-social-icons-widget.php:114 includes/widgets/class-myhome-twitter-widget.php:125
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: includes/widgets/class-myhome-facebook-widget.php:134
+msgid "Page (url):"
+msgstr "पृष्ठ (url):"
+
+#: includes/widgets/class-myhome-facebook-widget.php:138
+msgid "Page height:"
+msgstr "पृष्ठ ऊँचाई:"
+
+#: includes/widgets/class-myhome-facebook-widget.php:143
+msgid "Use small header"
+msgstr "छोटे शीर्षक का उपयोग करें"
+
+#: includes/widgets/class-myhome-facebook-widget.php:147
+msgid "Hide cover photo"
+msgstr "कवर फ़ोटो जोड़ें"
+
+#: includes/widgets/class-myhome-facebook-widget.php:151
+msgid "Display faces of friend"
+msgstr "दोस्त के चेहरे प्रदर्शित करें"
+
+#: includes/widgets/class-myhome-facebook-widget.php:155
+msgid "Display timeline"
+msgstr "प्रदर्शन समयरेखा"
+
+#: includes/widgets/class-myhome-infobox-widget.php:26
+msgid "Display image and text"
+msgstr "छवि और पाठ प्रदर्शन करना"
+
+#: includes/widgets/class-myhome-infobox-widget.php:28
+msgid "MH Infobox"
+msgstr "MH इन्फोबॉक्स"
+
+#: includes/widgets/class-myhome-infobox-widget.php:123
+msgid "Image url ( jpg / png / gif ):"
+msgstr "छवि url (jpg / png / gif):"
+
+#: includes/widgets/class-myhome-infobox-widget.php:127
+msgid "Link ( url: ):"
+msgstr "लिंक (url:):"
+
+#: includes/widgets/class-myhome-infobox-widget.php:131
+msgid "Text:"
+msgstr "इबारत:"
+
+#: includes/widgets/class-myhome-infobox-widget.php:139
+msgid "Button text:"
+msgstr "बटन पाठ:"
+
+#: includes/widgets/class-myhome-social-icons-widget.php:40
+msgid "Display social icons"
+msgstr "सामाजिक आइकॉन्स प्रदर्शित करें"
+
+#: includes/widgets/class-myhome-social-icons-widget.php:42
+msgid "MH Social Icons"
+msgstr "MH सामाजिक आइकॉन्स"
+
+#: includes/widgets/class-myhome-social-icons-widget.php:66 includes/widgets/class-myhome-social-icons-widget.php:148
+msgid "Icons widget"
+msgstr "आइकॉन विजेट"
+
+#: includes/widgets/class-myhome-twitter-widget.php:26
+msgid "Display latest tweets"
+msgstr "नवीनतम ट्वीट्स प्रदर्शित करें"
+
+#: includes/widgets/class-myhome-twitter-widget.php:28
+msgid "MH Twitter"
+msgstr "MH ट्विटर"
+
+#: includes/widgets/class-myhome-twitter-widget.php:55 includes/widgets/class-myhome-twitter-widget.php:120
+#: includes/widgets/class-myhome-twitter-widget.php:192
+msgid "Twitter widget"
+msgstr " ट्विटर विजेट"
+
+#: includes/widgets/class-myhome-twitter-widget.php:129
+msgid "Twitter Handle:"
+msgstr " ट्विटर हैंडल:"
+
+#: includes/widgets/class-myhome-twitter-widget.php:133
+msgid "Consumer Key (API Key):"
+msgstr "उपभोक्ता की कुंजी (API कुंजी):"
+
+#: includes/widgets/class-myhome-twitter-widget.php:137
+msgid "\tConsumer Secret (API Secret):"
+msgstr "\tउपभोक्ता गुप्त (API गुप्त):"
+
+#: includes/widgets/class-myhome-twitter-widget.php:141
+msgid "Access Token:"
+msgstr "एक्सेस टोकन:"
+
+#: includes/widgets/class-myhome-twitter-widget.php:145
+msgid "Access Token Secret:"
+msgstr "टोकन गुप्त पहुँचना:"
+
+#: includes/widgets/class-myhome-twitter-widget.php:149
+msgid "Cache duration (minutes):"
+msgstr "कैश अवधि (मिनट):"
+
+#: includes/widgets/class-myhome-twitter-widget.php:153
+msgid "Number of displayed tweets"
+msgstr "प्रदर्शित ट्वीट्स का नंबर"
+
+#: includes/widgets/class-myhome-twitter-widget.php:158
+msgid "Show retweets"
+msgstr "रीट्वीट्स दिखाना"
+
+#. Plugin URI of the plugin/theme
+msgid "http://tangibledesign.net"
+msgstr "http://tangibledesign.net"
